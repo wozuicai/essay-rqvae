@@ -1,0 +1,19 @@
+{
+  "batch_size": 2048,
+  "beta_commit": 0.25,
+  "codebook_size": 256,
+  "created_at": "2026-07-15 06:40:23 UTC",
+  "ema_decay": 0.99,
+  "epochs": 8,
+  "hidden_shape": [
+    52752,
+    33,
+    4096
+  ],
+  "latent_dim": 256,
+  "normalize": true,
+  "num_codebooks": 3,
+  "seed": 42,
+  "train_embedding_count": 1479654,
+  "train_variant_count": 44838
+}

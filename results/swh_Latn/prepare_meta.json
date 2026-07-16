@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "test": 1319,
+    "train": 7473
+  },
+  "created_at": "2026-07-14 13:34:22 UTC",
+  "lang": "swh_Latn",
+  "lang_name": "Swahili",
+  "outputs": {
+    "source_jsonl": "/root/gsm8k_single_language_experiment/swh_Latn/source.jsonl",
+    "source_parquet": "/root/gsm8k_single_language_experiment/swh_Latn/source.parquet"
+  },
+  "source_dir": "/root/gsm8k_nllb_direct",
+  "total": 8792
+}

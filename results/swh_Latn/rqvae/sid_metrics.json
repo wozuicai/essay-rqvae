@@ -1,0 +1,1333 @@
+{
+  "by_layer": [
+    {
+      "layer": 0,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.00022507862236380397,
+          "level": 0,
+          "perplexity": 1.0002251039544574,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.93359375,
+          "dead_codes": 239,
+          "entropy": 0.2650623112587924,
+          "level": 1,
+          "perplexity": 1.3035121967336822,
+          "usage_ratio": 0.06640625,
+          "used_codes": 17
+        },
+        {
+          "dead_code_ratio": 0.84765625,
+          "dead_codes": 217,
+          "entropy": 1.0193283469066832,
+          "level": 2,
+          "perplexity": 2.771332764501559,
+          "usage_ratio": 0.15234375,
+          "used_codes": 39
+        }
+      ],
+      "mse": 2.252780342254814e-05,
+      "relative_l2": 0.28030669490315535,
+      "residual_curve": [
+        9.301369373614971,
+        1.6123615411611705,
+        0.5465221175780663,
+        0.2016479063492555
+      ]
+    },
+    {
+      "layer": 1,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.98828125,
+          "dead_codes": 253,
+          "entropy": 0.8646143861774755,
+          "level": 1,
+          "perplexity": 2.374090427358436,
+          "usage_ratio": 0.01171875,
+          "used_codes": 3
+        },
+        {
+          "dead_code_ratio": 0.91796875,
+          "dead_codes": 235,
+          "entropy": 0.3312191655593972,
+          "level": 2,
+          "perplexity": 1.3926649830633873,
+          "usage_ratio": 0.08203125,
+          "used_codes": 21
+        }
+      ],
+      "mse": 5.965863966346601e-06,
+      "relative_l2": 0.14957281615396395,
+      "residual_curve": [
+        9.464502628032978,
+        0.7297085844553434,
+        0.33920125319407535,
+        0.26358429285196155
+      ]
+    },
+    {
+      "layer": 2,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.9765625,
+          "dead_codes": 250,
+          "entropy": 0.9036016004910146,
+          "level": 1,
+          "perplexity": 2.4684775905014162,
+          "usage_ratio": 0.0234375,
+          "used_codes": 6
+        },
+        {
+          "dead_code_ratio": 0.88671875,
+          "dead_codes": 227,
+          "entropy": 1.3314818120967886,
+          "level": 2,
+          "perplexity": 3.786650336595447,
+          "usage_ratio": 0.11328125,
+          "used_codes": 29
+        }
+      ],
+      "mse": 8.58207093142165e-06,
+      "relative_l2": 0.18016323104640877,
+      "residual_curve": [
+        9.459685178903433,
+        0.7218465484105624,
+        0.412693032851586,
+        0.32455453964380115
+      ]
+    },
+    {
+      "layer": 3,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.94921875,
+          "dead_codes": 243,
+          "entropy": 1.567376761449847,
+          "level": 1,
+          "perplexity": 4.794055732672073,
+          "usage_ratio": 0.05078125,
+          "used_codes": 13
+        },
+        {
+          "dead_code_ratio": 0.74609375,
+          "dead_codes": 191,
+          "entropy": 2.4315031851334816,
+          "level": 2,
+          "perplexity": 11.375969422178954,
+          "usage_ratio": 0.25390625,
+          "used_codes": 65
+        }
+      ],
+      "mse": 1.8482808190916826e-05,
+      "relative_l2": 0.2658115962002181,
+      "residual_curve": [
+        9.499501815209022,
+        0.9347724547752967,
+        0.5192343730192918,
+        0.4898521785552685
+      ]
+    },
+    {
+      "layer": 4,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.9296875,
+          "dead_codes": 238,
+          "entropy": 1.4564277713867755,
+          "level": 1,
+          "perplexity": 4.2906050976069965,
+          "usage_ratio": 0.0703125,
+          "used_codes": 18
+        },
+        {
+          "dead_code_ratio": 0.7890625,
+          "dead_codes": 202,
+          "entropy": 2.3760469260403614,
+          "level": 2,
+          "perplexity": 10.762274595643998,
+          "usage_ratio": 0.2109375,
+          "used_codes": 54
+        }
+      ],
+      "mse": 1.624757560997668e-05,
+      "relative_l2": 0.25294546694837994,
+      "residual_curve": [
+        9.50723699422983,
+        0.8487112934772785,
+        0.5070992983304538,
+        0.46915566004239595
+      ]
+    },
+    {
+      "layer": 5,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.9140625,
+          "dead_codes": 234,
+          "entropy": 1.679431518582583,
+          "level": 1,
+          "perplexity": 5.362506619090386,
+          "usage_ratio": 0.0859375,
+          "used_codes": 22
+        },
+        {
+          "dead_code_ratio": 0.734375,
+          "dead_codes": 188,
+          "entropy": 2.4440139661595843,
+          "level": 2,
+          "perplexity": 11.51918569025574,
+          "usage_ratio": 0.265625,
+          "used_codes": 68
+        }
+      ],
+      "mse": 1.8843614476799856e-05,
+      "relative_l2": 0.271095826620762,
+      "residual_curve": [
+        9.511975361750675,
+        0.8601865309935349,
+        0.5264262832128085,
+        0.49382798488323504
+      ]
+    },
+    {
+      "layer": 6,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.90234375,
+          "dead_codes": 231,
+          "entropy": 1.6031658248825589,
+          "level": 1,
+          "perplexity": 4.968737704654793,
+          "usage_ratio": 0.09765625,
+          "used_codes": 25
+        },
+        {
+          "dead_code_ratio": 0.671875,
+          "dead_codes": 172,
+          "entropy": 2.766050522711908,
+          "level": 2,
+          "perplexity": 15.895730047874428,
+          "usage_ratio": 0.328125,
+          "used_codes": 84
+        }
+      ],
+      "mse": 2.3087592694364898e-05,
+      "relative_l2": 0.3009361172214146,
+      "residual_curve": [
+        9.521639237037071,
+        0.9142505709941571,
+        0.6154008828676664,
+        0.5792919122255765
+      ]
+    },
+    {
+      "layer": 7,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.83984375,
+          "dead_codes": 215,
+          "entropy": 2.0215731701159654,
+          "level": 1,
+          "perplexity": 7.550193334230822,
+          "usage_ratio": 0.16015625,
+          "used_codes": 41
+        },
+        {
+          "dead_code_ratio": 0.55859375,
+          "dead_codes": 143,
+          "entropy": 3.854502599878096,
+          "level": 2,
+          "perplexity": 47.20513126282466,
+          "usage_ratio": 0.44140625,
+          "used_codes": 113
+        }
+      ],
+      "mse": 4.12019561724226e-05,
+      "relative_l2": 0.4059715976778724,
+      "residual_curve": [
+        9.559075355529785,
+        1.1843561484263494,
+        0.915944502903865,
+        0.8563648691544166
+      ]
+    },
+    {
+      "layer": 8,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.78515625,
+          "dead_codes": 201,
+          "entropy": 2.4365921910788155,
+          "level": 1,
+          "perplexity": 11.434009355726097,
+          "usage_ratio": 0.21484375,
+          "used_codes": 55
+        },
+        {
+          "dead_code_ratio": 0.48828125,
+          "dead_codes": 125,
+          "entropy": 4.072290410438568,
+          "level": 2,
+          "perplexity": 58.69123578192218,
+          "usage_ratio": 0.51171875,
+          "used_codes": 131
+        }
+      ],
+      "mse": 5.0593571483745405e-05,
+      "relative_l2": 0.4507764793722276,
+      "residual_curve": [
+        9.581381651071402,
+        1.3543385358957143,
+        1.078103413948646,
+        1.003699243068695
+      ]
+    },
+    {
+      "layer": 9,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.78515625,
+          "dead_codes": 201,
+          "entropy": 2.8635947384506957,
+          "level": 1,
+          "perplexity": 17.52440951436209,
+          "usage_ratio": 0.21484375,
+          "used_codes": 55
+        },
+        {
+          "dead_code_ratio": 0.4375,
+          "dead_codes": 112,
+          "entropy": 4.130343002106082,
+          "level": 2,
+          "perplexity": 62.19925375132762,
+          "usage_ratio": 0.5625,
+          "used_codes": 144
+        }
+      ],
+      "mse": 5.447094899020052e-05,
+      "relative_l2": 0.4684347349981991,
+      "residual_curve": [
+        9.592529296875,
+        1.3732510713430552,
+        1.100259698354281,
+        1.0284549181277935
+      ]
+    },
+    {
+      "layer": 10,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.76953125,
+          "dead_codes": 197,
+          "entropy": 3.0677556627420572,
+          "level": 1,
+          "perplexity": 21.49360959347424,
+          "usage_ratio": 0.23046875,
+          "used_codes": 59
+        },
+        {
+          "dead_code_ratio": 0.42578125,
+          "dead_codes": 109,
+          "entropy": 4.182471596130428,
+          "level": 2,
+          "perplexity": 65.52761102151602,
+          "usage_ratio": 0.57421875,
+          "used_codes": 147
+        }
+      ],
+      "mse": 5.5991380407949776e-05,
+      "relative_l2": 0.4746633754703613,
+      "residual_curve": [
+        9.605055442223183,
+        1.3890877870412974,
+        1.1197602382073035,
+        1.0425623747018666
+      ]
+    },
+    {
+      "layer": 11,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.80078125,
+          "dead_codes": 205,
+          "entropy": 2.9649913925835087,
+          "level": 1,
+          "perplexity": 19.394536303901276,
+          "usage_ratio": 0.19921875,
+          "used_codes": 51
+        },
+        {
+          "dead_code_ratio": 0.45703125,
+          "dead_codes": 117,
+          "entropy": 3.924475030751787,
+          "level": 2,
+          "perplexity": 50.62649372911874,
+          "usage_ratio": 0.54296875,
+          "used_codes": 139
+        }
+      ],
+      "mse": 5.4842928322221355e-05,
+      "relative_l2": 0.4700677540217669,
+      "residual_curve": [
+        9.609281393197866,
+        1.3652136509235089,
+        1.0917994792644794,
+        1.0043035608071547
+      ]
+    },
+    {
+      "layer": 12,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.75390625,
+          "dead_codes": 193,
+          "entropy": 3.1705171768471305,
+          "level": 1,
+          "perplexity": 23.819800220591624,
+          "usage_ratio": 0.24609375,
+          "used_codes": 63
+        },
+        {
+          "dead_code_ratio": 0.40234375,
+          "dead_codes": 103,
+          "entropy": 4.261134127647354,
+          "level": 2,
+          "perplexity": 70.89033657095352,
+          "usage_ratio": 0.59765625,
+          "used_codes": 153
+        }
+      ],
+      "mse": 5.959523268312912e-05,
+      "relative_l2": 0.490080750418823,
+      "residual_curve": [
+        9.624412389901968,
+        1.434609706585224,
+        1.1532973326169527,
+        1.0680207564280584
+      ]
+    },
+    {
+      "layer": 13,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.73828125,
+          "dead_codes": 189,
+          "entropy": 3.22453968031772,
+          "level": 1,
+          "perplexity": 25.141998135094248,
+          "usage_ratio": 0.26171875,
+          "used_codes": 67
+        },
+        {
+          "dead_code_ratio": 0.359375,
+          "dead_codes": 92,
+          "entropy": 4.273655927678582,
+          "level": 2,
+          "perplexity": 71.78359210170282,
+          "usage_ratio": 0.640625,
+          "used_codes": 164
+        }
+      ],
+      "mse": 6.132675710503969e-05,
+      "relative_l2": 0.49643629292195085,
+      "residual_curve": [
+        9.623126323406513,
+        1.490680190233084,
+        1.184434514779311,
+        1.0947586756486158
+      ]
+    },
+    {
+      "layer": 14,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.73828125,
+          "dead_codes": 189,
+          "entropy": 3.193102145213383,
+          "level": 1,
+          "perplexity": 24.363890660439875,
+          "usage_ratio": 0.26171875,
+          "used_codes": 67
+        },
+        {
+          "dead_code_ratio": 0.33203125,
+          "dead_codes": 85,
+          "entropy": 4.31877671327036,
+          "level": 2,
+          "perplexity": 75.09670727515645,
+          "usage_ratio": 0.66796875,
+          "used_codes": 171
+        }
+      ],
+      "mse": 6.331892275642112e-05,
+      "relative_l2": 0.5040020975952334,
+      "residual_curve": [
+        9.625682757450985,
+        1.5426810062848604,
+        1.2113508994762714,
+        1.1188642611870399
+      ]
+    },
+    {
+      "layer": 15,
+      "levels": [
+        {
+          "dead_code_ratio": 0.99609375,
+          "dead_codes": 255,
+          "entropy": -0.0,
+          "level": 0,
+          "perplexity": 1.0,
+          "usage_ratio": 0.00390625,
+          "used_codes": 1
+        },
+        {
+          "dead_code_ratio": 0.7265625,
+          "dead_codes": 186,
+          "entropy": 2.9668691795353226,
+          "level": 1,
+          "perplexity": 19.430989325902388,
+          "usage_ratio": 0.2734375,
+          "used_codes": 70
+        },
+        {
+          "dead_code_ratio": 0.32421875,
+          "dead_codes": 83,
+          "entropy": 4.35797728945766,
+          "level": 2,
+          "perplexity": 78.09900287336407,
+          "usage_ratio": 0.67578125,
+          "used_codes": 173
+        }
+      ],
+      "mse": 6.438072399095871e-05,
+      "relative_l2": 0.5071054122503649,
+      "residual_curve": [
+        9.640150436988243,
+        1.576801584317134,
+        1.240083015882052,
+        1.135343542465797
+      ]
+    },
+    {
+      "layer": 16,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.00022507862236380397,
+          "level": 0,
+          "perplexity": 1.0002251039544574,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.72265625,
+          "dead_codes": 185,
+          "entropy": 2.9845898639467325,
+          "level": 1,
+          "perplexity": 19.778388742367078,
+          "usage_ratio": 0.27734375,
+          "used_codes": 71
+        },
+        {
+          "dead_code_ratio": 0.28515625,
+          "dead_codes": 73,
+          "entropy": 4.450476077713301,
+          "level": 2,
+          "perplexity": 85.66771878711113,
+          "usage_ratio": 0.71484375,
+          "used_codes": 183
+        }
+      ],
+      "mse": 7.184528939771696e-05,
+      "relative_l2": 0.5353475379191784,
+      "residual_curve": [
+        9.650718395526592,
+        1.7577116397710948,
+        1.350385803442735,
+        1.2358234387177687
+      ]
+    },
+    {
+      "layer": 17,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.001975829004814458,
+          "level": 0,
+          "perplexity": 1.001977782241151,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.75,
+          "dead_codes": 192,
+          "entropy": 2.693449940865178,
+          "level": 1,
+          "perplexity": 14.782587100998425,
+          "usage_ratio": 0.25,
+          "used_codes": 64
+        },
+        {
+          "dead_code_ratio": 0.22265625,
+          "dead_codes": 57,
+          "entropy": 4.595858494225964,
+          "level": 2,
+          "perplexity": 99.0731527786539,
+          "usage_ratio": 0.77734375,
+          "used_codes": 199
+        }
+      ],
+      "mse": 7.276990091327034e-05,
+      "relative_l2": 0.5371884619932953,
+      "residual_curve": [
+        9.66558918586144,
+        1.9318429139944224,
+        1.4609578114289503,
+        1.3271348201311552
+      ]
+    },
+    {
+      "layer": 18,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.2775100957260783,
+          "level": 0,
+          "perplexity": 1.3198394438139898,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.65625,
+          "dead_codes": 168,
+          "entropy": 2.523743487317188,
+          "level": 1,
+          "perplexity": 12.475210151623148,
+          "usage_ratio": 0.34375,
+          "used_codes": 88
+        },
+        {
+          "dead_code_ratio": 0.21484375,
+          "dead_codes": 55,
+          "entropy": 4.672510502698346,
+          "level": 2,
+          "perplexity": 106.9659439221523,
+          "usage_ratio": 0.78515625,
+          "used_codes": 201
+        }
+      ],
+      "mse": 6.925373080827484e-05,
+      "relative_l2": 0.522369801293079,
+      "residual_curve": [
+        10.111035200265738,
+        2.084997452222384,
+        1.613722140972431,
+        1.4506514439216027
+      ]
+    },
+    {
+      "layer": 19,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.07983608549851713,
+          "level": 0,
+          "perplexity": 1.0831095157673616,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.70703125,
+          "dead_codes": 181,
+          "entropy": 2.360001354655243,
+          "level": 1,
+          "perplexity": 10.59096579953141,
+          "usage_ratio": 0.29296875,
+          "used_codes": 75
+        },
+        {
+          "dead_code_ratio": 0.203125,
+          "dead_codes": 52,
+          "entropy": 4.637971085553595,
+          "level": 2,
+          "perplexity": 103.33447793639884,
+          "usage_ratio": 0.796875,
+          "used_codes": 204
+        }
+      ],
+      "mse": 6.687816165778577e-05,
+      "relative_l2": 0.5107197042736531,
+      "residual_curve": [
+        10.161525873037485,
+        2.0459719804617076,
+        1.5724235864786,
+        1.3910562350199773
+      ]
+    },
+    {
+      "layer": 20,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.030293959539448308,
+          "level": 0,
+          "perplexity": 1.0307574904200303,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.6875,
+          "dead_codes": 176,
+          "entropy": 2.45090332986445,
+          "level": 1,
+          "perplexity": 11.598819548391983,
+          "usage_ratio": 0.3125,
+          "used_codes": 80
+        },
+        {
+          "dead_code_ratio": 0.19140625,
+          "dead_codes": 49,
+          "entropy": 4.753873583035341,
+          "level": 2,
+          "perplexity": 116.0328781222385,
+          "usage_ratio": 0.80859375,
+          "used_codes": 207
+        }
+      ],
+      "mse": 6.781064916242785e-05,
+      "relative_l2": 0.5149406639055154,
+      "residual_curve": [
+        10.16345134148231,
+        1.9842894352399385,
+        1.4863648139513457,
+        1.3147627023550181
+      ]
+    },
+    {
+      "layer": 21,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.019953390679750726,
+          "level": 0,
+          "perplexity": 1.02015379024392,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.73828125,
+          "dead_codes": 189,
+          "entropy": 2.479259993998298,
+          "level": 1,
+          "perplexity": 11.932431079276867,
+          "usage_ratio": 0.26171875,
+          "used_codes": 67
+        },
+        {
+          "dead_code_ratio": 0.171875,
+          "dead_codes": 44,
+          "entropy": 4.74801352185886,
+          "level": 2,
+          "perplexity": 115.35490677488951,
+          "usage_ratio": 0.828125,
+          "used_codes": 212
+        }
+      ],
+      "mse": 6.098010228968838e-05,
+      "relative_l2": 0.48627457345367237,
+      "residual_curve": [
+        10.17227026132437,
+        2.0051924998943624,
+        1.4410258531570435,
+        1.2695460044420683
+      ]
+    },
+    {
+      "layer": 22,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.01036761796681699,
+          "level": 0,
+          "perplexity": 1.0104215479319283,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.73046875,
+          "dead_codes": 187,
+          "entropy": 2.7099534359435338,
+          "level": 1,
+          "perplexity": 15.02857570713475,
+          "usage_ratio": 0.26953125,
+          "used_codes": 69
+        },
+        {
+          "dead_code_ratio": 0.1875,
+          "dead_codes": 48,
+          "entropy": 4.669855295531473,
+          "level": 2,
+          "perplexity": 106.68230390937771,
+          "usage_ratio": 0.8125,
+          "used_codes": 208
+        }
+      ],
+      "mse": 6.0029995924583305e-05,
+      "relative_l2": 0.48367201735982757,
+      "residual_curve": [
+        10.210711625906137,
+        2.0794493968670187,
+        1.4591245284447303,
+        1.2790365677613478
+      ]
+    },
+    {
+      "layer": 23,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.007808694476881469,
+          "level": 0,
+          "perplexity": 1.0078392618435394,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.7578125,
+          "dead_codes": 194,
+          "entropy": 2.201890875897892,
+          "level": 1,
+          "perplexity": 9.04209482418159,
+          "usage_ratio": 0.2421875,
+          "used_codes": 62
+        },
+        {
+          "dead_code_ratio": 0.16796875,
+          "dead_codes": 43,
+          "entropy": 4.527195493738078,
+          "level": 2,
+          "perplexity": 92.49878356082067,
+          "usage_ratio": 0.83203125,
+          "used_codes": 213
+        }
+      ],
+      "mse": 4.537996528390541e-05,
+      "relative_l2": 0.41326971635480053,
+      "residual_curve": [
+        10.15656852722168,
+        1.7544151086073656,
+        1.1990915628579946,
+        1.042913822027353
+      ]
+    },
+    {
+      "layer": 24,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.00884718322172133,
+          "level": 0,
+          "perplexity": 1.0088864352183424,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.7890625,
+          "dead_codes": 202,
+          "entropy": 2.670672058616924,
+          "level": 1,
+          "perplexity": 14.449676960256019,
+          "usage_ratio": 0.2109375,
+          "used_codes": 54
+        },
+        {
+          "dead_code_ratio": 0.16015625,
+          "dead_codes": 41,
+          "entropy": 4.5009179805139885,
+          "level": 2,
+          "perplexity": 90.09980321277753,
+          "usage_ratio": 0.83984375,
+          "used_codes": 215
+        }
+      ],
+      "mse": 5.0240321424392846e-05,
+      "relative_l2": 0.4390123602763284,
+      "residual_curve": [
+        10.189644446739784,
+        1.933986260340764,
+        1.3464112281799316,
+        1.16587560910445
+      ]
+    },
+    {
+      "layer": 25,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.005932393096750384,
+          "level": 0,
+          "perplexity": 1.0059500245890822,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.8203125,
+          "dead_codes": 210,
+          "entropy": 2.4243990007161207,
+          "level": 1,
+          "perplexity": 11.295438828266919,
+          "usage_ratio": 0.1796875,
+          "used_codes": 46
+        },
+        {
+          "dead_code_ratio": 0.171875,
+          "dead_codes": 44,
+          "entropy": 4.398938542354492,
+          "level": 2,
+          "perplexity": 81.36445788649436,
+          "usage_ratio": 0.828125,
+          "used_codes": 212
+        }
+      ],
+      "mse": 4.728286181629373e-05,
+      "relative_l2": 0.42589330051319146,
+      "residual_curve": [
+        10.17233943939209,
+        1.8702468596971953,
+        1.2800904420705943,
+        1.0960153891490056
+      ]
+    },
+    {
+      "layer": 26,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.007677309617068774,
+          "level": 0,
+          "perplexity": 1.0077068557216788,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.8125,
+          "dead_codes": 208,
+          "entropy": 2.293216948109899,
+          "level": 1,
+          "perplexity": 9.906755994773915,
+          "usage_ratio": 0.1875,
+          "used_codes": 48
+        },
+        {
+          "dead_code_ratio": 0.15625,
+          "dead_codes": 40,
+          "entropy": 4.3768733515534075,
+          "level": 2,
+          "perplexity": 79.58879778109029,
+          "usage_ratio": 0.84375,
+          "used_codes": 216
+        }
+      ],
+      "mse": 4.4558296691369825e-05,
+      "relative_l2": 0.4118502555849482,
+      "residual_curve": [
+        10.171296119689941,
+        1.8270272750120897,
+        1.2550409115277803,
+        1.0714110686228826
+      ]
+    },
+    {
+      "layer": 27,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.0509287496523453,
+          "level": 0,
+          "perplexity": 1.0522479175822665,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.85546875,
+          "dead_codes": 219,
+          "entropy": 1.782876269106866,
+          "level": 1,
+          "perplexity": 5.946936833575654,
+          "usage_ratio": 0.14453125,
+          "used_codes": 37
+        },
+        {
+          "dead_code_ratio": 0.19140625,
+          "dead_codes": 49,
+          "entropy": 4.189579821695493,
+          "level": 2,
+          "perplexity": 65.99505544338469,
+          "usage_ratio": 0.80859375,
+          "used_codes": 207
+        }
+      ],
+      "mse": 3.0750255808030834e-05,
+      "relative_l2": 0.32935759729785125,
+      "residual_curve": [
+        10.128448779766376,
+        1.6124231356840868,
+        0.9351971745491028,
+        0.810446771291586
+      ]
+    },
+    {
+      "layer": 28,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.01111314945991471,
+          "level": 0,
+          "perplexity": 1.0111751298918534,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.83203125,
+          "dead_codes": 213,
+          "entropy": 1.8488750899751794,
+          "level": 1,
+          "perplexity": 6.3526693202859414,
+          "usage_ratio": 0.16796875,
+          "used_codes": 43
+        },
+        {
+          "dead_code_ratio": 0.17578125,
+          "dead_codes": 45,
+          "entropy": 4.39726109551342,
+          "level": 2,
+          "perplexity": 81.2280877424476,
+          "usage_ratio": 0.82421875,
+          "used_codes": 211
+        }
+      ],
+      "mse": 4.783074558233181e-05,
+      "relative_l2": 0.42401685358937813,
+      "residual_curve": [
+        10.17988109588623,
+        1.83745604294997,
+        1.2482644686332116,
+        1.075865204517658
+      ]
+    },
+    {
+      "layer": 29,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.011971896186360645,
+          "level": 0,
+          "perplexity": 1.0120438461747578,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.828125,
+          "dead_codes": 212,
+          "entropy": 1.4043589696802803,
+          "level": 1,
+          "perplexity": 4.072915042236111,
+          "usage_ratio": 0.171875,
+          "used_codes": 44
+        },
+        {
+          "dead_code_ratio": 0.2421875,
+          "dead_codes": 62,
+          "entropy": 4.213106185050247,
+          "level": 2,
+          "perplexity": 67.56608696474802,
+          "usage_ratio": 0.7578125,
+          "used_codes": 194
+        }
+      ],
+      "mse": 4.567190793461246e-05,
+      "relative_l2": 0.4143133976259194,
+      "residual_curve": [
+        10.166466346153847,
+        1.8286842933067908,
+        1.254982407276447,
+        1.061519136795631
+      ]
+    },
+    {
+      "layer": 30,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.012819684952145236,
+          "level": 0,
+          "perplexity": 1.0129022093819562,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.86328125,
+          "dead_codes": 221,
+          "entropy": 1.5169998585153752,
+          "level": 1,
+          "perplexity": 4.558528429048789,
+          "usage_ratio": 0.13671875,
+          "used_codes": 35
+        },
+        {
+          "dead_code_ratio": 0.25390625,
+          "dead_codes": 65,
+          "entropy": 4.139279701606162,
+          "level": 2,
+          "perplexity": 62.757600965859204,
+          "usage_ratio": 0.74609375,
+          "used_codes": 191
+        }
+      ],
+      "mse": 4.8173180492332134e-05,
+      "relative_l2": 0.42833299437254746,
+      "residual_curve": [
+        10.140559636629545,
+        1.8048406747671275,
+        1.2052732155873225,
+        1.0218950234926665
+      ]
+    },
+    {
+      "layer": 31,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.005794989120840167,
+          "level": 0,
+          "perplexity": 1.0058118125517959,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.9296875,
+          "dead_codes": 238,
+          "entropy": 1.3334917466594862,
+          "level": 1,
+          "perplexity": 3.7942689098358415,
+          "usage_ratio": 0.0703125,
+          "used_codes": 18
+        },
+        {
+          "dead_code_ratio": 0.3203125,
+          "dead_codes": 82,
+          "entropy": 3.9978285551521715,
+          "level": 2,
+          "perplexity": 54.479721788289,
+          "usage_ratio": 0.6796875,
+          "used_codes": 174
+        }
+      ],
+      "mse": 4.893599356580294e-05,
+      "relative_l2": 0.430093704515202,
+      "residual_curve": [
+        10.130189602191631,
+        1.798018583884606,
+        1.1731956096795888,
+        0.9928646775392386
+      ]
+    },
+    {
+      "layer": 32,
+      "levels": [
+        {
+          "dead_code_ratio": 0.9921875,
+          "dead_codes": 254,
+          "entropy": 0.0011466720455011164,
+          "level": 0,
+          "perplexity": 1.001147329725248,
+          "usage_ratio": 0.0078125,
+          "used_codes": 2
+        },
+        {
+          "dead_code_ratio": 0.9765625,
+          "dead_codes": 250,
+          "entropy": 0.817394898060509,
+          "level": 1,
+          "perplexity": 2.264592651753388,
+          "usage_ratio": 0.0234375,
+          "used_codes": 6
+        },
+        {
+          "dead_code_ratio": 0.37109375,
+          "dead_codes": 95,
+          "entropy": 3.5725700934687756,
+          "level": 2,
+          "perplexity": 35.607991516580974,
+          "usage_ratio": 0.62890625,
+          "used_codes": 161
+        }
+      ],
+      "mse": 5.2472959253637584e-05,
+      "relative_l2": 0.4520575674078412,
+      "residual_curve": [
+        10.119600956256573,
+        1.9857248618052556,
+        1.2250806460013757,
+        0.9807308683028588
+      ]
+    }
+  ],
+  "codebook_size": 256,
+  "created_at": "2026-07-15 06:46:21 UTC",
+  "normalize": true,
+  "sid_memmap": "/root/gsm8k_single_language_experiment/swh_Latn/rqvae/sids.uint16.memmap",
+  "sid_shape": [
+    52752,
+    33,
+    3
+  ]
+}

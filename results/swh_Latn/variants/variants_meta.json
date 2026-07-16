@@ -1,0 +1,20 @@
+{
+  "counts_by_split_variant": {
+    "test:v0": 1319,
+    "test:v1": 1319,
+    "test:v2": 1319,
+    "test:v3": 1319,
+    "test:v4": 1319,
+    "test:v5": 1319,
+    "train:v0": 7473,
+    "train:v1": 7473,
+    "train:v2": 7473,
+    "train:v3": 7473,
+    "train:v4": 7473,
+    "train:v5": 7473
+  },
+  "created_at": "2026-07-15 06:27:28 UTC",
+  "missing_sources": 0,
+  "num_rows": 52752,
+  "variants_parquet": "/root/gsm8k_single_language_experiment/swh_Latn/variants/variants.parquet"
+}

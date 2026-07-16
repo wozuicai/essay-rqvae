@@ -1,0 +1,15 @@
+{
+  "baseline_all_accuracy": 0.48650288140734,
+  "baseline_train_accuracy": 0.48846960167714887,
+  "created_at": "2026-07-15 10:26:17 UTC",
+  "fdr": 0.05,
+  "min_bucket_n": 100,
+  "num_bucket_tests": 2888,
+  "num_significant_rules": 895,
+  "sid_buckets": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/sid_buckets.parquet",
+  "significant_sid_rules": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/significant_sid_rules.parquet",
+  "test_all_variant_accuracy": 0.47536012130401817,
+  "test_original_accuracy": 0.4981046247156937,
+  "test_selected_accuracy": 0.5526914329037149,
+  "test_selection": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/test_selection.parquet"
+}

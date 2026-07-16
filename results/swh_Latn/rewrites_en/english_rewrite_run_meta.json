@@ -1,0 +1,17 @@
+{
+  "already_completed": 0,
+  "batch_size": 2,
+  "english_source_dir": "/root/gsm8k",
+  "force_rewrite": true,
+  "lang": "swh_Latn",
+  "model": "/mnt/bn/search-gec-agentic-search-useast1b/guo/gpt-oss-120B",
+  "num_candidates": 10,
+  "only_missing_file": "/root/gsm8k_single_language_experiment/swh_Latn/rewrites/remaining_structural_for_gptoss_nllb_round3.jsonl",
+  "pending_this_run": 14,
+  "rank": 6,
+  "shard_candidates": 14,
+  "skipped_existing_in_shard": 0,
+  "started_at": "2026-07-14 17:06:12 UTC",
+  "total_candidates": 113,
+  "world": 8
+}

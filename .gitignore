@@ -1,0 +1,38 @@
+# Local credentials
+*_deploy_key
+*_deploy_key.pub
+*.pem
+*.key
+.ssh/
+
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large experiment artifacts excluded from Git
+*.memmap
+*.memmap.partial
+*.pt
+*.safetensors
+*.bin
+*.parquet
+*.npy
+
+# Full generated logs and raw outputs
+logs/
+*.log
+*.out
+*.pid
+*_records.jsonl
+rewrite_records.jsonl*
+eval_rank*_of_*.jsonl
+english_rewrite_records*.jsonl*
+english_rewrites__*.jsonl
+
+# Local runtime directories
+.cache/
+tmp/
+artifacts/
