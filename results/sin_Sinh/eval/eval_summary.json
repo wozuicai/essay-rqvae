@@ -1,0 +1,33 @@
+{
+  "accuracy_by_split": {
+    "test": 0.280010108668183,
+    "train": 0.29559748427672955
+  },
+  "created_at": "2026-07-17 10:15:24 UTC",
+  "eval_results": "/root/gsm8k_single_language_experiment/sin_Sinh/eval/eval_results.parquet",
+  "expected_rows": 52752,
+  "format_failure_recovered_correct": 1778,
+  "missing_preview": [],
+  "missing_rows": 0,
+  "num_rows": 52752,
+  "overall_accuracy": 0.2932590233545648,
+  "relaxed_accuracy_by_split": {
+    "test": 0.3151377306039929,
+    "train": 0.32911815870467015
+  },
+  "relaxed_last_number_accuracy": 0.3270207764634516,
+  "relaxed_prediction_none": 179,
+  "relaxed_prediction_none_rate": 0.0033932362754018805,
+  "strict_accuracy_by_split": {
+    "test": 0.280010108668183,
+    "train": 0.29559748427672955
+  },
+  "strict_else_relaxed_accuracy": 0.32696390658174096,
+  "strict_else_relaxed_accuracy_by_split": {
+    "test": 0.3151377306039929,
+    "train": 0.32905125117088185
+  },
+  "strict_format_accuracy": 0.2932590233545648,
+  "strict_prediction_none": 23922,
+  "strict_prediction_none_rate": 0.45348043676069155
+}

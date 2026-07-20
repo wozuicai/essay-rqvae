@@ -1,0 +1,33 @@
+{
+  "accuracy_by_split": {
+    "test": 0.32335102350265355,
+    "train": 0.34328025335652795
+  },
+  "created_at": "2026-07-17 22:34:14 UTC",
+  "eval_results": "/root/gsm8k_single_language_experiment/npi_Deva/eval/eval_results.parquet",
+  "expected_rows": 52752,
+  "format_failure_recovered_correct": 2047,
+  "missing_preview": [],
+  "missing_rows": 0,
+  "num_rows": 52752,
+  "overall_accuracy": 0.34029041552926903,
+  "relaxed_accuracy_by_split": {
+    "test": 0.3583522870861764,
+    "train": 0.38277800080289043
+  },
+  "relaxed_last_number_accuracy": 0.3791135881104034,
+  "relaxed_prediction_none": 98,
+  "relaxed_prediction_none_rate": 0.0018577494692144374,
+  "strict_accuracy_by_split": {
+    "test": 0.32335102350265355,
+    "train": 0.34328025335652795
+  },
+  "strict_else_relaxed_accuracy": 0.3790946314831665,
+  "strict_else_relaxed_accuracy_by_split": {
+    "test": 0.3582259287338893,
+    "train": 0.38277800080289043
+  },
+  "strict_format_accuracy": 0.34029041552926903,
+  "strict_prediction_none": 21429,
+  "strict_prediction_none_rate": 0.4062215650591447
+}

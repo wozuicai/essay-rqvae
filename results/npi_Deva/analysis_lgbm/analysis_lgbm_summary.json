@@ -1,0 +1,37 @@
+{
+  "exclude_level0": false,
+  "num_boost_round": 200,
+  "num_features": 99,
+  "outputs": {
+    "feature_importance": "/root/gsm8k_single_language_experiment/npi_Deva/analysis_lgbm/feature_importance.csv",
+    "test_selection_lgbm": "/root/gsm8k_single_language_experiment/npi_Deva/analysis_lgbm/test_selection_lgbm.parquet",
+    "test_variant_scores": "/root/gsm8k_single_language_experiment/npi_Deva/analysis_lgbm/test_variant_scores.parquet"
+  },
+  "params": {
+    "bagging_fraction": 0.85,
+    "bagging_freq": 1,
+    "feature_fraction": 0.85,
+    "force_col_wise": true,
+    "learning_rate": 0.03,
+    "metric": [
+      "binary_logloss",
+      "auc"
+    ],
+    "min_data_in_leaf": 200,
+    "num_leaves": 64,
+    "num_threads": 16,
+    "objective": "binary",
+    "seed": 42,
+    "verbosity": -1
+  },
+  "test_all_variant_accuracy": 0.32335102350265355,
+  "test_auc": 0.7281017656509002,
+  "test_original_accuracy": 0.3297952994692949,
+  "test_selected_accuracy": 0.378316906747536,
+  "test_source_rows": 1319,
+  "test_variant_accuracy_at_0_5": 0.7022997220116249,
+  "test_variant_rows": 7914,
+  "train_accuracy_at_0_5": 0.8785405236629644,
+  "train_auc": 0.9490428685448807,
+  "train_rows": 44838
+}

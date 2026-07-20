@@ -124,13 +124,36 @@ def mask_line(line: str) -> tuple[str, list[str]]:
 
 def restore_line(translated: str, protected: list[str]) -> str:
     restored = translated
+    used = [False] * len(protected)
     for index, value in enumerate(protected):
-        restored, count = re.subn(rf"\[\s*P\s*{index}\s*\]", value, restored, count=1, flags=re.IGNORECASE)
-        if count == 0:
-            # If NLLB drops a placeholder, keep the original token at the end
-            # rather than losing GSM8K's numeric/annotation payload.
-            restored = f"{restored} {value}"
-    restored = re.sub(r"\[\s*P\s*\d+\s*\]", "", restored, flags=re.IGNORECASE)
+        index_forms = {str(index), str(index).translate(str.maketrans("0123456789", "०१२३४५६७८९"))}
+        index_pattern = "|".join(re.escape(form) for form in sorted(index_forms, key=len, reverse=True))
+        restored, count = re.subn(
+            rf"\[\s*P\s*(?:{index_pattern})\s*\]",
+            value,
+            restored,
+            count=1,
+            flags=re.IGNORECASE,
+        )
+        if count:
+            used[index] = True
+    unused_values = (value for value, was_used in zip(protected, used) if not was_used)
+
+    def replace_unlabeled(_match: re.Match[str]) -> str:
+        return next(unused_values, "")
+
+    restored = re.sub(r"\[\s*[0-9०-९]+\s*\]", replace_unlabeled, restored)
+    for index, value in enumerate(protected):
+        if used[index]:
+            continue
+        if value in restored:
+            used[index] = True
+            continue
+        # If NLLB drops a placeholder entirely, keep the original token at the
+        # end rather than losing GSM8K's numeric/annotation payload.
+        restored = f"{restored} {value}"
+        used[index] = True
+    restored = re.sub(r"\[\s*(?:P\s*)?[0-9०-९]+\s*\]", "", restored, flags=re.IGNORECASE)
     return re.sub(r"\s{2,}", " ", restored).strip()
 
 

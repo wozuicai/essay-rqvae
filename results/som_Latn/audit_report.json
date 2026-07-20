@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "evidence": "/root/gsm8k_single_language_experiment/som_Latn/prepare_meta.json",
+      "name": "prepare_meta",
+      "ok": true
+    },
+    {
+      "evidence": "rows=8792",
+      "name": "source_counts",
+      "ok": true
+    },
+    {
+      "evidence": "complete=8792",
+      "name": "rewrite_complete_records",
+      "ok": true
+    },
+    {
+      "evidence": "train=44838, test=7914",
+      "name": "variant_counts",
+      "ok": true
+    },
+    {
+      "evidence": "{\"created_at\": \"2026-07-16 07:37:05 UTC\", \"dtype\": \"float16\", \"memmap\": \"/root/gsm8k_single_language_experiment/som_Latn/hidden/hidden_states.float16.memmap\", \"missing_preview\": [], \"missing_rows\": 0, \"num_shards\": 8, \"shape\": [52752, 33, 4096]}",
+      "name": "hidden_states",
+      "ok": true
+    },
+    {
+      "evidence": "/root/gsm8k_single_language_experiment/som_Latn/rqvae/sids_meta.json",
+      "name": "sids",
+      "ok": true
+    },
+    {
+      "evidence": "{\"accuracy_by_split\": {\"test\": 0.3476118271417741, \"train\": 0.3606316071189616}, \"created_at\": \"2026-07-16 12:13:50 UTC\", \"eval_results\": \"/root/gsm8k_single_language_experiment/som_Latn/eval/eval_results.parquet\", \"expected_rows\": 52752, \"format_failure_recovered_correct\": 1494, \"missing_preview\": [], \"missing_rows\": 0, \"num_rows\": 52752, \"overall_accuracy\": 0.3586783439490446, \"relaxed_accuracy_by_split\": {\"test\": 0.3737680060652009, \"train\": 0.3894910566929836}, \"relaxed_last_number_accuracy\": 0.38713224143160446, \"relaxed_prediction_none\": 38, \"relaxed_prediction_none_rate\": 0.0007203518350015165, \"strict_accuracy_by_split\": {\"test\": 0.3476118271417741, \"train\": 0.3606316071189616}, \"strict_else_relaxed_accuracy\": 0.3869995450409463, \"strict_else_relaxed_accuracy_by_split\": {\"test\": 0.3736416477129138, \"train\": 0.389357241625407}, \"strict_format_accuracy\": 0.3586783439490446, \"strict_prediction_none\": 17835, \"strict_prediction_none_rate\": 0.3380914467697907}",
+      "name": "eval_results",
+      "ok": true
+    },
+    {
+      "evidence": "/root/gsm8k_single_language_experiment/som_Latn/analysis/analysis_summary.json",
+      "name": "analysis",
+      "ok": true
+    }
+  ],
+  "created_at": "2026-07-16 12:15:59 UTC",
+  "ok": true
+}

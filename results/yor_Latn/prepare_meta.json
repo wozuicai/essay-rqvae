@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "test": 1319,
+    "train": 7473
+  },
+  "created_at": "2026-07-15 12:54:06 UTC",
+  "lang": "yor_Latn",
+  "lang_name": "Yoruba",
+  "outputs": {
+    "source_jsonl": "/root/gsm8k_single_language_experiment/yor_Latn/source.jsonl",
+    "source_parquet": "/root/gsm8k_single_language_experiment/yor_Latn/source.parquet"
+  },
+  "source_dir": "/root/gsm8k_nllb_direct",
+  "total": 8792
+}

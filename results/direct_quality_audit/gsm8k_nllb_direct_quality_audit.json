@@ -1,0 +1,1557 @@
+{
+  "summary": [
+    {
+      "lang": "amh_Ethi",
+      "rows": 17584,
+      "bracket_p_any": 5,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 5,
+      "unlabeled_digit": 3,
+      "amh_pi_digit": 70,
+      "page_marker_in_question": 2,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 2,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "hau_Latn",
+      "rows": 17584,
+      "bracket_p_any": 3,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 3,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "ibo_Latn",
+      "rows": 17584,
+      "bracket_p_any": 2,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 2,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "khm_Khmr",
+      "rows": 17584,
+      "bracket_p_any": 13,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 13,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 104,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 2,
+      "repeated_bracket_p_question": 6,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "lao_Laoo",
+      "rows": 17584,
+      "bracket_p_any": 1,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 1,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 32,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "mya_Mymr",
+      "rows": 17584,
+      "bracket_p_any": 97,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 97,
+      "unlabeled_digit": 2,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 242,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 22,
+      "repeated_bracket_p_question": 20,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "npi_Deva",
+      "rows": 17584,
+      "bracket_p_any": 50,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 50,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 418,
+      "only_num_punct_question": 86,
+      "short_question_le_3_words": 40,
+      "repeated_bracket_p_question": 12,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "sin_Sinh",
+      "rows": 17584,
+      "bracket_p_any": 92,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 92,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 8,
+      "only_num_punct_question": 4,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 14,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "som_Latn",
+      "rows": 17584,
+      "bracket_p_any": 0,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 0,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "swh_Latn",
+      "rows": 17584,
+      "bracket_p_any": 4,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 4,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "yor_Latn",
+      "rows": 17584,
+      "bracket_p_any": 9,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 9,
+      "unlabeled_digit": 7,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    },
+    {
+      "lang": "zul_Latn",
+      "rows": 17584,
+      "bracket_p_any": 3,
+      "bracket_p_digit": 0,
+      "bracket_p_nodigit": 3,
+      "unlabeled_digit": 0,
+      "amh_pi_digit": 0,
+      "page_marker_in_question": 0,
+      "only_num_punct_question": 0,
+      "short_question_le_3_words": 0,
+      "repeated_bracket_p_question": 0,
+      "many_unlabeled_digit_question": 0
+    }
+  ],
+  "examples": {
+    "amh_Ethi": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3506,
+          "question": "ሮዚ ለ$44 የኮንዶሪ ቁራጭ በ $1 ቢል ትከፍላለች። ካሲያው በተቻለ መጠን አነስተኛ ቁጥር ሳንቲሞችን እንደ መቀያየር ቢሰጥላት፣ ሮዚ ስንት ሳንቲሞች ይቀበላል?",
+          "answer": "ሮዚ $1-$44=$<<1-.44=.56>>56ን በለውጥ ያገኛል።\n50 ን ለ $ ለ $ 05 ለ $ 1 ኒኬል ያገኛል. ከዚያም, 1 ፔኒን ያገኛል, ለ $ 01 ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ P ] ለ $ [P] ለ "
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "5 ሰዓት ውስጥ 70 mph አማካይ ፍጥነት እንዲኖረው 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\nበመጀመሪያዎቹ 3 ሰዓታት ውስጥ 60*3=<<60*3=180>>180 ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከረከረ።\nበሚቀጥሉት 2 ሰዓታት ውስጥ ሌላ 350-180=<<350-180=170>>170 ማይል መጓዝ አለበት።\nፍጥነቱ 170/2=<<170/2=85>>85 mph መሆን አለበት\n#### 85"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2530,
+          "question": "ኬቲና ቤተሰቦቿ ዶናት ሲበሉ፣ ቡና ውስጥ ለመጥለቅ ይጠቅማሉ። ለእያንዳንዱ ዶናት 2 አውንስ ቡና እንደሚያስፈልጋቸው ትገነዘባለች። እያንዳንዱ የቡና ማሰሮ 12 አውንስ ያለው ሲሆን የማዘጋጀት ወጪውም $3 ነው። ቤተሰቦቿ 3 አስር ዶናት ካጠፉ ቡና ላይ ምን ያህል ያወጣሉ?",
+          "answer": "** እሱ ቤተሰብ 36 ዶናት ይበላዋል ምክንያቱም 3 x 12 = <<3*12=36>>36\n** 72 36 <<2*36=72>> 72 2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\n** ይህ ከስድስት ቡና"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "** 70 mph አማካይ ፍጥነት 5 ሰዓቶች ውስጥ 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\n3 ሰዓታት ውስጥ ስንት ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽ"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 7316,
+          "question": "ፊሊፕ በቤት ውስጥ ከሚያገኛቸው ዕቃዎች ጋር ቂጣ ማዘጋጀት ይፈልጋል። 4 ሣጥኖች፣ 10 ቂጣዎችና 100 ኦንዝ የጢስ አተር አለው። እያንዳንዱ ቂጣ ስድስት ቂጣዎችን ያዘጋጃል። እያንዳንዱ ቂጣ ቂጣዎችን 12 መያዝ ይችላል። በአንድ ቂጣ ቂጣ ቂጣ ቂጣ 10 ኦንስ ይወስዳል ። እሱ የሚፈልገውን ያህል ቂጣዎችን ማዘጋጀት ሲያጠናቅቅ ምን ያህል ቂጣ ይቀራል?",
+          "answer": "** የሽቦዎቹ 48 ሽቦዎችን እንዲሠራ ያስችለዋል ምክንያቱም 4 x 12 = <<4*12=48>>48\n** አኩሪ አተር 60 አኩሪ አተር እንዲሠራ ያስችለዋል ምክንያቱም 10 x 6 = <<10*6=60>>60\n** አሲድ 10 አሲድ አሲድ ማድረግ ይችላል ምክንያቱም 100 / 10 = <<100/10=10>>10\n** 60 ቂጣዎችን ለመፍጠር በቂ ነው ምክንያቱም 10 x 6 = <<10*6=60>> 60\n** እሱ 4"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3506,
+          "question": "ሮዚ ለ$44 የኮንዶሪ ቁራጭ በ $1 ቢል ትከፍላለች። ካሲያው በተቻለ መጠን አነስተኛ ቁጥር ሳንቲሞችን እንደ መቀያየር ቢሰጥላት፣ ሮዚ ስንት ሳንቲሞች ይቀበላል?",
+          "answer": "ሮዚ $1-$44=$<<1-.44=.56>>56ን በለውጥ ያገኛል።\n50 ን ለ $ ለ $ 05 ለ $ 1 ኒኬል ያገኛል. ከዚያም, 1 ፔኒን ያገኛል, ለ $ 01 ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ ለ $ P ] ለ $ [P] ለ "
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "5 ሰዓት ውስጥ 70 mph አማካይ ፍጥነት እንዲኖረው 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\nበመጀመሪያዎቹ 3 ሰዓታት ውስጥ 60*3=<<60*3=180>>180 ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከረከረ።\nበሚቀጥሉት 2 ሰዓታት ውስጥ ሌላ 350-180=<<350-180=170>>170 ማይል መጓዝ አለበት።\nፍጥነቱ 170/2=<<170/2=85>>85 mph መሆን አለበት\n#### 85"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2530,
+          "question": "ኬቲና ቤተሰቦቿ ዶናት ሲበሉ፣ ቡና ውስጥ ለመጥለቅ ይጠቅማሉ። ለእያንዳንዱ ዶናት 2 አውንስ ቡና እንደሚያስፈልጋቸው ትገነዘባለች። እያንዳንዱ የቡና ማሰሮ 12 አውንስ ያለው ሲሆን የማዘጋጀት ወጪውም $3 ነው። ቤተሰቦቿ 3 አስር ዶናት ካጠፉ ቡና ላይ ምን ያህል ያወጣሉ?",
+          "answer": "** እሱ ቤተሰብ 36 ዶናት ይበላዋል ምክንያቱም 3 x 12 = <<3*12=36>>36\n** 72 36 <<2*36=72>> 72 2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\n** ይህ ከስድስት ቡና"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "** 70 mph አማካይ ፍጥነት 5 ሰዓቶች ውስጥ 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\n3 ሰዓታት ውስጥ ስንት ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽ"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 7316,
+          "question": "ፊሊፕ በቤት ውስጥ ከሚያገኛቸው ዕቃዎች ጋር ቂጣ ማዘጋጀት ይፈልጋል። 4 ሣጥኖች፣ 10 ቂጣዎችና 100 ኦንዝ የጢስ አተር አለው። እያንዳንዱ ቂጣ ስድስት ቂጣዎችን ያዘጋጃል። እያንዳንዱ ቂጣ ቂጣዎችን 12 መያዝ ይችላል። በአንድ ቂጣ ቂጣ ቂጣ ቂጣ 10 ኦንስ ይወስዳል ። እሱ የሚፈልገውን ያህል ቂጣዎችን ማዘጋጀት ሲያጠናቅቅ ምን ያህል ቂጣ ይቀራል?",
+          "answer": "** የሽቦዎቹ 48 ሽቦዎችን እንዲሠራ ያስችለዋል ምክንያቱም 4 x 12 = <<4*12=48>>48\n** አኩሪ አተር 60 አኩሪ አተር እንዲሠራ ያስችለዋል ምክንያቱም 10 x 6 = <<10*6=60>>60\n** አሲድ 10 አሲድ አሲድ ማድረግ ይችላል ምክንያቱም 100 / 10 = <<100/10=10>>10\n** 60 ቂጣዎችን ለመፍጠር በቂ ነው ምክንያቱም 10 x 6 = <<10*6=60>> 60\n** እሱ 4"
+        }
+      ],
+      "unlabeled_digit": [
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 1014,
+          "question": "ጃማር ትኩስ ፍራፍሬን ይወዳል እናም ከግሮስ መቁረጥ ያገኘውን $10 ጋር ወደ መደብሩ ይጓዛል ። ግብርን ጨምሮ ፣ ፔርች እና በርበሬዎች $ ናቸው ። [1] እያንዳንዳቸው ፣ ፖም $ ናቸው ። [2] እያንዳንዳቸው ፣ ኪዊስ $1, እና ፕረም እያንዳንዳቸው $ ናቸው ። [4] እሱ ቀድሞውኑ 3 ፔርች ፣ 4 ፔር ፣ 2 ኪዊስ እና 5 ፖም ገዝቶ ከሆነ ምን ያህል ፕረም መግዛት ይችላል? 5 75 25",
+          "answer": "$3.5 በፔርች እና በኩሬዎች ላይ አሳልፏል ምክንያቱም 7 x .5 = <<7*.5=3.5>>3.5\n$2 በኪዊ ላይ አሳልፏል ምክንያቱም 2 x 1 = <<2*1=2>>2\n$3.75 በፖም ላይ አሳልፏል ምክንያቱም 5 x .75 = <<5*.75=3.75>>3.75\nእሱ ቀድሞውኑ $9.25 ያጠፋው ምክንያቱም 3.5 + 2 + 3.75 = <<3.5+2+3.75=9.25>>9.25\nእሱ ሶስት ስፕሪም መግዛት ይችላል ምክን"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 1014,
+          "question": "ጃማር ትኩስ ፍራፍሬን ይወዳል እናም ከግሮስ መቁረጥ ያገኘውን $10 ጋር ወደ መደብሩ ይጓዛል ። ግብርን ጨምሮ ፣ ፔርች እና በርበሬዎች $ ናቸው ። [1] እያንዳንዳቸው ፣ ፖም $ ናቸው ። [2] እያንዳንዳቸው ፣ ኪዊስ $1, እና ፕረም እያንዳንዳቸው $ ናቸው ። [4] እሱ ቀድሞውኑ 3 ፔርች ፣ 4 ፔር ፣ 2 ኪዊስ እና 5 ፖም ገዝቶ ከሆነ ምን ያህል ፕረም መግዛት ይችላል? 5 75 25",
+          "answer": "** $3.5 በቅቤና በቅቤ ላይ ያሳለፈው 7 x .5 = <<7*.5=3.5>>3.5 ስለሆነ ነው\n** $2 ላይ ያወጣው 2 x 1 = <<2*1=2>>2 ስለሆነ ነው\n** $3.75ን በድንች ላይ ያሳለፈው 5 x .75 = <<5*.75=3.75>>3.75 ስለሆነ ነው።\n** እሱ ቀድሞውኑ $9.25 አውጥቷል ምክንያቱም 3.5 + 2 + 3.75 = <<3.5+2+3.75=9.25>>9.25\n** ሦስት ስፕሪም መግዛት"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 1193,
+          "question": "ጄሰን ልብሱን በማጠብ $3.00፣ $1.50 ክፍሉን በማጽዳት $0.75 ቆሻሻውን በየሳምንቱ ወደ መወጣጫው በመውሰድ እና $0.50 የመታጠቢያውን ማሽን በማስወገድ ማግኘት እንደሚችል ተነገረው። በሁለት ሳምንት ጊዜ ውስጥ ጄሰን የመታጠቢያውን ማሽን 6 ጊዜ ባዶ አደረገ፣ አንድ ጊዜ ልብሱን አጠብቀዋል፣ ሁለት ጊዜ ቆሻሻውን አውጥቶ አንድ ጊዜ ክፍሉን አጽድቋል። ጄሰን ምን ያህል ገንዘብ አገኘ?",
+          "answer": "ጄሰን የሳህን ማሽን በማፍሰስ ምን ያህል ገቢ አግኝቷል? ጄሰን የሳህን ማሽን 6 ጊዜ በ $0.50 ጊዜ ፈስሷል ስለዚህ 6* አደረገ. ፒ4]=$ ፒ5] ፒ [6] ** 50 <<6*.50=3.00>> 3.00\nጄሰን ከላውንድ ማጠብ ምን ያህል ገቢ አስገኝቷል? ጄሰን የላውንድ ማጠብ የሠራው ጄሰን በላውንድ ማጠብ በላውንድ ማጠብ በላውንድ ማጠብ በላውንድ ማጠብ በላውንድ ማጠብ በላውንድ ማጠብ በላውንድ ማጠብ"
+        }
+      ],
+      "amh_pi_digit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 148,
+          "question": "ዊንዊን ሎተሪ አሸነፈች። ለግብር የከፈለችው ፒ 1 ሲሆን ለሂሳብ ክፍያ የከፈለችው ፒ 2 ነው። ምን ያህል ገንዘብ ወደ ቤት መውሰድ ችላለች? $50 20% $5",
+          "answer": "ዊንዊን ለግብር $50 x 20/100 = $<<50*20/100=10>>10 ከፍሏል።\nስለዚህ, እሷ $50 - $10 = <<50-10=40>> 40 ግብር ከከፈለ በኋላ አለው.\nስለዚህ ዊንዊን የሂደቱን ክፍያ ከከፈለች በኋላ $40 - $5 = $<<40-5=35>>35 ወደ ቤት መውሰድ ችላለች ።\n#### 35"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 701,
+          "question": "ኪም ፒዛ ይገዛል። እያንዳንዱ ፒዛ ፒ 1 ቁርጥራጭ ነው። ፒዛው ፒ 2 ያስከፍላል፤ ፒ 3 ቁርጥራጭ ምን ያህል ያስከፍላል? 3 12 $72 5",
+          "answer": "3*12=<<3*12=36>>36 ቁርጥራጮች አግኝቷል\nስለዚህ እያንዳንዱ ቁራጭ ዋጋ 72/36=$<<72/36=2>>2\nስለዚህ 5 ቁርጥራጮች ዋጋ 5*2=$<<5*2=10>>10\n#### 10"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 785,
+          "question": "በአንድ ሳምንት ውስጥ የፋቲማ ምግብ ቤት ለሰዎች ምግብና መጠጥ ያቀርብላቸው ነበር፤ ከነዚህም ሰዎች መካከል ቡና ለመግዛት የገቡት [ፒ1] ሰዎች ነበሩ። 25 3/5",
+          "answer": "በሬስቶራንቱ ውስጥ ቡና የተሰጠባቸው ደንበኞች ቁጥር 3/5*25 = <<3/5*25=15>>15 ነው\nወደ ምግብ ቤቱ የመጡት ደንበኞች አጠቃላይ ቁጥር 25, ከሆነ 25-15 = <<25-15=10>>10 ደንበኞች ቡና አልገዙም\n#### 10"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1368,
+          "question": "ታማራ 3* ኪም ቁመት ከ 4 ኢንች ነው። ታማራና ኪም የጋራ ቁመት 92 ኢንች ነው። ታማራ ስንት ኢንች ቁመት አላት?",
+          "answer": "K = ኪም ቁመት ይሁን\nታማራ = 3ኬ - 4\nK + 3K - 4 = 92\n4K - 4 = 92\n4K = 96\nኪም = [ፒ0][ፒ1] ኢንች <<24=24>> 24\nታማራ = (3 * 24) - 4 = <<(3*24)-4=68>>68 ኢንች\nታማራ 68 ኢንች ቁመት አላት።\n#### 68"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1941,
+          "question": "ሳሂድ ከካይላ አራት እጥፍ ያነሰ ገቢ አግኝቷል ። ኬይላ ከቪካ ያነሰ ገቢ አግኝታለች ። ቪካም [ፒ 1] ገቢ አግኝታለች ። ሳሂድ ስንት ዶላር አገኘ? $30 $84",
+          "answer": "ኬይላ ከቪካ = $84 - 30 = 54 ያነሰ $30 አደረገች።\nሳሂድ 4* ኬይላ = 4*54 = 216\n#### 216"
+        }
+      ],
+      "page_marker_in_question": [
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 781,
+          "question": "[በገጽ 10 ላይ የሚገኝ ሥዕል] 64 30",
+          "answer": "ሌሎቹ ሁለት ፒዛዎች 64-30 = <<64-30=34>>34 ዶላር ያስከፍላሉ።\nከሁለቱ ፒዛዎች እያንዳንዳቸው 34/2 = <<34/2=17>>17 ዶላር ያስከፍላሉ።\n#### 17"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 781,
+          "question": "[በገጽ 10 ላይ የሚገኝ ሥዕል] 64 30",
+          "answer": "** ሌሎቹ ሁለት ፒዛዎች 64-30 = <<64-30=34>>34 ዶላር ያስከፍላሉ.\n** እያንዳንዱ የሁለቱ ፒዛዎች ዋጋ 34/2 = <<34/2=17>>17 ዶላር ነው።\n#### 17"
+        }
+      ],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "5 ሰዓት ውስጥ 70 mph አማካይ ፍጥነት እንዲኖረው 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\nበመጀመሪያዎቹ 3 ሰዓታት ውስጥ 60*3=<<60*3=180>>180 ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከረከረ።\nበሚቀጥሉት 2 ሰዓታት ውስጥ ሌላ 350-180=<<350-180=170>>170 ማይል መጓዝ አለበት።\nፍጥነቱ 170/2=<<170/2=85>>85 mph መሆን አለበት\n#### 85"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6156,
+          "question": "አንድ ሰው 3 ሰዓት ሰዓት 60 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት 2 ሰዓት 70 ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት ሰዓት] ሰዓት [P] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት [P] ሰዓት] ሰዓት] ሰዓት",
+          "answer": "** 70 mph አማካይ ፍጥነት 5 ሰዓቶች ውስጥ 70*5=<<70*5=350>>350 ማይል መጓዝ አለበት.\n3 ሰዓታት ውስጥ ስንት ማይልስ አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽከርካሪውን አሽ"
+        }
+      ],
+      "many_unlabeled_digit_question": []
+    },
+    "hau_Latn": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 5890,
+          "question": "Gidan Laura yana da nisan mil [P] daga makarantar ta. Babban kanti yana da nisan mil 10 daga makarantar. Idan Laura tana tuka mota zuwa makaranta kowace safiya kuma sau biyu da yamma a mako tana tuka mota zuwa babban kanti. Mil nawa Laura ke tuka a mako? 20",
+          "answer": "7 kwana a mako Laura tana tuka 20 mil zuwa makaranta, don haka Laura tana tuka 7 x 20 = <<7*20=140>> 140 mil zuwa makaranta a cikin mako guda.\nKasuwancin yana da nisan mil mil mil mil daga makarantar. Saboda haka babban kanti yana da nisan mil mil mi"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 5890,
+          "question": "Gidan Laura yana da nisan mil [P] daga makarantar ta. Babban kanti yana da nisan mil 10 daga makarantar. Idan Laura tana tuka mota zuwa makaranta kowace safiya kuma sau biyu da yamma a mako tana tuka mota zuwa babban kanti. Mil nawa Laura ke tuka a mako? 20",
+          "answer": "Kwana nawa Laura ke tuƙi zuwa makaranta a cikin mako guda? ** 7 kwana a mako Laura tana tuƙi 20 mil zuwa makaranta, don haka Laura tana tuƙi 7 x 20 = <<7*20=140>> 140 mil zuwa makaranta a cikin mako guda.\nYaya nisa ne daga babban kanti? ** Babban kan"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 7,
+          "question": "Carla tana sauke fayil na 200 GB. A al'ada tana iya sauke 2 GB / minti, amma 40% na hanyar ta hanyar saukarwa, Windows tana tilasta sake farawa don shigar da sabuntawa, wanda ke ɗaukar 20 minti. Sannan Carla dole ne ta sake farawa daga farkon. Yaya nauyin da ake ɗauka don sauke fayil ɗin?",
+          "answer": "Gidauniyar da aka yi amfani da ita a cikin wannan tsari, ita ce 40% da ** da kuma 40% da kuma 200 da kuma 40% da kuma <<200*40*.01=80>> da kuma 80 da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 5890,
+          "question": "Gidan Laura yana da nisan mil [P] daga makarantar ta. Babban kanti yana da nisan mil 10 daga makarantar. Idan Laura tana tuka mota zuwa makaranta kowace safiya kuma sau biyu da yamma a mako tana tuka mota zuwa babban kanti. Mil nawa Laura ke tuka a mako? 20",
+          "answer": "7 kwana a mako Laura tana tuka 20 mil zuwa makaranta, don haka Laura tana tuka 7 x 20 = <<7*20=140>> 140 mil zuwa makaranta a cikin mako guda.\nKasuwancin yana da nisan mil mil mil mil daga makarantar. Saboda haka babban kanti yana da nisan mil mil mi"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 5890,
+          "question": "Gidan Laura yana da nisan mil [P] daga makarantar ta. Babban kanti yana da nisan mil 10 daga makarantar. Idan Laura tana tuka mota zuwa makaranta kowace safiya kuma sau biyu da yamma a mako tana tuka mota zuwa babban kanti. Mil nawa Laura ke tuka a mako? 20",
+          "answer": "Kwana nawa Laura ke tuƙi zuwa makaranta a cikin mako guda? ** 7 kwana a mako Laura tana tuƙi 20 mil zuwa makaranta, don haka Laura tana tuƙi 7 x 20 = <<7*20=140>> 140 mil zuwa makaranta a cikin mako guda.\nYaya nisa ne daga babban kanti? ** Babban kan"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 7,
+          "question": "Carla tana sauke fayil na 200 GB. A al'ada tana iya sauke 2 GB / minti, amma 40% na hanyar ta hanyar saukarwa, Windows tana tilasta sake farawa don shigar da sabuntawa, wanda ke ɗaukar 20 minti. Sannan Carla dole ne ta sake farawa daga farkon. Yaya nauyin da ake ɗauka don sauke fayil ɗin?",
+          "answer": "Gidauniyar da aka yi amfani da ita a cikin wannan tsari, ita ce 40% da ** da kuma 40% da kuma 200 da kuma 40% da kuma <<200*40*.01=80>> da kuma 80 da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma da kuma"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "ibo_Latn": {
+      "bracket_p_any": [
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 904,
+          "question": "N'ihi na ọ bụ ihe na-atọ ụtọ, ọ na-achọ ka ọ bụrụ ihe na-atọ ụtọ. Ọ bụ ezie na ọ na-atọ ya ụtọ ime ka ọ bụrụ ihe na-atọ ụtọ, ọ na-achọ ka ọ bụrụ ihe na-atọ ụtọ. 1/4 1 16 1",
+          "answer": "** Ntụziaka ya chọrọ 1/4 iko mmiri ma ọ chọrọ ịba okpukpu abụọ nke ahụ ya mere ọ chọrọ 1/4 + 1/4 = 1/2 iko mmiri mmiri\n** 16 tablespoons dị na 1 cup na ọ dị mkpa naanị 1/2 cup otú ọ dị mkpa 16*.5 = <<16*.5=8>>8 tablespoons of juice\n** 1 1 8 1 8 <<1*8"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6821,
+          "question": "Benjamin na-enyocha kilomita ole ọ na-aga n'izu. Ọ na-aga ọrụ na ụlọ ụbọchị ise n'izu, na-agagharị nkịta ya ugboro abụọ n'ụbọchị ọ bụla, na-aga ụlọ ezigbo enyi ya otu ugboro n'izu, na-aga ụlọ ahịa ugboro abụọ n'izu. Ọrụ dị kilomita isii, nkịta na-aga ije kilomita abụọ, ụlọ ezigbo enyi ya dị otu kilomita, ụlọ ahịa ahụ dịkwa kilomita atọ.",
+          "answer": "** Benjamin na-eje ije 6 kilomita iji gaa ọrụ na 6 kilomita iji laa ụlọ, ya mere ọ na-eje ije 6 * 2 = <<6*2=12>>12 kilomita iji gaa ọrụ na ụlọ.\n** Ọ na-eje ije 5 ụbọchị ole n'izu, ya mere ọ na-eje ije 12 * 5 = <<12*5=60>>60 kilomita n'izu.\n** Ọ na-ag"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 904,
+          "question": "N'ihi na ọ bụ ihe na-atọ ụtọ, ọ na-achọ ka ọ bụrụ ihe na-atọ ụtọ. Ọ bụ ezie na ọ na-atọ ya ụtọ ime ka ọ bụrụ ihe na-atọ ụtọ, ọ na-achọ ka ọ bụrụ ihe na-atọ ụtọ. 1/4 1 16 1",
+          "answer": "** Ntụziaka ya chọrọ 1/4 iko mmiri ma ọ chọrọ ịba okpukpu abụọ nke ahụ ya mere ọ chọrọ 1/4 + 1/4 = 1/2 iko mmiri mmiri\n** 16 tablespoons dị na 1 cup na ọ dị mkpa naanị 1/2 cup otú ọ dị mkpa 16*.5 = <<16*.5=8>>8 tablespoons of juice\n** 1 1 8 1 8 <<1*8"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6821,
+          "question": "Benjamin na-enyocha kilomita ole ọ na-aga n'izu. Ọ na-aga ọrụ na ụlọ ụbọchị ise n'izu, na-agagharị nkịta ya ugboro abụọ n'ụbọchị ọ bụla, na-aga ụlọ ezigbo enyi ya otu ugboro n'izu, na-aga ụlọ ahịa ugboro abụọ n'izu. Ọrụ dị kilomita isii, nkịta na-aga ije kilomita abụọ, ụlọ ezigbo enyi ya dị otu kilomita, ụlọ ahịa ahụ dịkwa kilomita atọ.",
+          "answer": "** Benjamin na-eje ije 6 kilomita iji gaa ọrụ na 6 kilomita iji laa ụlọ, ya mere ọ na-eje ije 6 * 2 = <<6*2=12>>12 kilomita iji gaa ọrụ na ụlọ.\n** Ọ na-eje ije 5 ụbọchị ole n'izu, ya mere ọ na-eje ije 12 * 5 = <<12*5=60>>60 kilomita n'izu.\n** Ọ na-ag"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "khm_Khmr": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1293,
+          "question": "10% អាវយឺត 3 ពី $15 អាវយឺត 5 អាវយឺត $17 អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺ] អាវយឺត [P] អាវយឺត [P] អាវយឺ]",
+          "answer": "សម្លៀកបំពាក់ខ្លីរបស់ Jimmy មានតម្លៃ 3 x $15 = $<<3*15=45>>45.\nតម្លៃអាវរបស់ Irene គឺ 5 x $17 = $<<5*17=85>>85.\nតម្លៃសរុបសម្រាប់សម្លៀកបំពាក់គឺ $45 + $85 = $<<45+85=130>>130.\n10% ការបន្ថយលើសម្លៀកបំពាក់គឺ $130 x 10% = $<<130*10*.01=13>>13.\nពួកគេផ្តល់ដល់អ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1708,
+          "question": "ក្រុម បាល់ទាត់ របស់ Mark បាន រក ចំណាត់ថ្នាក់ 25 2 ចំណាត់ថ្នាក់ 8 3 ចំណាត់ថ្នាក់ និង 10 ការបោះ សេរី ។ គូប្រកួត របស់ ពួកគេ បាន រក ចំណាត់ថ្នាក់ ចំនួន ពីរ ដង នៃ ចំណាត់ថ្នាក់ 2 ប៉ុន្តែ ពាក់កណ្តាល នៃ ចំណាត់ថ្នាក់ និង ការបោះ សេរី 3 ។ តើ ចំនួន ចំណាត់ថ្នាក់ សរុប ដែល បាន រកឃើញ ដោយ ក្រុម ទាំងពីរ រួមគ្នា មាន ប៉ុន្មាន?",
+          "answer": "ក្រុមរបស់ Mark បានរកចំណាត់ថ្នាក់ 25 2 ដែលមានន័យថា ពួកគេបានរកចំណាត់ថ្នាក់ 25*2= <<25*2=50>>50 ក្នុងចំណាត់ថ្នាក់ 2 ។\nក្រុមរបស់គាត់ក៏បានរកចំណាត់ថ្នាក់ 6 3 ដែលមានន័យថាពួកគេបានរកចំណាត់ថ្នាក់ 8*3= 24 ក្នុងចំណាត់ថ្នាក់ 3\nពួកគេបានរកចំណាត់ថ្នាក់ 10 ការបោះសេរី"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2734,
+          "question": "អាន់នី ដាំ ពោត 3 ពោត បាសីល 9 ពោត រ៉ូ សា ម៉ា រី 6 ពោត ថៃ ម៉ា រី ។ ពោត ថៃ ម៉ា រី 4 ពោត ថៃ ម៉ា រី 18 ពោត ថៃ ម៉ា រី 30 ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ] ពោត ថៃ ពោត ថៃ ម៉ា រី ពោត] ពោត ថៃ] ពោត ថៃ ពោត] ពោត ពោត] ពោត] ពោត [P]",
+          "answer": "ដំបូង ចូរ រក ចំនួន សរុប នៃ ស្លឹក បាសីល: 3 កៅអី * 4 ស្លឹក / កៅអី = <<3*4=12>> 12 ស្លឹក\nបន្ទាប់មករកលេខសរុបនៃពណ៌ក្រូចឆ្មារ: 9 កញ្ចប់ * 18 ស្លឹក/កញ្ចប់ = <<9*18=162>>162 ស្លឹក\nបន្ទាប់មករកលេខសរុបនៃពណ៌តៃម៉ៃ: 6 អាង * 30 ស្លឹក/អាង = <<6*30=180>>180 ស្លឹក\nបន្"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3045,
+          "question": "សម្រាប់ ពិធី បុណ្យ សប្បាយ នោះ អ្នក រៀបចំ សាលា បាន បញ្ជា ទិញ សំបុត្រ 30 ។ សំបុត្រ មួយ សំបុត្រ មាន សំបុត្រ 100 ។ សិស្ស ថ្នាក់ ទី 4 បាន ទិញ សំបុត្រ 30% ហើយ សិស្ស ថ្នាក់ ទី 5 បាន ទិញ សំបុត្រ 50% ដែល នៅ សល់ ។ បន្ទាប់ មក សិស្ស ថ្នាក់ ទី 6 បាន ទិញ សំបុត្រ 100 សរុប ។ មាន សំបុត្រ ប៉ុន្មាន ដែល នៅ សល់ មិន ទិញ ?",
+          "answer": "មានការបញ្ជាទិញសរុបចំនួន 30 x 100 = <<30*100=3000>>3000 ដោយអ្នករៀបចំសាលារៀន។\nសិស្សថ្នាក់ទី០ [P] បានទិញ 3000 x 30/100 = <<3000*30/100=900>> 900 4\nដូច្នេះ មាន 3000 - 900 = <<3000-900=2100>>2100 សំបុត្រ នៅ សល់ សម្រាប់ កម្រិត ថ្នាក់ ពីរ ផ្សេង ទៀត ។\nសិស្សថ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4781,
+          "question": "50ម៉ោង 2.5 ម៉ោង ម៉ោង ម៉ោង 62 ម៉ោង 2 ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង]",
+          "answer": "លោក Joseph ធ្វើដំណើរសម្រាប់ 50 * 2.5 = <<50*2.5=125>>125 ម៉ៃល។\nKyle ធ្វើដំណើរសម្រាប់ 62 * 2 = <<62*2=124>>124 ម៉ៃល។\nJoseph បើកបរសម្រាប់ 125 - 124 = <<125-124=1>>1 ម៉ៃលជាង Kyle ។\n#### 1"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1293,
+          "question": "10% អាវយឺត 3 ពី $15 អាវយឺត 5 អាវយឺត $17 អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺ] អាវយឺត [P] អាវយឺត [P] អាវយឺ]",
+          "answer": "សម្លៀកបំពាក់ខ្លីរបស់ Jimmy មានតម្លៃ 3 x $15 = $<<3*15=45>>45.\nតម្លៃអាវរបស់ Irene គឺ 5 x $17 = $<<5*17=85>>85.\nតម្លៃសរុបសម្រាប់សម្លៀកបំពាក់គឺ $45 + $85 = $<<45+85=130>>130.\n10% ការបន្ថយលើសម្លៀកបំពាក់គឺ $130 x 10% = $<<130*10*.01=13>>13.\nពួកគេផ្តល់ដល់អ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1708,
+          "question": "ក្រុម បាល់ទាត់ របស់ Mark បាន រក ចំណាត់ថ្នាក់ 25 2 ចំណាត់ថ្នាក់ 8 3 ចំណាត់ថ្នាក់ និង 10 ការបោះ សេរី ។ គូប្រកួត របស់ ពួកគេ បាន រក ចំណាត់ថ្នាក់ ចំនួន ពីរ ដង នៃ ចំណាត់ថ្នាក់ 2 ប៉ុន្តែ ពាក់កណ្តាល នៃ ចំណាត់ថ្នាក់ និង ការបោះ សេរី 3 ។ តើ ចំនួន ចំណាត់ថ្នាក់ សរុប ដែល បាន រកឃើញ ដោយ ក្រុម ទាំងពីរ រួមគ្នា មាន ប៉ុន្មាន?",
+          "answer": "ក្រុមរបស់ Mark បានរកចំណាត់ថ្នាក់ 25 2 ដែលមានន័យថា ពួកគេបានរកចំណាត់ថ្នាក់ 25*2= <<25*2=50>>50 ក្នុងចំណាត់ថ្នាក់ 2 ។\nក្រុមរបស់គាត់ក៏បានរកចំណាត់ថ្នាក់ 6 3 ដែលមានន័យថាពួកគេបានរកចំណាត់ថ្នាក់ 8*3= 24 ក្នុងចំណាត់ថ្នាក់ 3\nពួកគេបានរកចំណាត់ថ្នាក់ 10 ការបោះសេរី"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2734,
+          "question": "អាន់នី ដាំ ពោត 3 ពោត បាសីល 9 ពោត រ៉ូ សា ម៉ា រី 6 ពោត ថៃ ម៉ា រី ។ ពោត ថៃ ម៉ា រី 4 ពោត ថៃ ម៉ា រី 18 ពោត ថៃ ម៉ា រី 30 ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ ម៉ា រី ពោត ថៃ] ពោត ថៃ ពោត ថៃ ម៉ា រី ពោត] ពោត ថៃ] ពោត ថៃ ពោត] ពោត ពោត] ពោត] ពោត [P]",
+          "answer": "ដំបូង ចូរ រក ចំនួន សរុប នៃ ស្លឹក បាសីល: 3 កៅអី * 4 ស្លឹក / កៅអី = <<3*4=12>> 12 ស្លឹក\nបន្ទាប់មករកលេខសរុបនៃពណ៌ក្រូចឆ្មារ: 9 កញ្ចប់ * 18 ស្លឹក/កញ្ចប់ = <<9*18=162>>162 ស្លឹក\nបន្ទាប់មករកលេខសរុបនៃពណ៌តៃម៉ៃ: 6 អាង * 30 ស្លឹក/អាង = <<6*30=180>>180 ស្លឹក\nបន្"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3045,
+          "question": "សម្រាប់ ពិធី បុណ្យ សប្បាយ នោះ អ្នក រៀបចំ សាលា បាន បញ្ជា ទិញ សំបុត្រ 30 ។ សំបុត្រ មួយ សំបុត្រ មាន សំបុត្រ 100 ។ សិស្ស ថ្នាក់ ទី 4 បាន ទិញ សំបុត្រ 30% ហើយ សិស្ស ថ្នាក់ ទី 5 បាន ទិញ សំបុត្រ 50% ដែល នៅ សល់ ។ បន្ទាប់ មក សិស្ស ថ្នាក់ ទី 6 បាន ទិញ សំបុត្រ 100 សរុប ។ មាន សំបុត្រ ប៉ុន្មាន ដែល នៅ សល់ មិន ទិញ ?",
+          "answer": "មានការបញ្ជាទិញសរុបចំនួន 30 x 100 = <<30*100=3000>>3000 ដោយអ្នករៀបចំសាលារៀន។\nសិស្សថ្នាក់ទី០ [P] បានទិញ 3000 x 30/100 = <<3000*30/100=900>> 900 4\nដូច្នេះ មាន 3000 - 900 = <<3000-900=2100>>2100 សំបុត្រ នៅ សល់ សម្រាប់ កម្រិត ថ្នាក់ ពីរ ផ្សេង ទៀត ។\nសិស្សថ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4781,
+          "question": "50ម៉ោង 2.5 ម៉ោង ម៉ោង ម៉ោង 62 ម៉ោង 2 ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង]",
+          "answer": "លោក Joseph ធ្វើដំណើរសម្រាប់ 50 * 2.5 = <<50*2.5=125>>125 ម៉ៃល។\nKyle ធ្វើដំណើរសម្រាប់ 62 * 2 = <<62*2=124>>124 ម៉ៃល។\nJoseph បើកបរសម្រាប់ 125 - 124 = <<125-124=1>>1 ម៉ៃលជាង Kyle ។\n#### 1"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 111,
+          "question": "[រូបភាព នៅ ទំព័រ ១២] $2, $3, $15",
+          "answer": "តម្លៃនៃទឹកសាបគឺ 2 * 2 = $<<2*2=4>>4.\nដូច្នេះ សរុប គាត់ បាន បង់ ថ្លៃ ទិញ របស់ គាត់ 2 + 3 + 4 = $<<2+3+4=9>>9.\nដែលមានន័យថាគាត់មាន 15 - 9 = $<<15-9=6>>6 នៅសល់។\n#### 6"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 132,
+          "question": "[រូបភាព នៅ ទំព័រ ១៦] 5 4 $5.50",
+          "answer": "គាត់បានទិញសាច់គោមួយគីឡូក្រាម 5 4 <<5*4=20>> 20\nដូច្នេះ គាត់បានបង់ប្រាក់ 20*5.5=$<<20*5.5=110>>110\n#### 110"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 207,
+          "question": "[រូបភាព នៅ ទំព័រ ១៦] 3",
+          "answer": "គាត់ជាអ្នកស្ម័គ្រចិត្ត 2*12=<<2*12=24>>24 ជារៀងរាល់ឆ្នាំ\nដូច្នេះ គាត់ ស្ម័គ្រចិត្ត សម្រាប់ 24*3=<<24*3=72>>72 ម៉ោង\n#### 72"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 211,
+          "question": "[រូបភាព នៅ ទំព័រ ១៦] ឆ្នាំ ២០០៩ លោកស្រី បាន ទទួល រង្វាន់ ជា ច្រើន ដែល មាន ដូចជា ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ សិក្សា អំពី ការ ",
+          "answer": "ដំបូង ត្រូវ រក កំណើន ប្រាក់ ឈ្នួល ដោយ បង្កើន ប្រាក់ ឈ្នួល ឆ្នាំ មុន ទៅ 30%: $1000 * . 3 = $<<1000*.3=300>>300\nបន្ទាប់មករកចំណូលអាហារឡើងវិញ ដោយបង្កើនចំណូលឆ្នាំមុនទៅ 50%: $200 * . 5 = $<<200*.5=100>>100\nបន្ទាប់មករកតម្លៃសន្តិសុខរថយន្តថ្មី ដោយចំនាយតម្លៃឆ្"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 260,
+          "question": "[រូបភាព នៅ ទំព័រ ១៦] 5 6",
+          "answer": "ប្រសិនបើពន្លឺបានលឿនឡើង 5 feet ក្នុងមួយម៉ោង, នេះមានន័យថាក្នុង 6 ម៉ោងពន្លឺនឹងលឿនឡើងពីសូត្រទៅ 5*6=<<5*6=30>>30 feet។\nដោយមាន 12 អ៊ីញក្នុងកម្ពស់គ្រប់ជើងនេះ មានន័យថាពន្លឺនៃអគារនឹងមាន 30*12= <<30*12=360>>360 អ៊ីញ។\n#### 360"
+        }
+      ],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3081,
+          "question": "ផ្នែកមួយនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែក។ 5",
+          "answer": "ផ្ទាំងពោតមួយនេះមាន 5*6 = <<5*6=30>>30 square feet ។\nផ្ទាំងពោតមួយគឺ 30/2 = <<30/2=15>>15 square feet ។\n#### 15"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 3081,
+          "question": "ផ្នែកមួយនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែកនៃផ្នែក។ 5",
+          "answer": "តើផ្ទៃដីមួយផ្ទៃនៃដំឡូងមីមានទំហំប៉ុន្មាន? ** ផ្ទៃដីមួយផ្ទៃនៃដំឡូងមីមានទំហំ 5*6 = <<5*6=30>>30 square feet។\nតើផ្ទៃដីមួយកែវធំប៉ុន្មាន? ** ផ្ទៃដីមួយកែវធំគឺ 30/2 = <<30/2=15>>15 square feet ។\n#### 15"
+        }
+      ],
+      "repeated_bracket_p_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1293,
+          "question": "10% អាវយឺត 3 ពី $15 អាវយឺត 5 អាវយឺត $17 អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺ] អាវយឺត [P] អាវយឺត [P] អាវយឺ]",
+          "answer": "សម្លៀកបំពាក់ខ្លីរបស់ Jimmy មានតម្លៃ 3 x $15 = $<<3*15=45>>45.\nតម្លៃអាវរបស់ Irene គឺ 5 x $17 = $<<5*17=85>>85.\nតម្លៃសរុបសម្រាប់សម្លៀកបំពាក់គឺ $45 + $85 = $<<45+85=130>>130.\n10% ការបន្ថយលើសម្លៀកបំពាក់គឺ $130 x 10% = $<<130*10*.01=13>>13.\nពួកគេផ្តល់ដល់អ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4781,
+          "question": "50ម៉ោង 2.5 ម៉ោង ម៉ោង ម៉ោង 62 ម៉ោង 2 ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង]",
+          "answer": "លោក Joseph ធ្វើដំណើរសម្រាប់ 50 * 2.5 = <<50*2.5=125>>125 ម៉ៃល។\nKyle ធ្វើដំណើរសម្រាប់ 62 * 2 = <<62*2=124>>124 ម៉ៃល។\nJoseph បើកបរសម្រាប់ 125 - 124 = <<125-124=1>>1 ម៉ៃលជាង Kyle ។\n#### 1"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6870,
+          "question": "3 ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ ថ្ងៃ] ថ្ងៃ ថ្ងៃ ថ្ងៃ] [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ងៃ] ថ្ងៃ [P] ថ្ងៃ [P] ថ្ង",
+          "answer": "Jamie និង Oliver នឹងចំណាយ $24 x 2 = $<<24*2=48>>48 សម្រាប់សំបុត្រយន្តហោះ។\nពួកគេនឹងចំណាយ $12 x 2 = $<<12*2=24>>24 សម្រាប់ការស្នាក់នៅក្នុងសណ្ឋាគារក្នុងមួយថ្ងៃ។\nដូច្នេះ លុយ សរុប ដែល ពួកគេ នឹង ចំណាយ លើ សណ្ឋាគារ សម្រាប់ ការ ស្នាក់ នៅ 3 ថ្ងៃ គឺ $24 x 3 = $"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 1293,
+          "question": "10% អាវយឺត 3 ពី $15 អាវយឺត 5 អាវយឺត $17 អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺត [P] អាវយឺ] អាវយឺត [P] អាវយឺត [P] អាវយឺ]",
+          "answer": "តើ សម្លៀកបំពាក់ ខ្លី របស់ Jimmy មាន តម្លៃ ប៉ុន្មាន? ** សម្លៀកបំពាក់ ខ្លី របស់ Jimmy មាន តម្លៃ 3 x $15 = $<<3*15=45>>45.\nតើអាវរបស់ Irene មានតម្លៃប៉ុន្មាន? ** អាវរបស់ Irene មានតម្លៃ 5 x $17 = $<<5*17=85>>85.\nតើ សម្លៀកបំពាក់ របស់ Jimmy និង Irene មាន តម្"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 4781,
+          "question": "50ម៉ោង 2.5 ម៉ោង ម៉ោង ម៉ោង 62 ម៉ោង 2 ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង [P] ម៉ោង] ម៉ោង]",
+          "answer": "** លោក យ៉ូសែប ធ្វើ ដំណើរ អស់ រយៈ ពេល 50 * 2.5 = <<50*2.5=125>>125 ម៉ៃល។\nKyle ធ្វើដំណើរ ប៉ុន្មាន ម៉ែត្រ? ** Kyle ធ្វើដំណើរ សម្រាប់ 62 * 2 = <<62*2=124>> 124 ម៉ែត្រ។\nតើ Joseph បាន បើកបរ បាន ប៉ុន្មាន ម៉ែត្រ ទៀត ជាង Kyle? ** Joseph បាន បើកបរ បាន 125 - 12"
+        }
+      ],
+      "many_unlabeled_digit_question": []
+    },
+    "lao_Laoo": {
+      "bracket_p_any": [
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 3983,
+          "question": "ນາງຢາກເຮັດງານລ້ຽງອາຫານຄ່ໍາທີ່ສຸມໃສ່ soufflés. ແຕ່ລະ souffle ທີ່ແຊບຕ້ອງການໄຂ່ 8 ແຕ່ລະຄົນແລະອາຫານຫວານທີ່ຕ້ອງການໄຂ່ 6 ແຕ່ລະຄົນ. ນາງຕ້ອງການເຮັດ 3 soufflés ທີ່ແຊບແລະ 5 dessert soufflés ສໍາ ລັບງານລ້ຽງ. ນາງຕ້ອງການໄຂ່ເທົ່າໃດ?",
+          "answer": "** 8 3 8 3 <<8*3=24>> 24 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\n** ຊອຟລອຍອາຫານຫວານຕ້ອງການໄຂ່ 6 ແຕ່ລະອັນແລະນາງຕ້ອງການເຮັດ 5 ຈາກພວກນີ້ "
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 3983,
+          "question": "ນາງຢາກເຮັດງານລ້ຽງອາຫານຄ່ໍາທີ່ສຸມໃສ່ soufflés. ແຕ່ລະ souffle ທີ່ແຊບຕ້ອງການໄຂ່ 8 ແຕ່ລະຄົນແລະອາຫານຫວານທີ່ຕ້ອງການໄຂ່ 6 ແຕ່ລະຄົນ. ນາງຕ້ອງການເຮັດ 3 soufflés ທີ່ແຊບແລະ 5 dessert soufflés ສໍາ ລັບງານລ້ຽງ. ນາງຕ້ອງການໄຂ່ເທົ່າໃດ?",
+          "answer": "** 8 3 8 3 <<8*3=24>> 24 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\n** ຊອຟລອຍອາຫານຫວານຕ້ອງການໄຂ່ 6 ແຕ່ລະອັນແລະນາງຕ້ອງການເຮັດ 5 ຈາກພວກນີ້ "
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 576,
+          "question": "ຖ້າຫາກວ່າເຊຊີລ໌ຊື້ແອບເປີ້ນ 15, ພວກເຂົາຊື້ແອບເປີ້ນຈໍານວນເທົ່າໃດ?",
+          "answer": "ນາງ Diane ຊື້ 15 + 20 = <<15+20=35>>35 ຫມາກແອບເປີ້ນ.\nດັ່ງນັ້ນ, ພວກເຂົາຊື້ 15 + 35 = <<15+35=50>>50 ຫມາກແອບເປີ້ນທັງ ຫມົດ.\n#### 50"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 897,
+          "question": "ລວງຍາວຂອງເຈ້ຍທີ່ມີຮູບຊົງສີ່ສີ່ສີ່ສີ່ສີ່ສີ່ສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິບສິ",
+          "answer": "ລວງຍົນຂອງກ້ອນແມ່ນພົບໂດຍ 4 * ດ້ານ, ຊຶ່ງຫມາຍຄວາມວ່າເຈ້ຍກ້ອນມີລວງຍົນຂອງ 4*20 = <<4*20=80>>80\nເນື່ອງຈາກວ່າເສັ້ນຜ່າຂອງສະກູແມ່ນ 20 ຊມສັ້ນກວ່າຄວາມສູງຂອງ ຫນ້າ ຈໍຄອມພິວເຕີ, ຄວາມສູງຂອງ ຫນ້າ ຈໍຄອມພິວເຕີແມ່ນ 20+80 = <<20+80=100>>100cm.\n#### 100"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1816,
+          "question": "Johnny ກໍາລັງອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອກມາອອ",
+          "answer": "ຍ້ອນວ່າ Johnny ແລະລູກຊາຍຂອງລາວແມ່ນມະນຸດ, ແລະມະນຸດຍ່າງເທິງສອງຕີນ, ນີ້ ຫມາຍ ຄວາມວ່າລະຫວ່າງສອງຄົນຂອງພວກເຂົາມີ 2 * 2 = <<2*2=4>> 4 ຂອງຮ່າງກາຍທີ່ເທົ່າກັບຕີນ.\nມີ ຫມາ ສອງ ຄົນ ຍ່າງ ໄປ ນໍາ ກັນ, ແລະ ນັບ ແຕ່ ຫມາ ຍ່າງ ຢູ່ ເທິງ ຂາ 4 ນີ້ ຫມາຍ ຄວາມ ວ່າ ມີ 2*4=<<2*4"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2139,
+          "question": "ຖ້າມີຫມູຫົກສິບຫ້າໂຕໃນມະຫາສະຫມຸດ, ແລະສາມເທົ່າຂອງຈໍານວນນັ້ນເຂົ້າຮ່ວມຈາກແມ່ນ້ໍາທີ່ມີປາກໃນມະຫາສະຫມຸດ, ຄິດໄລ່ຈໍານວນຫມູທັງຫມົດໃນມະຫາສະຫມຸດ.",
+          "answer": "ເມື່ອມີຫມູມມ້າ 3 ເທົ່າໃນທະເລທະເລ ຈາກແມ່ນໍ້າ, ຈໍານວນຫມູມມ້າໃນທະເລທະເລທະເລຈະເພີ່ມຂຶ້ນ 3 * 65 = <<3*65=195>> 195\nຈໍານວນຫມູມປາທັງຫມົດໃນມະຫາສະຫມຸດເພີ່ມຂຶ້ນເປັນ 195+65 = <<195+65=260>>260\n#### 260"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3098,
+          "question": "ອາຍຸຂອງສາມນ້ອງແມ່ນເລກເຕັມທີ່ຕິດຕໍ່ກັນທີ່ມີການລວມຂອງ 96. ນ້ອງຊາຍທີ່ນ້ອຍທີ່ສຸດມີອາຍຸເທົ່າໃດ?",
+          "answer": "ໃຫ້ x ເປັນຕົວແທນຂອງອ້າຍນ້ອຍ\nອ້າຍກາງ: x+1\nອ້າຍຊາຍໃຫຍ່: x+2\nລວມ: x+x+1+x+2=96\n3x+3=96\n3x=93\nx=<<31=31>>31 ປີ\n#### 31"
+        }
+      ],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "mya_Mymr": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 369,
+          "question": "Monika သည် တစ်နေ့ထွက်၍ ငွေအနည်းငယ်ကုန်ကျသည်။ သူမသည် ကုန်စုံဆိုင်သို့သွား၍ $250 ကုန်ကျသည်။ ထို့နောက် ရုပ်ရှင်ရုံသို့သွား၍ 3 ရုပ်ရှင်များကို တစ်ကြိမ်ကြည့်ကာ တစ်ကြိမ်လျှင် $24 ကုန်ကျသည်။ ထို့နောက် အိမ်သို့ပြန်လာစဉ် တောင်သူဈေးသို့သွား၍ $1.25 / bag မှ 20 အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်။ Monika သည် တစ်နေ့လုံး ငွေဘယ်လောက်ကုန်ကျခဲ့သနည်း။ သူမသည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်၊ Monika သည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်။ Monika သည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ",
+          "answer": "Monika ဟာ ရုပ်ရှင်ရုံမှာ ဒေါ်လာ 24*3 = <<24*3=72>>72 သုံးခဲ့တယ်။\nMonika ဟာ လယ်သမား စျေးမှာ ဒေါ်လာ 20*1.25 = <<20*1.25=25>>25 သုံးခဲ့တယ်။\nသူမရဲ့ တစ်နေ့လုံး Monika ဟာ 250+72+25 = <<250+72+25=347>>347 ဒေါ်လာတွေသုံးခဲ့တယ်။\n#### 347"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 761,
+          "question": "Joan က စျေးဆိုင်မှာ။ သူမမှာ စုစုပေါင်း သုံးစရာ $60 ရှိတယ်။ 2 အိုးတစ်လုံးစီမှာ $5 ရှိတဲ့ ဟွမ်မုန့်ဝယ်တော့မယ်။ $20, အတွက် ကြက်သားဝယ်တော့မယ်။ $10, အတွက် မုန့်ချိုဝယ်တော့မယ်။ $10 အတွက် ဟင်းသီးဟင်းရွက်ဝယ်တော့မယ်။ $2 တစ်ခုစီမှာ ပန်းသီးဝယ်ချင်တယ်။ ကျန်တဲ့ငွေနဲ့ ပန်းသီးဘယ်နှစ်လုံး ဝယ်နိုင်လဲ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ [P] [P]",
+          "answer": "ဟွမ်စ်၏ စုစုပေါင်းကုန်ကျစရိတ်သည် 2 * $5 = $<<2*5=10>>10\nကြက်သား၊ မုန့်ချိုနဲ့ ဟင်းသီးဟင်းရွက်တွေရဲ့ စုစုပေါင်း ကုန်ကျစရိတ်က $20 + $10 + $10 = $<<20+10+10=40>>40\nသူမမှာ ကျန်တဲ့ငွေက $60 - $10 - $40 = $<<60-10-40=10>>10\nသူမ ဝယ်ယူနိုင်တဲ့ ပန်းသီးပမာဏက $1"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 811,
+          "question": "200 ငါးရောင်းတဲ့ ကန်ဆိုင်ပိုင်ရှင်ပါ။ 50 ငါးရောင်းတယ်။ သူ့ရေခဲသေတ္တာတွေ အလုပ်မလုပ်တော့တဲ့အတွက် ကျန်တဲ့ ငါး သုံးပုံတစ်ပုံ ပျက်စီးသွားတယ်။ 200 ငါးသစ်တွေ ထပ်လာတယ်၊ သူ့မှာ အခု ငါးဘယ်လောက် ရှိလဲ။ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါး",
+          "answer": "200 ငါးရှိပြီး 50, ရောင်းတယ်ဆိုရင် 200 - 50 = <<200-50=150>> 150 ငါး ကျန်နေပါလိမ့်မယ်\nငါး သုံးပုံတစ်ပုံ ပျက်စီးသွားရင် 1/3 * 150 = <<150*1/3=50>> 50 ငါးတွေ ပျက်စီးသွားမယ်။\nကျန်တဲ့ ငါးအရေအတွက်က အခု 150 - 50 = <<150-50=100>>100\n200 ပိုရလာျပီး 100 + 200"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1270,
+          "question": "[P]k အတွက် အိမ်သစ်တစ်လုံးဝယ်ခဲ့တယ်။ သူမက အိမ်အတွက် $40k ငွေသွင်းပြီး ကျန်ငွေကို 10 နှစ်အတွင်း ဖြန့်ဝေတဲ့ အိမ်ရှင်ချေးငွေကို သုံးပြီး ပေးတယ်။ Danielle ဟာ လစဉ်တူညီတဲ့ ပေးချေမှုလုပ်ပြီး 10 နှစ်ကုန်တဲ့အခါ ကျန်ငွေအားလုံးကို ပြန်ပေးချေလိမ့်မယ်။ Danielle ဟာ လစဉ် ဒေါ်လာထောင်ချီပေးတယ်။ $280",
+          "answer": "ငွေချေးပြီးနောက် Danielle ဟာ အိမ်အပေါင်ငွေကနေ စုစုပေါင်း $280k ဝယ်ယူစျေးနှုန်းကို ပေးချေဖို့လိုဆဲပါ။ $40 <<280-40=240>> 240\nအိမ်ရှင်ငွေဟာ 10 နှစ်ထက်ပိုပြီးဖြစ်တာကြောင့် Danielle ရဲ့ငွေပေးချေမှုတွေဟာ တစ်နှစ်ကို $240k အိမ်ရှင်ငွေစုငွေ / 10 နှစ် = $<<24"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1502,
+          "question": "[P] ကနေ 1 ဆရာမ၊ 1 ဆရာမ အကူအညီပေးသူတွေပါရှိသည်။ 3 ကျောင်းသားတွေ အဲဒီနေ့မှာ နေမကောင်းဖြစ်တယ်လို့ ပြောရင် Dani က အတန်းထဲက လူတိုင်းကို တစ်လုံးပေးပြီးနောက် ဘယ်နှစ်လုံးလောက် ကျန်နေလဲ။ 2 27",
+          "answer": "Dani က 2.5 x 12 = <<2.5*12=30>>30 ကိတ်မုန့်တွေ ယူလာပေးတယ်။\nသူမဟာ စာသင်ခန်းထဲက လူတိုင်းကို ကျွေးမွေးဖို့ ဒီလောက်များများ စားပြုတ်စရာတွေ လိုအပ်ပါတယ်။ 27 + 2 = <<27+2=29>>29.\n3 ကျောင်းသားတွေ နေမကောင်းဘူးလို့ တိုင်ကြားနေတာကြောင့် ဒီနေ့ စာသင်ခန်းထဲမှာ ဒီလ"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 369,
+          "question": "Monika သည် တစ်နေ့ထွက်၍ ငွေအနည်းငယ်ကုန်ကျသည်။ သူမသည် ကုန်စုံဆိုင်သို့သွား၍ $250 ကုန်ကျသည်။ ထို့နောက် ရုပ်ရှင်ရုံသို့သွား၍ 3 ရုပ်ရှင်များကို တစ်ကြိမ်ကြည့်ကာ တစ်ကြိမ်လျှင် $24 ကုန်ကျသည်။ ထို့နောက် အိမ်သို့ပြန်လာစဉ် တောင်သူဈေးသို့သွား၍ $1.25 / bag မှ 20 အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်။ Monika သည် တစ်နေ့လုံး ငွေဘယ်လောက်ကုန်ကျခဲ့သနည်း။ သူမသည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်၊ Monika သည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ ၀ ယ်ယူခဲ့သည်။ Monika သည် / bag မှ အိတ်များတွင် ဒိန်ချဉ်များ",
+          "answer": "Monika ဟာ ရုပ်ရှင်ရုံမှာ ဒေါ်လာ 24*3 = <<24*3=72>>72 သုံးခဲ့တယ်။\nMonika ဟာ လယ်သမား စျေးမှာ ဒေါ်လာ 20*1.25 = <<20*1.25=25>>25 သုံးခဲ့တယ်။\nသူမရဲ့ တစ်နေ့လုံး Monika ဟာ 250+72+25 = <<250+72+25=347>>347 ဒေါ်လာတွေသုံးခဲ့တယ်။\n#### 347"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 761,
+          "question": "Joan က စျေးဆိုင်မှာ။ သူမမှာ စုစုပေါင်း သုံးစရာ $60 ရှိတယ်။ 2 အိုးတစ်လုံးစီမှာ $5 ရှိတဲ့ ဟွမ်မုန့်ဝယ်တော့မယ်။ $20, အတွက် ကြက်သားဝယ်တော့မယ်။ $10, အတွက် မုန့်ချိုဝယ်တော့မယ်။ $10 အတွက် ဟင်းသီးဟင်းရွက်ဝယ်တော့မယ်။ $2 တစ်ခုစီမှာ ပန်းသီးဝယ်ချင်တယ်။ ကျန်တဲ့ငွေနဲ့ ပန်းသီးဘယ်နှစ်လုံး ဝယ်နိုင်လဲ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ ကတော့ ပါ။ [P] [P]",
+          "answer": "ဟွမ်စ်၏ စုစုပေါင်းကုန်ကျစရိတ်သည် 2 * $5 = $<<2*5=10>>10\nကြက်သား၊ မုန့်ချိုနဲ့ ဟင်းသီးဟင်းရွက်တွေရဲ့ စုစုပေါင်း ကုန်ကျစရိတ်က $20 + $10 + $10 = $<<20+10+10=40>>40\nသူမမှာ ကျန်တဲ့ငွေက $60 - $10 - $40 = $<<60-10-40=10>>10\nသူမ ဝယ်ယူနိုင်တဲ့ ပန်းသီးပမာဏက $1"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 811,
+          "question": "200 ငါးရောင်းတဲ့ ကန်ဆိုင်ပိုင်ရှင်ပါ။ 50 ငါးရောင်းတယ်။ သူ့ရေခဲသေတ္တာတွေ အလုပ်မလုပ်တော့တဲ့အတွက် ကျန်တဲ့ ငါး သုံးပုံတစ်ပုံ ပျက်စီးသွားတယ်။ 200 ငါးသစ်တွေ ထပ်လာတယ်၊ သူ့မှာ အခု ငါးဘယ်လောက် ရှိလဲ။ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါးတွေ ထပ်လာတယ်၊ ငါး",
+          "answer": "200 ငါးရှိပြီး 50, ရောင်းတယ်ဆိုရင် 200 - 50 = <<200-50=150>> 150 ငါး ကျန်နေပါလိမ့်မယ်\nငါး သုံးပုံတစ်ပုံ ပျက်စီးသွားရင် 1/3 * 150 = <<150*1/3=50>> 50 ငါးတွေ ပျက်စီးသွားမယ်။\nကျန်တဲ့ ငါးအရေအတွက်က အခု 150 - 50 = <<150-50=100>>100\n200 ပိုရလာျပီး 100 + 200"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1270,
+          "question": "[P]k အတွက် အိမ်သစ်တစ်လုံးဝယ်ခဲ့တယ်။ သူမက အိမ်အတွက် $40k ငွေသွင်းပြီး ကျန်ငွေကို 10 နှစ်အတွင်း ဖြန့်ဝေတဲ့ အိမ်ရှင်ချေးငွေကို သုံးပြီး ပေးတယ်။ Danielle ဟာ လစဉ်တူညီတဲ့ ပေးချေမှုလုပ်ပြီး 10 နှစ်ကုန်တဲ့အခါ ကျန်ငွေအားလုံးကို ပြန်ပေးချေလိမ့်မယ်။ Danielle ဟာ လစဉ် ဒေါ်လာထောင်ချီပေးတယ်။ $280",
+          "answer": "ငွေချေးပြီးနောက် Danielle ဟာ အိမ်အပေါင်ငွေကနေ စုစုပေါင်း $280k ဝယ်ယူစျေးနှုန်းကို ပေးချေဖို့လိုဆဲပါ။ $40 <<280-40=240>> 240\nအိမ်ရှင်ငွေဟာ 10 နှစ်ထက်ပိုပြီးဖြစ်တာကြောင့် Danielle ရဲ့ငွေပေးချေမှုတွေဟာ တစ်နှစ်ကို $240k အိမ်ရှင်ငွေစုငွေ / 10 နှစ် = $<<24"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1502,
+          "question": "[P] ကနေ 1 ဆရာမ၊ 1 ဆရာမ အကူအညီပေးသူတွေပါရှိသည်။ 3 ကျောင်းသားတွေ အဲဒီနေ့မှာ နေမကောင်းဖြစ်တယ်လို့ ပြောရင် Dani က အတန်းထဲက လူတိုင်းကို တစ်လုံးပေးပြီးနောက် ဘယ်နှစ်လုံးလောက် ကျန်နေလဲ။ 2 27",
+          "answer": "Dani က 2.5 x 12 = <<2.5*12=30>>30 ကိတ်မုန့်တွေ ယူလာပေးတယ်။\nသူမဟာ စာသင်ခန်းထဲက လူတိုင်းကို ကျွေးမွေးဖို့ ဒီလောက်များများ စားပြုတ်စရာတွေ လိုအပ်ပါတယ်။ 27 + 2 = <<27+2=29>>29.\n3 ကျောင်းသားတွေ နေမကောင်းဘူးလို့ တိုင်ကြားနေတာကြောင့် ဒီနေ့ စာသင်ခန်းထဲမှာ ဒီလ"
+        }
+      ],
+      "unlabeled_digit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2862,
+          "question": "$15.00 တွင် 9 နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ $50.00 တွင် အတွက် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိ",
+          "answer": "2 က $30.00 အတွက် ကန့်လန့်ကာ တစ်စုံတစ်စုံဝယ်တယ်။ ဒီတော့ 2*30 = $<<2*30=60.00>>60.00\n9 နံရံပုံတွေကို $15.00 မှာ ဝယ်တယ် ဒီတော့ 9*15 = $<<9*15=135.00>>135.00\nပိတ်ကားများ၏ ကုန်ကျစရိတ်သည် $60.00, ပုံနှိပ်မှုသည် $135.00 နှင့် တပ်ဆင်မှုဝန်ဆောင်မှုသည် $50.00 "
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2862,
+          "question": "$15.00 တွင် 9 နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ $50.00 တွင် အတွက် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိပ်ခြင်းများ၊ တွင် နံရံပုံနှိ",
+          "answer": "Emily က ပိတ်ကားတွေ အတွက် ဘယ်လောက် သုံးခဲ့လဲ။ ** သူမဟာ 2 တစ်စုံကို $30.00 တစ်စုံအတွက် ဝယ်ယူခဲ့ရာ အဲဒါက 2*30 = $<<2*30=60.00>>60.00\nEmily က နံရံပုံတွေမှာ ဘယ်လောက်သုံးလဲ ** သူမက နံရံပုံတွေကို 9 မှာ $15.00 မှာ ဝယ်တယ် ဒီတော့ ဒါက 9*15 = $<<9*15=135.00>>135"
+        }
+      ],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 46,
+          "question": "[စာမျက်နှာ ၂၁ ပါ ရုပ်ပုံ] 20",
+          "answer": "ပထမဦးဆုံး Carolyn ရဲ့ တယော လေ့ကျင့်မှု အချိန်ကို သူမရဲ့ စန္ဒရား လေ့ကျင့်မှု အချိန်ကို သုံးဆ တိုးပေးခြင်းဖြင့် ရှာပါ။ 20 မိနစ်/ရက် * 3 = <<20*3=60>>60 မိနစ်/ရက်\nအဲဒီနောက်မှာ သူမဟာ နေ့စဉ် လေ့ကျင့်ခန်း လုပ်နေရတဲ့ အချိန်ကို ရှာကြည့်ပါ- 60 မိနစ်/နေ့ + 20 "
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 90,
+          "question": "[စာမျက်နှာ ၂၁ ပါ ရုပ်ပုံ] 1/2 1/2",
+          "answer": "ဒီဇင်ဘာတွင် 31 ရက်၊ ဇန်နဝါရီတွင် 31 ရက်၊ ဖေဖော်ဝါရီတွင် 28 ရက်ရှိသည်၊ စုစုပေါင်း 31+31+28 = <<31+31+28=90>>90 ရက်\nသူတို့ကို မနက်ပိုင်းမှာ 1/2 ခွက်၊ နေ့လည်ပိုင်းမှာ 1/2 ခွက်နဲ့ ကျွေးမွေးတယ်၊ စုစုပေါင်း တစ်နေ့ 1/2+1/2 = <<1/2+1/2=1>>1 ခွက်ပါ။\n90 ရက်တွေ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 174,
+          "question": "[စာမျက်နှာ ၂၇ ပါ ရုပ်ပုံ] $5",
+          "answer": "သူ ရုပ်ရှင်လက်မှတ်တစ်စောင်အတွက် ဗုဒ္ဓဟူးနေ့မှာ 5*2=$<<5*2=10>>10 သုံးတယ်။\nသူ ရုပ်ရှင်လက်မှတ်တစ်စောင်အတွက် စနေနေ့မှာ 5*5=$<<5*5=25>>25 သုံးတယ်။\nသူသုံးတဲ့ စုစုပေါင်းက 10+25=$<<10+25=35>>35.\n#### 35"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 207,
+          "question": "[စာမျက်နှာ ၂၁ ပါ ရုပ်ပုံ] 3",
+          "answer": "သူက နှစ်စဉ်နှစ်စဉ် 2*12=<<2*12=24>>24 စေတနာ့ဝန်ထမ်းလုပ်တယ်။\nဒီတော့ သူဟာ 24*3=<<24*3=72>>72 နာရီတွေ အတွက် စေတနာ့ဝန်ထမ်းလုပ်တယ်။\n#### 72"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 211,
+          "question": "[စာမျက်နှာ ၂၁ ပါ ရုပ်ပုံ] မနှစ်က ဂျက်စီကာက အိမ်လခ $1000၊ အစားအစာအတွက် $200၊ ကားအာမခံအတွက် $100 လစဉ်ပေးခဲ့တယ်။ ဒီနှစ် သူမရဲ့ အိမ်လခဟာ 30% တိုးလာတယ်၊ အစားအစာစရိတ်က 50% တိုးလာပြီး သူမရဲ့ ကားအာမခံစရိတ်က သူမအမှားကြောင့် သုံးဆဖြစ်သွားတယ်။ မနှစ်ကထက် တစ်နှစ်လုံး သူမရဲ့ကုန်ကျစရိတ်တွေကို ဂျက်စီကာက ဘယ်လောက်ပိုပေးလဲ။",
+          "answer": "ပထမဦးဆုံးက ပြီးခဲ့တဲ့နှစ်ရဲ့ ငှားရမ်းငွေကို 30% နဲ့ မြှောက်ခြင်းဖြင့် ငှားရမ်းငွေတိုးမှုကိုရှာပါ။ $1000 * .3 = $<<1000*.3=300>>300\nပြီးရင် ကုန်ကျစရိတ်တိုးလာမှုကို ပြီးခဲ့တဲ့နှစ်ကုန်ကျစရိတ်ကို 50% နဲ့မြှောက်ပြီးရှာပါ $200 * .5 = $<<200*.5=100>>100\nပြီ"
+        }
+      ],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 224,
+          "question": "\"အဘိုးအဘွားများ၏ အမိန့်တော်\" 4080",
+          "answer": "ဒုတိယ ကျမ်းလိပ်က 4080 + 4080 / 2 = 4000 + 2040 = <<4080+4080/2=6120>>6120 နှစ်ပါ။\nတတိယ ကျမ်းလိပ်က 6120 + 6120 / 2 = 6120 + 3060 = <<6120+6120/2=9180>>9180 နှစ်ပါ။\nစတုတ္ထ ကျမ်းလိပ်က 9180 + 9180 / 2 = 9180 + 4590 = <<9180+9180/2=13770>>13770 နှစ်ပါ။\nပဉ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1276,
+          "question": "\"အဲဒီလိုဖြစ်ခဲ့ရင် ဘာဆက်ဖြစ်မလဲ\"",
+          "answer": "Freyja ဟာ ၁၀ နှစ်အရွယ်ရှိပြီး Eli ဟာ 10+9 = <<10+9=19>>19 နှစ်ပါ။\nSarah ရဲ့အသက်က Eli ရဲ့နှစ်ဆ၊ အဲဒီတော့ Sarah က 2*19= <<2*19=38>>38 နှစ်ပါ။\nKaylin ဟာ Sarah ထက် ငါးနှစ်ငယ်ပြီး အဲဒီနောက်မှာ 38-5 = <<38-5=33>>33 နှစ်ပါ။\n#### 33"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1775,
+          "question": "12 စိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်းစိုင်",
+          "answer": "ဒုတိယကျောင်းသားက ပထမကျောင်းသားထက် 12/3 = 4 ပိုများတဲ့ ဂဏန်းတွေကို ရေတွက်ခဲ့တယ်။\nဒုတိယကျောင်းသားက 12+4 = <<12+4=16>>16 စွန်တွေကို ရေတွက်တယ်။\nပထမနဲ့ ဒုတိယ ကျောင်းသားတွေ ပေါင်းလိုက်တော့ 12+16 = <<12+16=28>>28 စွန်တွေ ရေတွက်တယ်။\n#### 28"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2209,
+          "question": "28 စင်္ကြန်တွေရှိရင် ငါးဘယ်နှစ်ကောင်ရှိလဲ။",
+          "answer": "ငါးမန်းကောင်ရေဟာ ငါးမန်းကောင်ရေထက် နှစ်ဆများတယ်ဆိုရင် ငါးမန်းကောင်ရေဟာ 2 ငါးမန်းကောင်/ ငါးမန်းကောင်ရေ * 28 ငါးမန်းကောင်ရေ = <<2*28=56>>56 ငါးမန်းကောင်ရေ\nရေကန်ထဲက ငါးအရေအတွက်က 56 ငါးမန်း + 28 ငါးမန်း = <<56+28=84>>84 ငါး\n#### 84"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 3950,
+          "question": "\"အဲဒီပွဲမှာ အနိုင်ရခဲ့သူက ဘယ်နှစ်ယောက်လဲ\"",
+          "answer": "ပြိုင်ဘက်အသင်းသည် 3 ပွဲများတွင် အနိုင်ရခဲ့သော အိမ်ကွင်းထက် နှစ်ဆပို၍ နိုင်ခဲ့သည်၊ ထို့ကြောင့် 2*3 = <<2*3=6>>6 ပွဲများတွင် နိုင်ခဲ့သည်။\nသူတို့နှစ်ယောက်စလုံးက 4 ပွဲကို စုစုပေါင်း 2*4 = 8 ပွဲကို ဆွဲယူခဲ့ကြတယ်။\nကစားသောပွဲပေါင်းသည် 3+6+8 = <<3+6+8=17>>17"
+        }
+      ],
+      "repeated_bracket_p_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1677,
+          "question": "$18 အနည်းဆုံး ဝယ်ယူမှုအတွက် အစာအစာချောင်းတစ်ခုက အခမဲ့ပို့ဆောင်မှုကို ကမ်းလှမ်းတယ်။ 2 မှာ ပေါင်လေးပုံတစ်ပုံ ဟန်ဂေရီ၊ 2 မှာ အကြီးစား ဖရဲသီး၊ $1.90 မှာ 2 မှာ $2.40 မှာ မှာ မှာ မှာ မှာ မှာ မှာ $3.20 မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ [P] မှာ] ",
+          "answer": "ပေါင်လေးပုံတစ်ပုံပါတဲ့ ဟင်္သာတနှစ်လုံးက $3.20 x 2 = $<<3.20*2=6.40>>6.40\nအချိုရည် ၂ လုံးက $1.90 x 2 = $<<2*1.9=3.80>>3.80\nmilkshakes နှစ်ခုက $2.40 x 2 = $<<2*2.4=4.80>>4.80 တန်တယ်။\nဟန်ဂေရီ၊ ဖရဲသီးကြော်နဲ့ ချဉ်ခေါက်ခွက်အတွက် သုံးစွဲတဲ့ စုစုပေါင်းပမာဏက"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1899,
+          "question": "$200, ကနေ အထိရှိတယ် ဆိုရင် ဘယ်နှစ်ကြိမ် ရောင်းမှာလဲ။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ ကနေ အထိရှိမှာလား။ က အထိရှိမှာလား။ က အထိရှိမှာလား။ က အထိရှိမှာလား။ က [P] အထိရှိမှာလား။ က [P] အထိရှိမှာလား။ [P] က [P] အထိရှိမှာလား။ [P] က [P] အထိရှိမှာလား။ [P] က [P] အထိရှိမှာလား။ [P] က [P] အထိရှိမှာလား။ [P] က [P] အထိရှိမှာ။ [P] 3 2 $2.50",
+          "answer": "သကြားလုံး စုစုပေါင်းအရေအတွက်က 200/2.5=<<200/2.5=80>>80 သကြားလုံးများ။\nx ကေတာ့ cherry candies အရေအတွက်ပါ။\n3*x စပျစ်သီးကက်သွန်နီတွေရှိတယ်။\n2*3*x=6*x ပန်းသီးကက်သရေတွေ ရှိတယ်။\nx+3*x+6*x=80\n10*x=80\nx=<<8=8>>8\n8*3=<<8*3=24>>24 စပျစ်သီးကက်သလစ်တွေရှိတယ်။\n###"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2743,
+          "question": "2000 ကွဲပြားတဲ့ပစ္စည်းတွေရှိပြီး ပုံမှန်အားဖြင့် $50 နဲ့ ရောင်းချမှာဖြစ်ပြီး 80% လျှော့စျေးနဲ့ 90% ကို ရောင်းချနိုင်တယ် သူတို့ အကြွေးပေးသူတွေကို $15000 ပေးဆပ်ရတယ်။ ရောင်းပြီးနောက်မှာ သူတို့မှာ ငွေဘယ်လောက်ကျန်သေးလဲ။ ကန့်သတ်ချက်က ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို [P] ကို] [P] ကို [P] ကို] [P] ကို [P] ကို] က",
+          "answer": "2000*9=<<2000*.9=1800>>1800 ပစ္စည်းတွေရောင်းတယ်။\nသူတို့က 50 * 8=$<<50*.8=40>>40 လျှော့စျေးကို ကမ်းလှမ်းခဲ့တယ်။\nဆိုလိုတာက ပစ္စည်းတစ်ခုစီကို 50-40=$<<50-40=10>>10 နဲ့ ရောင်းတာပါ။\nဒီတော့ သူတို့လုပ်တာက 1800*10=$<<1800*10=18000>>18,000\nP0-P1=$P2P3 ကျန်နေပ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4400,
+          "question": "2 MPH နဲ့ တောင်တက်ပြီး 3 MPH နဲ့ တောင်ဆင်းတယ်။ 5 မိုင်ရှည်တဲ့ လမ်းကြောင်းပါ။ 60% တောင်တက်ပြီး ကျန်တာ တောင်ဆင်းတယ်။ မိနစ်ပိုင်းအတွင်း ပြီးဖို့ ဘယ်လောက်ကြာလဲ။ မိုင်က မိုင်၊ မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မိုင်က မက မက မက] မက မက [P] မက [P] မက] မက [P] မက [P] မက] မက [P] မက [P] မက] မက [P] မက [P] မက] မက [P] မက",
+          "answer": "3 မိုင်ဟာ တောင်တက်နေလို့ 5 x .6 = <<5*.6=3>>3\nဒါက သူ့ကို 1.5 နာရီတွေယူတယ်၊ အကြောင်းက 3 / 2 = <<3/2=1.5>> 1.5\nဒါက သူ့ကို 90 မိနစ်တွေယူတယ်။ အကြောင်းက 1.5 x 60 = <<1.5*60=90>> 90\n40% သည် 100 - 60 = <<100-60=40>>40 ဖြစ်သောကြောင့် တောင်ကုန်းဆင်းနေသည်။\n2 မ"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 5186,
+          "question": "8 နှစ်က James က Janet ထက် နှစ်ဆပိုကြီးတယ်။ 15 နှစ်မှာ James က 37 နှစ်ပြည့်လိမ့်မယ်။ 3 နှစ်မှာ Susan ဘယ်နှစ်ပြည့်မလဲ။ 5 နှစ်မှာ Susan က ဘယ်နှစ်ပြည့်လဲ။ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မှာ [P] နှစ်မ",
+          "answer": "James ဟာ အသက် (၁၀) နှစ်ရှိပြီ 37 15 <<37-15=22>> 22\nဒီတော့ လွန်ခဲ့တဲ့ နှစ်တွေက 8 22-8=<<22-8=14>>14 နှစ်တွေပေါ့။\nဒါက Janet ဟာ 14/2=<<14/2=7>>7 နှစ်တွေရှိခဲ့ 8 နှစ်တွေရှိခဲ့တယ်လို့ ဆိုလိုတာပါ။\nJanet ဟာ အခု အသက် (P0) + (P1) = (P2) (P3) နှစ်ပါ။ 7 8 <<7+"
+        }
+      ],
+      "many_unlabeled_digit_question": []
+    },
+    "npi_Deva": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 206,
+          "question": "1 वर्ष पछि 148 सिंहहरू छन् भने, सुरुमा कति सिंहहरू थिए? वर्ष पछि, त्यहाँ सिंहहरू थिए। वर्ष पछि, त्यहाँ वर्ष पछि वर्ष पछि शेरहरू थिए। वर्ष पछि, त्यहाँ वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि] वर्ष पछि] वर्ष पछि",
+          "answer": "प्रत्येक महिना 5-1=<<5-1=4>>4 धेरै सिंहहरू छन्।\n4*12=<<4*12=48>>48 वर्ष पछि थप सिंह हुनेछ।\nसुरुमा लन्डोलोजीमा 148-48=<<148-48=100>>100 सिंह थिए।\n#### 100"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 562,
+          "question": "5 कुकुरहरू छन्। 6 दिनमा कति खाना चाहिन्छ? दिनमा कति खाना चाहिन्छ? दिनमा कति खाना चाहिन्छ? कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरह",
+          "answer": "आमा कुकुरले प्रति दिन 1.5 कप खाना खान्छ। 3 <<1.5*3=4.5>>\n6 दिनको लागि आमा कुकुरलाई 6 * 4.5 कप = <<6*4.5=27>>27 कप खाना चाहिन्छ।\n1/2 कप खाना * 2 = <<1/2*2=1>>1 कप प्रति दिन पिल्छन्।\n5 कुकुरहरू * 1 कप = <<5*1=5>>5 कुकुरहरूको लागि प्रति दिन कपहरू छन्।\n6"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1270,
+          "question": "[P]k को लागि नयाँ घर किन्नुभयो। उनले $40k को जम्मा रकम तिरेकी थिइन् र बाँकी रकम 10 वर्षमा बिस्तारित गरिएको एक ऋणको प्रयोग गरेर तिर्छिन्। डेनियलले हरेक महिना बराबर भुक्तानी गर्छ र 10 वर्षको अन्त्यमा, सम्पूर्ण ब्यालेन्स भुक्तानी हुनेछ। डेनियलले हजारौं डलरमा कति तिर्छन्? $280",
+          "answer": "डेनियलले जम्मा रकम तिरेपछि पनि कुल $280k खरिद मूल्य तिर्नु पर्छ - $40k जम्मा रकम = $<<280-40=240>>240k उनको घर ऋण मार्फत।\n10 वर्ष भन्दा बढीको लागि, डेनियलको भुक्तानीको कुल रकम $240k बंधक ब्यालेन्स / 10 वर्ष = $<<240/10=24>>24k प्रति वर्ष हुनुपर्दछ।\nत"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1776,
+          "question": "30 वर्गमा 74% को औसत थियो भने, पिज्जा पार्टी गर्नका लागि उसले कति अंक प्राप्त गर्नु पर्छ? को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा ] को औसतमा को औसतमा ] को औसतमा को औसतमा ] को औसतमा ] को औसतमा को औसतमा को औसतमा ] को औसतमा को औसतमा] को ",
+          "answer": "x लाई विलियमले प्राप्त गर्न आवश्यक पर्ने स्कोर मानौं।\nकक्षामा 30 मानिसहरु छन्, त्यहाँ 30 - 1 = <<30-1=29>>29 मानिसहरु छन् उनी बिना।\nकिनकि उनीहरूको औसत 74% थियो, यसको अर्थ हो कि (29 * 74 + x) / 30 >= 75 ।\nयसैले, 29 * 74 + x >= 30 * 75\nयसैले, 29 * 74 +"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2145,
+          "question": "2 5 माइल भन्दा बढी यात्रा गरे र 3 17 भन्दा कम स्टप साइनहरू भेट्टाए। [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]] [P] [P]] [P] [P]",
+          "answer": "2 मा 5 माइल भन्दा बढी यात्रा गरे, वा 5+2=<<5+2=7>>7 माइल।\nउनले 3 लाई 17 भन्दा कम स्टप संकेतहरू, वा 17-3=<<17-3=14>>14 स्टप संकेतहरू भेट्टाए।\n14/7=<<14/7=2>>2 रोक्ने संकेतहरू प्रति माइल भेटियो।\n#### 2"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 206,
+          "question": "1 वर्ष पछि 148 सिंहहरू छन् भने, सुरुमा कति सिंहहरू थिए? वर्ष पछि, त्यहाँ सिंहहरू थिए। वर्ष पछि, त्यहाँ वर्ष पछि वर्ष पछि शेरहरू थिए। वर्ष पछि, त्यहाँ वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि वर्ष पछि] वर्ष पछि] वर्ष पछि] वर्ष पछि",
+          "answer": "प्रत्येक महिना 5-1=<<5-1=4>>4 धेरै सिंहहरू छन्।\n4*12=<<4*12=48>>48 वर्ष पछि थप सिंह हुनेछ।\nसुरुमा लन्डोलोजीमा 148-48=<<148-48=100>>100 सिंह थिए।\n#### 100"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 562,
+          "question": "5 कुकुरहरू छन्। 6 दिनमा कति खाना चाहिन्छ? दिनमा कति खाना चाहिन्छ? दिनमा कति खाना चाहिन्छ? कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरहरू कुकुरहरू] कुकुरह",
+          "answer": "आमा कुकुरले प्रति दिन 1.5 कप खाना खान्छ। 3 <<1.5*3=4.5>>\n6 दिनको लागि आमा कुकुरलाई 6 * 4.5 कप = <<6*4.5=27>>27 कप खाना चाहिन्छ।\n1/2 कप खाना * 2 = <<1/2*2=1>>1 कप प्रति दिन पिल्छन्।\n5 कुकुरहरू * 1 कप = <<5*1=5>>5 कुकुरहरूको लागि प्रति दिन कपहरू छन्।\n6"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1270,
+          "question": "[P]k को लागि नयाँ घर किन्नुभयो। उनले $40k को जम्मा रकम तिरेकी थिइन् र बाँकी रकम 10 वर्षमा बिस्तारित गरिएको एक ऋणको प्रयोग गरेर तिर्छिन्। डेनियलले हरेक महिना बराबर भुक्तानी गर्छ र 10 वर्षको अन्त्यमा, सम्पूर्ण ब्यालेन्स भुक्तानी हुनेछ। डेनियलले हजारौं डलरमा कति तिर्छन्? $280",
+          "answer": "डेनियलले जम्मा रकम तिरेपछि पनि कुल $280k खरिद मूल्य तिर्नु पर्छ - $40k जम्मा रकम = $<<280-40=240>>240k उनको घर ऋण मार्फत।\n10 वर्ष भन्दा बढीको लागि, डेनियलको भुक्तानीको कुल रकम $240k बंधक ब्यालेन्स / 10 वर्ष = $<<240/10=24>>24k प्रति वर्ष हुनुपर्दछ।\nत"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1776,
+          "question": "30 वर्गमा 74% को औसत थियो भने, पिज्जा पार्टी गर्नका लागि उसले कति अंक प्राप्त गर्नु पर्छ? को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा को औसतमा ] को औसतमा को औसतमा ] को औसतमा को औसतमा ] को औसतमा ] को औसतमा को औसतमा को औसतमा ] को औसतमा को औसतमा] को ",
+          "answer": "x लाई विलियमले प्राप्त गर्न आवश्यक पर्ने स्कोर मानौं।\nकक्षामा 30 मानिसहरु छन्, त्यहाँ 30 - 1 = <<30-1=29>>29 मानिसहरु छन् उनी बिना।\nकिनकि उनीहरूको औसत 74% थियो, यसको अर्थ हो कि (29 * 74 + x) / 30 >= 75 ।\nयसैले, 29 * 74 + x >= 30 * 75\nयसैले, 29 * 74 +"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2145,
+          "question": "2 5 माइल भन्दा बढी यात्रा गरे र 3 17 भन्दा कम स्टप साइनहरू भेट्टाए। [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]] [P] [P]] [P] [P]",
+          "answer": "2 मा 5 माइल भन्दा बढी यात्रा गरे, वा 5+2=<<5+2=7>>7 माइल।\nउनले 3 लाई 17 भन्दा कम स्टप संकेतहरू, वा 17-3=<<17-3=14>>14 स्टप संकेतहरू भेट्टाए।\n14/7=<<14/7=2>>2 रोक्ने संकेतहरू प्रति माइल भेटियो।\n#### 2"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 43,
+          "question": "[पृष्ठ २३-मा भएको चित्र] पृथ्वीमा भूकम्पको कारण चार भवन भत्किएका थिए। विज्ञहरूले भविष्यवाणी गरे कि पछिल्लो भूकम्पले अघिल्लो भूकम्पको तुलनामा दुई गुणा बढी भवन भत्कने छ, किनकि प्रत्येकले जगलाई कमजोर बनाउनेछ।",
+          "answer": "दोस्रो भूकम्पले 2 * 4 = <<2*4=8>>8 भवन भत्कायो।\nतेस्रो भूकम्पले 2 * 8 = <<2*8=16>>16 भवन भत्कायो।\nचौथो भूकम्पले 16 * 2 = <<16*2=32>>32 भवन भत्कायो।\nपहिलो भूकम्पसहित, भूकम्पले 4 + 8 + 16 + 32 = <<4+8+16+32=60>>60 भवनहरू भत्कायो।\n#### 60"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 46,
+          "question": "[पृष्ठ २८-मा भएको चित्र] 20",
+          "answer": "पहिलो कुरा केरोलिनको कुल वायलिन अभ्यास समय पत्ता लगाउनुहोस् उनको पियानो अभ्यास समयलाई तीन गुणा बढाएर: 20 मिनेट/दिन * 3 = <<20*3=60>>60 मिनेट/दिन\n60 मिनेट/दिन + 20 मिनेट/दिन = <<60+20=80>>80 मिनेट/दिन\n80 मिनेट/दिन * 6 दिन/हप्ता = <<80*6=480>>480 मिनेट"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 132,
+          "question": "[पृष्ठ २८-मा भएको चित्र] 5 4 $5.50",
+          "answer": "उहाँले 5*4=<<5*4=20>>20 पाउण्ड गाईको मासु किनेको\nत्यसैले उहाँले तिर्न 20*5.5=$<<20*5.5=110>>110\n#### 110"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 174,
+          "question": "[पृष्ठ २८-मा भएको चित्र] $5",
+          "answer": "उनले 5*2=$<<5*2=10>>10 बुधवार सिनेमाको टिकट तिर्न खर्च गर्छन्।\nउनी 5*5=$<<5*5=25>>25 शनिबार सिनेमाको टिकट तिर्न खर्च गर्छन्।\nउनले कुल 10+25=$<<10+25=35>>35 खर्च गर्छन्।\n#### 35"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 224,
+          "question": "[पृष्ठ २३-मा भएको चित्र] 4080",
+          "answer": "दोस्रो पाटी 4080 + 4080 / 2 = 4000 + 2040 = <<4080+4080/2=6120>>6120 वर्ष पुरानो हो।\nतेस्रो पाटी 6120 + 6120 / 2 = 6120 + 3060 = <<6120+6120/2=9180>>9180 वर्ष पुरानो हो।\nचौथो पाटी 9180 + 9180 / 2 = 9180 + 4590 = <<9180+9180/2=13770>>13770 वर्ष पुरानो"
+        }
+      ],
+      "only_num_punct_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 90,
+          "question": "1/2 1/2 ] ]",
+          "answer": "डिसेम्बरमा 31 दिन, जनवरीमा 31 दिन र फेब्रुअरीमा 28 दिन हुन्छ, कुल 31+31+28 = <<31+31+28=90>>90 दिन\n1/2 कप बिहान र 1/2 कप दिउँसो उनीहरूलाई खुवाउँछ, कुल 1/2+1/2 = <<1/2+1/2=1>>1 कप प्रति दिन\nउहाँले 1 कप प्रति दिन 90 दिन तिनीहरूलाई खुवाउन भने त्यसपछि उह"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 93,
+          "question": "1000 $8 $3",
+          "answer": "गोमांस लागत $8 * 1000 = $<<8*1000=8000>>8000\n1000 * 2 = <<1000*2=2000>>2000 पाउण्ड कुखुरा किन्छ\nत्यसैले कुखुराको लागत 2000 * $3 = $<<2000*3=6000>>6000\nत्यसैले कुल लागत $8000 + $6000 = $<<8000+6000=14000>>14,000\n#### 14000"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 438,
+          "question": "3 3 6 5 26",
+          "answer": "3 दिनमा 3 + 6 + 5 = <<3+6+5=14>>14 मिमी वर्षा भयो।\n26 14 = <<26-14=12>>12 मिमी कम वर्षाको अनुभव गरियो।\n#### 12"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 511,
+          "question": "15 13 8",
+          "answer": "पहिले तपाईंले तरकारीको कुल तौल जान्नुपर्छ, त्यसैले तपाईंले प्रत्येक मात्रा जोड्नुपर्छ: 15 + 13 + 8 = <<15+13+8=36>>36 किलोग्राम\nत्यसपछि तपाईंले 36 को आधा खोज्नुपर्छः 36/2 = <<36/2=18>>18 किलोग्राम।\nत्यसैले, उनले 18 किलो तरकारी बेचे।\n#### 18"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 601,
+          "question": "60 40 1.5 210 ] ] ] ]",
+          "answer": "60 mph 60*1.5=<<60*1.5=90>>90 फुट प्रति सेकेन्ड हो।\n40 mph 40*1.5=<<40*1.5=60>>60 फुट प्रति सेकेन्ड हो।\n90 60 <<90-60=30>> 30\n200 फिटको दूरीमा नजिक पुग्न, चीताले 210/30=7 सेकेन्ड लिन्छ कि गजेललाई समात्न।\n#### 7"
+        }
+      ],
+      "short_question_le_3_words": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 93,
+          "question": "1000 $8 $3",
+          "answer": "गोमांस लागत $8 * 1000 = $<<8*1000=8000>>8000\n1000 * 2 = <<1000*2=2000>>2000 पाउण्ड कुखुरा किन्छ\nत्यसैले कुखुराको लागत 2000 * $3 = $<<2000*3=6000>>6000\nत्यसैले कुल लागत $8000 + $6000 = $<<8000+6000=14000>>14,000\n#### 14000"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 511,
+          "question": "15 13 8",
+          "answer": "पहिले तपाईंले तरकारीको कुल तौल जान्नुपर्छ, त्यसैले तपाईंले प्रत्येक मात्रा जोड्नुपर्छ: 15 + 13 + 8 = <<15+13+8=36>>36 किलोग्राम\nत्यसपछि तपाईंले 36 को आधा खोज्नुपर्छः 36/2 = <<36/2=18>>18 किलोग्राम।\nत्यसैले, उनले 18 किलो तरकारी बेचे।\n#### 18"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1478,
+          "question": "$200 $250 $750",
+          "answer": "खेलकुदका जुत्ता र खेलकुदका कपडामा खर्च गरिएको कुल रकम $200 + $250 = $<<200+250=450>>450 हो।\nरकेटको मूल्य $750 - $450 = $<<750-450=300>>300 हो।\n#### 300"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1496,
+          "question": "4",
+          "answer": "4 हड्डीहरू दोब्बर पार्दा उनको 4*2=<<4*2=8>>8 हड्डीहरू हुन्छ।\n8-2=<<8-2=6>>6 हड्डी छोडेर छिमेकीको कुकुरले दुईवटा हड्डी चोरेको छ।\n#### 6"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2542,
+          "question": "6 5",
+          "answer": "पहिलो घण्टामा, यसले 60/6=<<60/6=10>>10 भाँडा उत्पादन गर्दछ।\nअन्तिम घण्टामा, यसले 60/5=<<60/5=12>>12 भाँडा उत्पादन गर्दछ।\n12-10=<<12-10=2>>2 अन्तिम घण्टामा थप भाँडा उत्पादन गरिन्छ।\n#### 2"
+        }
+      ],
+      "repeated_bracket_p_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2145,
+          "question": "2 5 माइल भन्दा बढी यात्रा गरे र 3 17 भन्दा कम स्टप साइनहरू भेट्टाए। [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]] [P] [P]] [P] [P]",
+          "answer": "2 मा 5 माइल भन्दा बढी यात्रा गरे, वा 5+2=<<5+2=7>>7 माइल।\nउनले 3 लाई 17 भन्दा कम स्टप संकेतहरू, वा 17-3=<<17-3=14>>14 स्टप संकेतहरू भेट्टाए।\n14/7=<<14/7=2>>2 रोक्ने संकेतहरू प्रति माइल भेटियो।\n#### 2"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2488,
+          "question": "2010 मा भन्दा 2009 मा 2009, मा 24 पटक मा मा मा पटक मा भन्दा धेरै पटक मा मा मा मा मा भन्दा बढी पटक मा मा मा मा मा भन्दा बढी पटक मा मा मा मा मा भन्दा बढी पटक मा मा मा मा मा भन्दा बढी पटक मा मा मा मा भन्दा बढी पटक मा मा मा मा भन्दा बढी पटक मा मा मा मा मा मा मा भन्दा बढी पटक मा मा मा मा भन्दा बढी पटक मा 2010 मा 2009, मा भन्दा आधा मात्र 2009 मा 2010 भन्दा बढी मा मा भन्दा बढी मा मा मा मा] भन्दा बढी [P] मा [P] मा [P] भन्दा बढी [P] मा [P] मा [P] भन्दा बढी [P] मा [P] मा [P] भन्दा बढी [P] मा [P] मा [P] धे",
+          "answer": "2010 मा टिमोथीले 24+7 = <<24+7=31>>31 चलचित्र हेरेका थिए।\n2010 मा थेरेसाले 31*2 = <<31*2=62>>62 चलचित्र हेरेकी थिइन्।\n2009 मा थेरेसाले 24/2 = <<24/2=12>>12 चलचित्र हेरेकी थिइन्।\n2009 र 2010 दुबैमा तिमोथी र टेरेसाले 24+31+62+12 = <<24+31+62+12=129>>12"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6580,
+          "question": "50 पानीको मूल्य 100 सेन्ट प्रति ग्यालन हो। [P] पानीको मूल्य कति डलर हो? [P] पानीको मूल्य ग्यालन प्रति 1 सेन्ट हो। पानीको मूल्य ग्यालन प्रति 10 सेन्ट हो। पानीको मूल्य ग्यालन प्रति सेन्ट हो। पानीको मूल्य ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति ग्यालन प्रति] ग्यालन प्रति सेन्ट प्रति ग्यालन प्रति] ग्यालन प्रति ग्यालन प्रति] ग्यालन प्रति सेन्ट प्रति] ग्यालन प्रति ग्यालन प्र",
+          "answer": "5000 ग्यालन पानी हुन्छ किनकि 50 x 100 = <<50*100=5000>>5000\nप्रत्येक ग्यालनको लागत $ 001 हुन्छ किनभने $ 01/10 = $ <<.01/10=.001>> ।\nयो $5 पूल भर्न खर्च किनभने 5000 x $.001 = $<<5000*.001=5>>5\n#### 5"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 7192,
+          "question": "13 18 100 250% भन्दा बढी ] ] ] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]] [P] [P] [P]] [P] [P]] [P] [P] [P]] [P] [P]] [P] [P] ] ] ] [P] [P] [P] [P] [P] ] ] ] ] ] [P] [P] [P] [P] [P] [P] ] ] ] ] ] ] ] ] [P] [P] [P] [P] [P] [P] ] ] ] ] ] ] ] ] ] ] ] ] ] ] [P] [P] [P] [P] [P] [P] [P] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] 300",
+          "answer": "उनको नयाँ डेडलिफ्ट 300*2.5+100=<<300*2.5+100=850>>850 पाउण्ड हो\nत्यसैले उहाँले आफ्नो deadlift गर्न 850-300=<<850-300=550>>550 पाउण्ड थपियो\nयो 18-13=<<18-13=5>>5 वर्ष लाग्यो\nत्यसैले उहाँले 550/5 = <<550/5=110>>110 पाउण्ड प्रति वर्ष थपियो\n#### 110"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 916,
+          "question": "2 बेलुनको लागि $0.5 बेचेको 1 दर्जनौं बेलुनहरू पनि किनेका थिए। बाँकी पैसा 2 टब आइसक्रीमको लागि $7 प्रत्येकको लागि किन्न प्रयोग गरियो। जुलिया र नादिनकी आमाले उनीहरू प्रत्येकलाई कति दिए? बालुवाको लागि बक्समा बेचेको थियो। बालुवाको लागि बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा बक्समा] बक्समा बक्समा बक्समा] बक्समा बक्समा बक्समा] बक्समा बक्समा] बक्समा बक्समा] बक्समा बक्स",
+          "answer": "12/2 = <<12/2=6>>6 जोडीहरू छन् 1 दर्जनमा।\nएक दर्जन बलुन खरिद गर्नको लागि लागत $0.5 x 6 = $<<0.5*6=3>>3 थियो।\n2 आइसक्रीमको टबको लागत $7 x 2 = $<<7*2=14>>14 थियो।\nउनीहरूको खरिदको कुल लागत $11 + $3 + $14 = $<<11+3+14=28>>28 हो।\nत्यसैले उनीहरूको आमाले प्"
+        }
+      ],
+      "many_unlabeled_digit_question": []
+    },
+    "sin_Sinh": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 443,
+          "question": "6 සපත්තු විකුණලා $3 එකකට 18 කමිසය විකුණලා $2 එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට]",
+          "answer": "ඔවුන් උපයා ගත් සපත්තු වලින් 6 x $3 = $<<6*3=18>>18\nඔවුන් උපයා ගත් 18 x $2 = <<18*2=36>> 36 ඔවුන් විකුණූ කමිස වලින්.\nඉතින්, ඔවුන් උපයා ගත් ඇඳුම් වලින් $18 + $36 = $<<18+36=54>>54\nඑබැවින්, සබ් සහ ඩේන් එක් එක් අය $54 / 2 = $<<54/2=27>>27 උපයා ගත්හ.\n####"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 642,
+          "question": "දවසකට කිලෝමීටර කීයක් විතර දුවන්න වෙනවා. බඩු ගන්න කිලෝමීටර් 10 ක්, කොණ්ඩය කපන්න කිලෝමීටර් 15 ක්, වෛද් යවරයෙක් හමුවෙන්න කිලෝමීටර් 5 ක් යනව.",
+          "answer": "මුලින්ම, අපි හොයාගන්න ඕනේ ටෝනි රිය පදවන මුළු සැතපුම් ගණන 10+15+5=<<10+15+5=30>>30 කිලෝමීටර එකතු කරලා.\nඅපි මේ ක් රමයට 2, ක් රමයට 30/2=<<30/2=15>>15 ක් රමයට = ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රම"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1182,
+          "question": "3 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් 2 කිලෝග් රෑම් බඩුවකින් 2 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් 16 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් [P] කිලෝ",
+          "answer": "බළලුන්ගේ ආහාර පැකට් දෙක බර 2 x 3 = <<2*3=6>>6 පවුම්.\nබල්ලන්ට කෑම දාන හැම බෑග් එකකම බර 3 + 2 = <<3+2=5>>5 පවුම්.\nඉතින් බල්ලන්ගේ කෑම බෑග් දෙකක් බර 2 x 5 = <<2*5=10>> 10 පවුම්.\nඉතින්, ඇන්ඩර්සන් මහත්මිය සතුන් වෙනුවෙන් ආහාරයක් මිලදී ගත්තා. 6 10 <<6+10=16>"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1252,
+          "question": "50 පබළු 2 පබළු 100 පබළු පබළු පබළු පබළු 50 පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු] පබළු පබළු පබළු] පබළු පබළු පබළු] පබළු පබළු] පබළු පබළු] පබළු පබළු] පබළු [P] පබළු] පබළු [P] පබළු] පබළු [P] පබළු] පබළු] පපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපප",
+          "answer": "මාර්නි 50 x 5 = <<50*5=250>> 250 පබළු මිලදී ගත්තා 50 පබළු වලින් 5 බෑග් වලින්.\nඇය 100 x 2 = <<100*2=200>>200 පබළු මිලදී ගත්තා 100 පබළු 2 බෑග් වලින්.\nඇයට 250 + 200 = <<250+200=450>>450 පබළු ගණනක් ඇත.\nඑබැවින් ඇයට 450/50 = <<450/50=9>>9 අත් ඔටුනු සෑදීමට "
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1393,
+          "question": "10 පෙට්ටි වලට 10 පෙට්ටි වලට 30 පෙට්ටි වලට 500 පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට] පෙට්ටි වලට [P] පෙට්ටි වලට [P] පෙට්ටි] පෙට්ටි වලට 12",
+          "answer": "කැසිට පුළුවන් 12 x 10 = <<12*10=120>> 120 ජෑම් බඳුන් 10 පෙට්ටි වලට පැක් කරන්න.\nඇයට 10 x 30 = <<10*30=300>>300 ජැම් බඳුන් 30 පෙට්ටි වලට පැකට් කරන්න පුළුවන්.\n300 + 120 = <<300+120=420>>420 ජැම් බඳුන් පෙට්ටි වලට පැකේජගත කළ හැකිය.\nඉතින්, 500 - 420 = <<50"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 443,
+          "question": "6 සපත්තු විකුණලා $3 එකකට 18 කමිසය විකුණලා $2 එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට]",
+          "answer": "ඔවුන් උපයා ගත් සපත්තු වලින් 6 x $3 = $<<6*3=18>>18\nඔවුන් උපයා ගත් 18 x $2 = <<18*2=36>> 36 ඔවුන් විකුණූ කමිස වලින්.\nඉතින්, ඔවුන් උපයා ගත් ඇඳුම් වලින් $18 + $36 = $<<18+36=54>>54\nඑබැවින්, සබ් සහ ඩේන් එක් එක් අය $54 / 2 = $<<54/2=27>>27 උපයා ගත්හ.\n####"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 642,
+          "question": "දවසකට කිලෝමීටර කීයක් විතර දුවන්න වෙනවා. බඩු ගන්න කිලෝමීටර් 10 ක්, කොණ්ඩය කපන්න කිලෝමීටර් 15 ක්, වෛද් යවරයෙක් හමුවෙන්න කිලෝමීටර් 5 ක් යනව.",
+          "answer": "මුලින්ම, අපි හොයාගන්න ඕනේ ටෝනි රිය පදවන මුළු සැතපුම් ගණන 10+15+5=<<10+15+5=30>>30 කිලෝමීටර එකතු කරලා.\nඅපි මේ ක් රමයට 2, ක් රමයට 30/2=<<30/2=15>>15 ක් රමයට = ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රමයට ක් රම"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1182,
+          "question": "3 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් 2 කිලෝග් රෑම් බඩුවකින් 2 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් 16 කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් කිලෝග් රෑම් බඩුවකින් [P] කිලෝ",
+          "answer": "බළලුන්ගේ ආහාර පැකට් දෙක බර 2 x 3 = <<2*3=6>>6 පවුම්.\nබල්ලන්ට කෑම දාන හැම බෑග් එකකම බර 3 + 2 = <<3+2=5>>5 පවුම්.\nඉතින් බල්ලන්ගේ කෑම බෑග් දෙකක් බර 2 x 5 = <<2*5=10>> 10 පවුම්.\nඉතින්, ඇන්ඩර්සන් මහත්මිය සතුන් වෙනුවෙන් ආහාරයක් මිලදී ගත්තා. 6 10 <<6+10=16>"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1252,
+          "question": "50 පබළු 2 පබළු 100 පබළු පබළු පබළු පබළු 50 පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු පබළු] පබළු පබළු පබළු] පබළු පබළු පබළු] පබළු පබළු] පබළු පබළු] පබළු පබළු] පබළු [P] පබළු] පබළු [P] පබළු] පබළු [P] පබළු] පබළු] පපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපපප",
+          "answer": "මාර්නි 50 x 5 = <<50*5=250>> 250 පබළු මිලදී ගත්තා 50 පබළු වලින් 5 බෑග් වලින්.\nඇය 100 x 2 = <<100*2=200>>200 පබළු මිලදී ගත්තා 100 පබළු 2 බෑග් වලින්.\nඇයට 250 + 200 = <<250+200=450>>450 පබළු ගණනක් ඇත.\nඑබැවින් ඇයට 450/50 = <<450/50=9>>9 අත් ඔටුනු සෑදීමට "
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1393,
+          "question": "10 පෙට්ටි වලට 10 පෙට්ටි වලට 30 පෙට්ටි වලට 500 පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට පෙට්ටි වලට] පෙට්ටි වලට [P] පෙට්ටි වලට [P] පෙට්ටි] පෙට්ටි වලට 12",
+          "answer": "කැසිට පුළුවන් 12 x 10 = <<12*10=120>> 120 ජෑම් බඳුන් 10 පෙට්ටි වලට පැක් කරන්න.\nඇයට 10 x 30 = <<10*30=300>>300 ජැම් බඳුන් 30 පෙට්ටි වලට පැකට් කරන්න පුළුවන්.\n300 + 120 = <<300+120=420>>420 ජැම් බඳුන් පෙට්ටි වලට පැකේජගත කළ හැකිය.\nඉතින්, 500 - 420 = <<50"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1945,
+          "question": "[22වන පිටුවේ පින්තූරය] 20",
+          "answer": "ඔහුට 3 කිලෝ ග් රෑම් දියමන්ති, මිදි සහ තැඹිලි රැගෙන යා හැකිය, මන්ද 1+1+ 1 = <<3=3>>3\nඔහුට 17 කිලෝ ඇපල් මිලදී ගත හැකියි මොකද 20-3 = <<20-3=17>>17\n#### 17"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2213,
+          "question": "[22වන පිටුවේ පින්තූරය] 40% $80",
+          "answer": "මුලින්ම, මුළු වියදම 40% සමග ගුණ කිරීමෙන් නන්සිගේ මාසික රක්ෂණ මුදල ගණනය කරන්න. . 4 * $80 = $<<.4*80=32>>32\nඉන්පසු මාසික වියදම 12 සමග ගුණ කර වාර්ෂික වියදම සොයා ගන්න: $32 * 12 = $<<32*12=384>>384\n#### 384"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 48,
+          "question": "[18වන පිටුවේ පින්තූරය] 4 6",
+          "answer": "1 අඩි 12 අඟල් වලට සමාන බැවින්, ට් රේසි දිග අඟල් වලින් භාවිතා කළේ නම්, වයර්වල මුළු දිග 12*4=<<12*4=48>>48 අඟල් විය. 4\nට් රේසි විසින් 6 අඟල් දිගින් කැබලි වලට කපා ඇති බැවින්, 48/6=<<48/6=8>>8 කැබලි ලබා ගත්තේය.\n#### 8"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 191,
+          "question": "[18වන පිටුවේ පින්තූරය] 3.5",
+          "answer": "සතකට 35 පවුම් අවශ් යයි මොකද 10 x 3.5 = <<10*3.5=35>> 35\nඔවුන්ට දිනකට 5 පවුම් අවශ් යයි මොකද 35 / 7 = <<35/7=5>> 5\n#### 5"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 1945,
+          "question": "[22වන පිටුවේ පින්තූරය] 20",
+          "answer": "ඩියෝගෝට කොපමණ පලතුරු රාත්තල් රැගෙන යා හැකිද? ** ඔහුට 3 රාත්තල් දියමන්ති, මිදි සහ තැඹිලි රැගෙන යා හැකිය 1+1+ 1 = <<3=3>>3\nඔහුට ඇපල් රාත්තල් කීයක් මිලදී ගත හැකිද? ** ඔහුට ඇපල් රාත්තල් 17 මිලදී ගත හැකිය, මන්ද 20-3 = <<20-3=17>>17\n#### 17"
+        }
+      ],
+      "only_num_punct_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4051,
+          "question": "$10, 5 $5 4 $2.50 5 $2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [",
+          "answer": "ඩේව්ගේ තනි හැම්බර්ගර් එකේ 5 කෑලිවල මිල $5 x 5 = $<<5*5=25>>25.\n4 ෆ් රෙන්ච් ෆ් රයිස් කට්ටලයක වියදම $2.50 x 4 = $<<2.5*4=10>>10.\n5 කෝප්පයක පර්ස් ලෙමනේඩ් වල මිල $2 x 5 = $<<2*5=10>>10.\nඉතින්, ඔවුන්ගේ මුළු බිල $10 + $25 + $10 + $10 = $<<10+25+10+10=55>>5"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 685,
+          "question": "$4, 2 $2 2 $3 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P",
+          "answer": "1 ඇපල් කිලෝවකට ඩොලර් <<1*4=4>> 4 වැය වේ.\n2 කිලෝ බැනාන් වියදම් 2 * 2 = $<<2*2=4>>4.\n2 කිලෝ එකක් ඇඹුල් මිල 2 * 3 = $<<2*3=6>>6.\nඇය ගෙවන්නේ 4 + 4 + 6= $<<4+4+6=14>>14 මුළු මුදලයි.\n#### 14"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 4051,
+          "question": "$10, 5 $5 4 $2.50 5 $2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [",
+          "answer": "ඩේව්ගේ තනි හැම්බර්ගර් එකක මිල කොපමණද? ** ඩේව්ගේ තනි හැම්බර්ගර් එකක 5 කෑලිවල මිල $5 x 5 = $<<5*5=25>>25.\nප් රංශ ෆ් රයිස් එකකට කීයක් වැය වේද? ** ප් රංශ ෆ් රයිස් කට්ටලයේ 4 වියදම $2.50 x 4 = $<<2.5*4=10>>10.\nපර්ස්කි ලෙමනේඩ් එකක වියදම කොපමණද? ** පර්ස්කි ල"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 685,
+          "question": "$4, 2 $2 2 $3 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P",
+          "answer": "1 ඇපල් කිලෝවකට කොපමණ මුදලක් වැය වේද? ** 1 ඇපල් කිලෝවකට ඩොලර් <<1*4=4>> 4 වැය වේ.\n2 කිලෝ බැන්නස් කීයද? ** 2 කිලෝ බැන්නස් කීයද? 2 * 2 = $<<2*2=4>>4.\n2 කිලෝ එකක් කොළ මිල කීයද? ** 2 කිලෝ එකක් කොළ මිල 2 * 3 = $<<2*3=6>>6.\n** ඇය ගෙවන්නේ 4 + 4 + 6= $<<4+4+6"
+        }
+      ],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 443,
+          "question": "6 සපත්තු විකුණලා $3 එකකට 18 කමිසය විකුණලා $2 එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට] එකකට [P] එකකට] එකකට [P] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට] එකකට [ක] එකකට]",
+          "answer": "ඔවුන් උපයා ගත් සපත්තු වලින් 6 x $3 = $<<6*3=18>>18\nඔවුන් උපයා ගත් 18 x $2 = <<18*2=36>> 36 ඔවුන් විකුණූ කමිස වලින්.\nඉතින්, ඔවුන් උපයා ගත් ඇඳුම් වලින් $18 + $36 = $<<18+36=54>>54\nඑබැවින්, සබ් සහ ඩේන් එක් එක් අය $54 / 2 = $<<54/2=27>>27 උපයා ගත්හ.\n####"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4051,
+          "question": "$10, 5 $5 4 $2.50 5 $2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [",
+          "answer": "ඩේව්ගේ තනි හැම්බර්ගර් එකේ 5 කෑලිවල මිල $5 x 5 = $<<5*5=25>>25.\n4 ෆ් රෙන්ච් ෆ් රයිස් කට්ටලයක වියදම $2.50 x 4 = $<<2.5*4=10>>10.\n5 කෝප්පයක පර්ස් ලෙමනේඩ් වල මිල $2 x 5 = $<<2*5=10>>10.\nඉතින්, ඔවුන්ගේ මුළු බිල $10 + $25 + $10 + $10 = $<<10+25+10+10=55>>5"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4781,
+          "question": "2.5 පැයකට 50 පැයට පැයට පැයට 62 පැයට 2 පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට [P] පැයට [P] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැට [P] පැට]",
+          "answer": "ජෝසප් සැතපුම් 50 * 2.5 = <<50*2.5=125>> 125 ගමන් කරනවා.\nකයිල් සැතපුම් 62 * 2 = <<62*2=124>> 124 ගමන් කරනවා.\nජෝසෆ් කයිල්ට වඩා 125 - 124 = <<125-124=1>>1 සැතපුම් ගණනක් දුරින් ධාවනය කරනවා.\n#### 1"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 5607,
+          "question": "$7 පැයකට ගෙවන රැකියාවක 2 පැයකට $10 පැයකට ගෙවන රැකියාවක 4 පැයකට $12 පැයකට ගෙවන රැකියාවක 3 පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට 5 පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට පැයකට දවස් ගණනකට දවස් ගණනකට දවස් ගණනකට දවස් ගණනකට] නැවත නැවත නැවතත් දවස් ගණනකට දවස් ගණනකට] නැවතත් දවස් ගණනකට] නැවතත් දවස් ගණනකට] නැවතත් දවස් ගණනකට] නැවතත් දවස් ගණනකට] නැවතත් දවස් දෙකකට] නැවතත් [P] නැවතත්] නැවතත්] නැවත",
+          "answer": "මුලින්ම අපි දැනගන්න ඕනේ ජොනී දවසකට කොච්චර හම්බ කරනවද කියලා. 3 7 <<3*7=21>> 21\nදෙවනුව, අපි දෙවන කාර්යය සඳහා 2*10=<<20=20>>20 ඩොලර් සිදු කරනවා.\nතුන්වෙනි දේ, අපි 4*12= <<4*12=48>>48 ඩොලර් වලින් තුන්වෙනි වැඩේ කරන්නම්.\nජොනී දිනකට ඩොලර් 21+20+48= <<21+20+4"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6156,
+          "question": "3 පැය ගණනක් පැයට 60 පැයට පැයට පැයට 2 පැයට පැයට 70 පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට පැයට] පැයට පැයට පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැයට [P] පැයට] පැයට [P] පැයට [P] පැට [P] පැට [P] පැට] පැයට [P] පැට] පැට [P] පැට] පැට [P] පැට] පැට [P] පැට] පැට] පැටී",
+          "answer": "5 පැය තුළ පැයට පැයට 70 ක සාමාන් ය වේගයක් ලබා ගැනීමට ඔහුට 70*5=<<70*5=350>>350 සැතපුම් ගමන් කිරීමට අවශ් ය වේ.\nඔහු පළමු පැය කිහිපය තුළ සැතපුම් ගණනක් ධාවනය කළා. 60 3 <<60*3=180>> 180 3\nඔහුට තව 350-180=<<350-180=170>>170 සැතපුම් ගණනක් ගමන් කරන්න වෙනවා ඊළ"
+        }
+      ],
+      "many_unlabeled_digit_question": []
+    },
+    "som_Latn": {
+      "bracket_p_any": [],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "swh_Latn": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6963,
+          "question": "Leila alikwenda kwenye duka la kuuza chakula kwa ajili ya sherehe ya Krismasi. Yeye kununuliwa maapulo kwa [P]€, sukari kwa 3€ na karoti kwa 17€. Yeye kulipwa na 50€ noti. kiasi gani cha fedha muuzaji anarudi kwa yeye? 5",
+          "answer": "Ili kujua ni kiasi gani muuzaji anapaswa kumpa, tunahitaji kujua kwanza ni kiasi gani alitumia. Yeye alinunua maapulo kwa 5€, sukari kwa 3€ na karoti kwa 17€, hivyo alitumia 5€ + 3€ +17€ = <<5+3+17=25>>25€.\nYeye hulipa 50€ na muuzaji lazima kuweka 25"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 119,
+          "question": "Adrien mshahara jumla ilikuwa [P] asilimia zaidi ya Lylah. Miaka minne baadaye, mshahara wake alikuwa imeongezeka, na alikuwa anapata 40% zaidi ya kile alikuwa anapata miaka minne iliyopita. Kama Adrien na Lylah mshahara kuongezeka wakati huo huo, na Adrien kulipwa $40000 miaka minne iliyopita, mahesabu ya jumla ya mshahara wawili walikuwa kupokea miaka minne baadaye? 30",
+          "answer": "Kwa kuwa Adrien alikuwa akipata $40000 miaka minne iliyopita na akapokea ongezeko ambalo linamfanya apate 40% zaidi, alipokea ongezeko la 40/100*$40000 = $<<40/100*40000=16000>>16000\nKwa jumla, miaka minne baadaye, mshahara wa Adrien ni $40000+$16000"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6963,
+          "question": "Leila alikwenda kwenye duka la kuuza chakula kwa ajili ya sherehe ya Krismasi. Yeye kununuliwa maapulo kwa [P]€, sukari kwa 3€ na karoti kwa 17€. Yeye kulipwa na 50€ noti. kiasi gani cha fedha muuzaji anarudi kwa yeye? 5",
+          "answer": "Ni kiasi gani cha fedha Leila alitumia? ** Ili kujua ni kiasi gani muuzaji lazima kumrudisha, tuna kujua kwanza kiasi gani alitumia. Yeye kununuliwa apples kwa 5€, sukari kwa 3€ na karoti kwa 17€, hivyo alitumia 5€ + 3€ +17€ = <<5+3+17=25>>25€.\nNi ki"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 119,
+          "question": "Adrien mshahara jumla ilikuwa [P] asilimia zaidi ya Lylah. Miaka minne baadaye, mshahara wake alikuwa imeongezeka, na alikuwa anapata 40% zaidi ya kile alikuwa anapata miaka minne iliyopita. Kama Adrien na Lylah mshahara kuongezeka wakati huo huo, na Adrien kulipwa $40000 miaka minne iliyopita, mahesabu ya jumla ya mshahara wawili walikuwa kupokea miaka minne baadaye? 30",
+          "answer": "Adrien alipata kiasi gani cha kuongeza kodi? ** Kwa kuwa Adrien alikuwa akipata $40000 miaka minne iliyopita na akapokea ongezeko ambalo linamfanya apate 40% zaidi, alipata ongezeko la 40/100*$40000 = $<<40/100*40000=16000>>16000 .\nMshahara wa Adrien"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6963,
+          "question": "Leila alikwenda kwenye duka la kuuza chakula kwa ajili ya sherehe ya Krismasi. Yeye kununuliwa maapulo kwa [P]€, sukari kwa 3€ na karoti kwa 17€. Yeye kulipwa na 50€ noti. kiasi gani cha fedha muuzaji anarudi kwa yeye? 5",
+          "answer": "Ili kujua ni kiasi gani muuzaji anapaswa kumpa, tunahitaji kujua kwanza ni kiasi gani alitumia. Yeye alinunua maapulo kwa 5€, sukari kwa 3€ na karoti kwa 17€, hivyo alitumia 5€ + 3€ +17€ = <<5+3+17=25>>25€.\nYeye hulipa 50€ na muuzaji lazima kuweka 25"
+        },
+        {
+          "config": "main",
+          "split": "test",
+          "idx": 119,
+          "question": "Adrien mshahara jumla ilikuwa [P] asilimia zaidi ya Lylah. Miaka minne baadaye, mshahara wake alikuwa imeongezeka, na alikuwa anapata 40% zaidi ya kile alikuwa anapata miaka minne iliyopita. Kama Adrien na Lylah mshahara kuongezeka wakati huo huo, na Adrien kulipwa $40000 miaka minne iliyopita, mahesabu ya jumla ya mshahara wawili walikuwa kupokea miaka minne baadaye? 30",
+          "answer": "Kwa kuwa Adrien alikuwa akipata $40000 miaka minne iliyopita na akapokea ongezeko ambalo linamfanya apate 40% zaidi, alipokea ongezeko la 40/100*$40000 = $<<40/100*40000=16000>>16000\nKwa jumla, miaka minne baadaye, mshahara wa Adrien ni $40000+$16000"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 6963,
+          "question": "Leila alikwenda kwenye duka la kuuza chakula kwa ajili ya sherehe ya Krismasi. Yeye kununuliwa maapulo kwa [P]€, sukari kwa 3€ na karoti kwa 17€. Yeye kulipwa na 50€ noti. kiasi gani cha fedha muuzaji anarudi kwa yeye? 5",
+          "answer": "Ni kiasi gani cha fedha Leila alitumia? ** Ili kujua ni kiasi gani muuzaji lazima kumrudisha, tuna kujua kwanza kiasi gani alitumia. Yeye kununuliwa apples kwa 5€, sukari kwa 3€ na karoti kwa 17€, hivyo alitumia 5€ + 3€ +17€ = <<5+3+17=25>>25€.\nNi ki"
+        },
+        {
+          "config": "socratic",
+          "split": "test",
+          "idx": 119,
+          "question": "Adrien mshahara jumla ilikuwa [P] asilimia zaidi ya Lylah. Miaka minne baadaye, mshahara wake alikuwa imeongezeka, na alikuwa anapata 40% zaidi ya kile alikuwa anapata miaka minne iliyopita. Kama Adrien na Lylah mshahara kuongezeka wakati huo huo, na Adrien kulipwa $40000 miaka minne iliyopita, mahesabu ya jumla ya mshahara wawili walikuwa kupokea miaka minne baadaye? 30",
+          "answer": "Adrien alipata kiasi gani cha kuongeza kodi? ** Kwa kuwa Adrien alikuwa akipata $40000 miaka minne iliyopita na akapokea ongezeko ambalo linamfanya apate 40% zaidi, alipata ongezeko la 40/100*$40000 = $<<40/100*40000=16000>>16000 .\nMshahara wa Adrien"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "yor_Latn": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1912,
+          "question": "Steven ń múra ẹrù àwọn àpótí kan láti fi ránṣẹ́ sí oníbàárà fún iṣẹ́ ìtajà rẹ̀. Àwọn ọja náà jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé àwọn tó ń ṣètò ẹrù náà kò lè kó wọn lọ. Steven ní ọkọ̀ ayọ́kẹ́lẹ́ mẹ́ta tí a lè fi ránṣẹ́ sí oníbàárà náà. 2,000 10 40",
+          "answer": "Ọwọ́ àpótí kọ̀ọ̀kan 40 10 <<40+10=50>> 50 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\nỌ̀kò"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2636,
+          "question": "ní ilé ìwé lónìí, charlize pẹ́ ju [p] ìṣẹ́jú lọ. àwọn ọmọ kíláàsì rẹ̀ mẹ́rin ló pẹ́ ju òun lọ ní ìṣẹ́jú mẹ́wàá. iye àkókò tí àwọn ọmọ ilé ìwé márùn-ún náà pẹ́ tó? 20",
+          "answer": "Bí Charlize bá pẹ́ 20 ìṣẹ́jú, gbogbo àwọn ọ̀rẹ́ rẹ̀ ló pẹ́ 20+10 = <<20+10=30>>30 ìṣẹ́jú.\nÀkókò tí àwọn ọ̀rẹ́ Charlize fi pẹ́ ni 4*30= <<4*30=120>>120 ìṣẹ́jú.\nÀwọn ọ̀rẹ́ mẹ́tẹ̀ẹ̀ta náà àti Charlize pẹ́ díẹ̀. 120 20 <<120+20=140>> 140\n#### 140"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 1898,
+          "question": "Walter fẹ́ sin hushpuppies fún àwọn àlejò rẹ̀ fún àpéjọ ẹja tí ó ń jẹ lọ́dọọdún. ó rò pé àlejò kọ̀ọ̀kan yóò jẹ 5 hushpuppies ó sì ní àwọn àlejò 20. ó lè se 10 hushpuppies ní 8 ìṣẹ́jú. báwo ni yóò ṣe pẹ́ tó láti se gbogbo hushpuppies?",
+          "answer": "** Ó féé se 5 20 5 20 <<5*20=100>> 100 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2141,
+          "question": "Jerry máa ń gé koríko tó tó 8 hẹ́kítà lọ́sọ̀ọ̀sẹ̀. Ó máa ń gé mẹ́ta nínú mẹ́rin rẹ̀ pẹ̀lú ẹ̀rọ tó ń gé koríko tó lè gé 2 hẹ́kítà ní wákàtí kan. 1",
+          "answer": "** Jerry máa ń gé 8 acres x 3⁄4 = 6 acres pẹ̀lú ẹ̀rọ tó ń gé ewé.\nWákàtí mélòó ló máa gbà kó tó lè gé 6 hẹ́kítà? ** Ó máa gbà á 6 hẹ́kítà / 2 wákàtí kọ̀ọ̀kan = <<6/2=3>>3 wákàtí.\n** Jerry ń gé 8 6 <<8-6=2>> 2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] ["
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2390,
+          "question": "Jess ṣe 3 oriṣiriṣi awọn ọwọn ti awọn bulọọki igi. Ọkọ akọkọ jẹ 7 awọn bulọọki giga, ọwọn keji jẹ 5 awọn bulọọki (((s) ga ju akọkọ lọ, ati ọwọn ikẹhin jẹ 7 awọn bulọọki (((s) ga ju keji lọ. Jess arakunrin kekere ti sọ gbogbo ile-iṣọ akọkọ silẹ, ni ile-iṣọ keji o fi awọn bulọọki 2 duro, ati ni ile-iṣọ ikẹhin o fi awọn bulọọki 3 duro.",
+          "answer": "Awọn bulọọki melo ni o wa ninu ọwọn keji? ** Jess ọwọn keji jẹ 7 awọn bulọọki + 5 awọn bulọọki = <<7+5=12>>12 awọn bulọọki.\nAwọn bulọọki melo ni o wa ninu ọwọn kẹta? ** Jess ọwọn kẹta jẹ 12 awọn bulọọki + 7 awọn bulọọki = <<12+7=19>>19 awọn bulọọki g"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1912,
+          "question": "Steven ń múra ẹrù àwọn àpótí kan láti fi ránṣẹ́ sí oníbàárà fún iṣẹ́ ìtajà rẹ̀. Àwọn ọja náà jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé ó jẹ́ ẹ̀rí pé àwọn tó ń ṣètò ẹrù náà kò lè kó wọn lọ. Steven ní ọkọ̀ ayọ́kẹ́lẹ́ mẹ́ta tí a lè fi ránṣẹ́ sí oníbàárà náà. 2,000 10 40",
+          "answer": "Ọwọ́ àpótí kọ̀ọ̀kan 40 10 <<40+10=50>> 50 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]\nỌ̀kò"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2636,
+          "question": "ní ilé ìwé lónìí, charlize pẹ́ ju [p] ìṣẹ́jú lọ. àwọn ọmọ kíláàsì rẹ̀ mẹ́rin ló pẹ́ ju òun lọ ní ìṣẹ́jú mẹ́wàá. iye àkókò tí àwọn ọmọ ilé ìwé márùn-ún náà pẹ́ tó? 20",
+          "answer": "Bí Charlize bá pẹ́ 20 ìṣẹ́jú, gbogbo àwọn ọ̀rẹ́ rẹ̀ ló pẹ́ 20+10 = <<20+10=30>>30 ìṣẹ́jú.\nÀkókò tí àwọn ọ̀rẹ́ Charlize fi pẹ́ ni 4*30= <<4*30=120>>120 ìṣẹ́jú.\nÀwọn ọ̀rẹ́ mẹ́tẹ̀ẹ̀ta náà àti Charlize pẹ́ díẹ̀. 120 20 <<120+20=140>> 140\n#### 140"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 1898,
+          "question": "Walter fẹ́ sin hushpuppies fún àwọn àlejò rẹ̀ fún àpéjọ ẹja tí ó ń jẹ lọ́dọọdún. ó rò pé àlejò kọ̀ọ̀kan yóò jẹ 5 hushpuppies ó sì ní àwọn àlejò 20. ó lè se 10 hushpuppies ní 8 ìṣẹ́jú. báwo ni yóò ṣe pẹ́ tó láti se gbogbo hushpuppies?",
+          "answer": "** Ó féé se 5 20 5 20 <<5*20=100>> 100 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] [P]"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2141,
+          "question": "Jerry máa ń gé koríko tó tó 8 hẹ́kítà lọ́sọ̀ọ̀sẹ̀. Ó máa ń gé mẹ́ta nínú mẹ́rin rẹ̀ pẹ̀lú ẹ̀rọ tó ń gé koríko tó lè gé 2 hẹ́kítà ní wákàtí kan. 1",
+          "answer": "** Jerry máa ń gé 8 acres x 3⁄4 = 6 acres pẹ̀lú ẹ̀rọ tó ń gé ewé.\nWákàtí mélòó ló máa gbà kó tó lè gé 6 hẹ́kítà? ** Ó máa gbà á 6 hẹ́kítà / 2 wákàtí kọ̀ọ̀kan = <<6/2=3>>3 wákàtí.\n** Jerry ń gé 8 6 <<8-6=2>> 2 [P] [P] [P] [P] [P] [P] [P] [P] [P] [P] ["
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2390,
+          "question": "Jess ṣe 3 oriṣiriṣi awọn ọwọn ti awọn bulọọki igi. Ọkọ akọkọ jẹ 7 awọn bulọọki giga, ọwọn keji jẹ 5 awọn bulọọki (((s) ga ju akọkọ lọ, ati ọwọn ikẹhin jẹ 7 awọn bulọọki (((s) ga ju keji lọ. Jess arakunrin kekere ti sọ gbogbo ile-iṣọ akọkọ silẹ, ni ile-iṣọ keji o fi awọn bulọọki 2 duro, ati ni ile-iṣọ ikẹhin o fi awọn bulọọki 3 duro.",
+          "answer": "Awọn bulọọki melo ni o wa ninu ọwọn keji? ** Jess ọwọn keji jẹ 7 awọn bulọọki + 5 awọn bulọọki = <<7+5=12>>12 awọn bulọọki.\nAwọn bulọọki melo ni o wa ninu ọwọn kẹta? ** Jess ọwọn kẹta jẹ 12 awọn bulọọki + 7 awọn bulọọki = <<12+7=19>>19 awọn bulọọki g"
+        }
+      ],
+      "unlabeled_digit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 1368,
+          "question": "Tamara jẹ́ 3* Kim, 4 sì dín sí . Tamara àti Kim ní 92.",
+          "answer": "Jẹ́ kí K = gígùn Kim\nTamara = 3K - 4\nK + 3K - 4 = 92\n4K - 4 = 92\n4K = 96\nKim = <<24=24>>24 ìbi\nTamara = (3 * 24) - 4 = <<(3*24)-4=68>>68 ìbi\nTamara ga tó 68 ìbejìdínlógún [50].\n#### 68"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 2495,
+          "question": "Ọ̀kan lára àwọn arìnrìn-àjò tó ń wá omi rí òdòdó kan nínú aginjù. Ó mu omi tó tó ìlọ́gíráàmù méjì [100]. 32 128",
+          "answer": "Ìwà ìbàjẹ́ tó wà nínú àwọn ọ̀nà tó ń gba ọ̀nà yìí kò jẹ́ kí àwọn èèyàn rí ohun tó dáa gbà. 7 32 <<7*32=224>> 224\nAlàgbà náà àti ràkúnmí rẹ̀ jọ mu 32 + 224 = <<32+224=256>>256 ọ̀gọ́ọ̀nù.\nNítorí náà, wọ́n mu 256 / 128 = <<256/128=2>>2 gálọ̀nù omi ní gb"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 6381,
+          "question": "Bí irú ọmọ ìkórè tí wọ́n ń pè ní poodle ṣe ga tó 8 ìbejìdínlógún [60] mítà ju ọmọ ìkórè tí wọ́n pè ní miniature poodle lọ, bẹ́ẹ̀ náà ni ọmọ ìkórè tí wọ́n pè ní miniature poodle ṣe ga tó 6 ìbejìdínlógún [60] mítà ju ọmọ ìkórè tí wọ́n pè ní toy poodle lọ. 28",
+          "answer": "Bí àwọ̀n ìkòkò bá ga ju àwọ̀n ìkòkò kékeré lọ, àwọ̀n ìkòkò kékeré náà yóò ga ju àwọ̀n ìkòkò kékeré lọ. 8 28 8 <<28-8=20>> 20\nBí ọmọ ẹyẹ tó ń jẹ́ poodle kékeré bá sì ga ju ọmọ ẹyẹ tó ń jẹ́ poodle ọmọ ẹyẹ lọ ní 8, ọmọ ẹyẹ náà yóò ga ju ọmọ ẹyẹ 20-6=<<2"
+        },
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 7418,
+          "question": "Josh wá rí i pé 7 àwọn ìgò tó wà nínú ìgò náà wúwo ní pàtó ní àádọ́rin [50] ọ́ǹsì. Gbogbo ìgò tó wà nínú ìgò Josh náà wúwo ní pàtó ní 18 ìlọ́po.",
+          "answer": "Àwọn ìkójọpọ̀ Josh wúwo 18 * 16 = <<18*16=288>>288 ounces.\nÀkójọ Josh ní 288 * 7 = <<288*7=2016>>2016 ìkápá\n#### 2016"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2495,
+          "question": "Ọ̀kan lára àwọn arìnrìn-àjò tó ń wá omi rí òdòdó kan nínú aginjù. Ó mu omi tó tó ìlọ́gíráàmù méjì [100]. 32 128",
+          "answer": "** Ọ̀dọ́mọdé tó ń rìnrìn àjò náà mu omi tó ìlọ́gíráàmù méjì 7 * 32 = <<7*32=224>>224.\n** Àpapọ̀, omi tí arìnrìn-àjò náà àti ràkúnmí rẹ̀ mu ni 32 + 224 = <<32+224=256>>256 ọ̀gíráàmù.\n** Nítorí náà, wọ́n mu 256 / 128 = <<256/128=2>>2 gálọ̀nù omi ní gbo"
+        }
+      ],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    },
+    "zul_Latn": {
+      "bracket_p_any": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4927,
+          "question": "UJackie uthanda ukukhuphuka izihlahla. Wakhwela isihlahla esiphakeme ngamamitha angu-0. Wabe esekhuphuka izihlahla eziphakeme ngamamitha angu-0. 1000 2 200",
+          "answer": "UJackie wakhuphuka izihlahla 2 ezazinobude 1/2 * 1000 izinyawo = 500 izinyawo ngayinye.\nUJackie wakhuphukela esihlahleni sokugcina esasingu 1000 + 200 izinyawo = <<1000+200=1200>>1200 izinyawo.\nSekukonke, izihlahla 4 uJackie azikhwela zazinamamitha 1"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2488,
+          "question": "UThimothi noTheresa baya emabhayisikobho kaningi. UThimothi waya emabhayisikobho 7 izikhathi eziningi 2010 kunalokho akwenza 2009. 2009, UThimothi waya emabhayisikobho 24 izikhathi. 2010 UTheresa waya ukubuka amafilimu kabili njengoba uThimothi enza, kodwa 2009, wabona kuphela uhhafu njengoba yena enza. Bangaki amabhayisikobho uThimothi noTheresa baya kokubili 2009 futhi 2010?",
+          "answer": "UTimothy wabuka amafilimu amangaki 2010? ** Ku 2010 uThimothewu wabuka amafilimu 24+7 = <<24+7=31>>31\nUTheresa wabuka amafilimu amangaki 2010? ** 2010 UTheresa wabuka amafilimu 31*2 = <<31*2=62>>62 [P].\nUTheresa wabuka amabhayisikobho amangaki 2010? "
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 4671,
+          "question": "Uma ezimbili izitobhi kukhona oda ezimbili pizza kanye nezinye kukhona for pizza olulodwa, imizuzu emingaki stop ngamunye isilinganiso isidingo ukulethwa umuntu ukuze ukuletha zonke pizza e 40 imizuzu? 12",
+          "answer": "Kunama-stop amangaki? ** Uma kuzolethwa ama-pizza amabili kuma-stop amabili, inani eliphelele lama-stop lizoba 12-2=<<12-2=10>>10 stops.\nKumele umuntu oletha amapayipi afake amapayipi amaningi kangakanani emizuzwini engu-40? ** Uma kukhona 10 emi emi"
+        }
+      ],
+      "bracket_p_digit": [],
+      "bracket_p_nodigit": [
+        {
+          "config": "main",
+          "split": "train",
+          "idx": 4927,
+          "question": "UJackie uthanda ukukhuphuka izihlahla. Wakhwela isihlahla esiphakeme ngamamitha angu-0. Wabe esekhuphuka izihlahla eziphakeme ngamamitha angu-0. 1000 2 200",
+          "answer": "UJackie wakhuphuka izihlahla 2 ezazinobude 1/2 * 1000 izinyawo = 500 izinyawo ngayinye.\nUJackie wakhuphukela esihlahleni sokugcina esasingu 1000 + 200 izinyawo = <<1000+200=1200>>1200 izinyawo.\nSekukonke, izihlahla 4 uJackie azikhwela zazinamamitha 1"
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 2488,
+          "question": "UThimothi noTheresa baya emabhayisikobho kaningi. UThimothi waya emabhayisikobho 7 izikhathi eziningi 2010 kunalokho akwenza 2009. 2009, UThimothi waya emabhayisikobho 24 izikhathi. 2010 UTheresa waya ukubuka amafilimu kabili njengoba uThimothi enza, kodwa 2009, wabona kuphela uhhafu njengoba yena enza. Bangaki amabhayisikobho uThimothi noTheresa baya kokubili 2009 futhi 2010?",
+          "answer": "UTimothy wabuka amafilimu amangaki 2010? ** Ku 2010 uThimothewu wabuka amafilimu 24+7 = <<24+7=31>>31\nUTheresa wabuka amafilimu amangaki 2010? ** 2010 UTheresa wabuka amafilimu 31*2 = <<31*2=62>>62 [P].\nUTheresa wabuka amabhayisikobho amangaki 2010? "
+        },
+        {
+          "config": "socratic",
+          "split": "train",
+          "idx": 4671,
+          "question": "Uma ezimbili izitobhi kukhona oda ezimbili pizza kanye nezinye kukhona for pizza olulodwa, imizuzu emingaki stop ngamunye isilinganiso isidingo ukulethwa umuntu ukuze ukuletha zonke pizza e 40 imizuzu? 12",
+          "answer": "Kunama-stop amangaki? ** Uma kuzolethwa ama-pizza amabili kuma-stop amabili, inani eliphelele lama-stop lizoba 12-2=<<12-2=10>>10 stops.\nKumele umuntu oletha amapayipi afake amapayipi amaningi kangakanani emizuzwini engu-40? ** Uma kukhona 10 emi emi"
+        }
+      ],
+      "unlabeled_digit": [],
+      "amh_pi_digit": [],
+      "page_marker_in_question": [],
+      "only_num_punct_question": [],
+      "short_question_le_3_words": [],
+      "repeated_bracket_p_question": [],
+      "many_unlabeled_digit_question": []
+    }
+  }
+}

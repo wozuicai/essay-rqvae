@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "test": 1319,
+    "train": 7473
+  },
+  "created_at": "2026-07-16 13:34:42 UTC",
+  "lang": "zul_Latn",
+  "lang_name": "Zulu",
+  "outputs": {
+    "source_jsonl": "/root/gsm8k_single_language_experiment/zul_Latn/source.jsonl",
+    "source_parquet": "/root/gsm8k_single_language_experiment/zul_Latn/source.parquet"
+  },
+  "source_dir": "/root/gsm8k_nllb_direct",
+  "total": 8792
+}

@@ -1,0 +1,15 @@
+{
+  "baseline_all_accuracy": 0.34029041552926903,
+  "baseline_train_accuracy": 0.34328025335652795,
+  "created_at": "2026-07-17 22:35:38 UTC",
+  "fdr": 0.05,
+  "min_bucket_n": 100,
+  "num_bucket_tests": 2988,
+  "num_significant_rules": 880,
+  "sid_buckets": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/sid_buckets.parquet",
+  "significant_sid_rules": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/significant_sid_rules.parquet",
+  "test_all_variant_accuracy": 0.32335102350265355,
+  "test_original_accuracy": 0.3297952994692949,
+  "test_selected_accuracy": 0.38817285822592873,
+  "test_selection": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/test_selection.parquet"
+}

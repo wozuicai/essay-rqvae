@@ -1,0 +1,33 @@
+{
+  "accuracy_by_split": {
+    "test": 0.21152388172858225,
+    "train": 0.22213301217717116
+  },
+  "created_at": "2026-07-15 17:10:26 UTC",
+  "eval_results": "/root/gsm8k_single_language_experiment/yor_Latn/eval/eval_results.parquet",
+  "expected_rows": 52752,
+  "format_failure_recovered_correct": 1029,
+  "missing_preview": [],
+  "missing_rows": 0,
+  "num_rows": 52752,
+  "overall_accuracy": 0.22054140127388536,
+  "relaxed_accuracy_by_split": {
+    "test": 0.23313115996967398,
+    "train": 0.241290869351889
+  },
+  "relaxed_last_number_accuracy": 0.24006672732787382,
+  "relaxed_prediction_none": 118,
+  "relaxed_prediction_none_rate": 0.0022368820139520777,
+  "strict_accuracy_by_split": {
+    "test": 0.21152388172858225,
+    "train": 0.22213301217717116
+  },
+  "strict_else_relaxed_accuracy": 0.24004777070063693,
+  "strict_else_relaxed_accuracy_by_split": {
+    "test": 0.2332575183219611,
+    "train": 0.2412462643293635
+  },
+  "strict_format_accuracy": 0.22054140127388536,
+  "strict_prediction_none": 21852,
+  "strict_prediction_none_rate": 0.41424021838034575
+}

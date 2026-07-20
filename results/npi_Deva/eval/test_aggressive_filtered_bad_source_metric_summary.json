@@ -1,0 +1,77 @@
+{
+  "detail_files": {
+    "bad_source_rows_csv": "/root/gsm8k_single_language_experiment/npi_Deva/eval/test_bad_source_rows_for_aggressive_filtered_summary.csv",
+    "bad_source_rows_json": "/root/gsm8k_single_language_experiment/npi_Deva/eval/test_bad_source_rows_for_aggressive_filtered_summary.json",
+    "eval_results": "/root/gsm8k_single_language_experiment/npi_Deva/eval/eval_results.parquet",
+    "summary_markdown": "/root/gsm8k_single_language_experiment/npi_Deva/eval/test_aggressive_filtered_bad_source_metric_comparison.md"
+  },
+  "filter_definition": {
+    "dropped_source_rows": 43,
+    "kept_source_rows": 1276,
+    "mode": "aggressive",
+    "rules": [
+      "placeholder_P_in_question",
+      "unlabeled_digit_placeholder_in_question",
+      "page_marker_in_question",
+      "numeric_or_placeholder_only_question",
+      "very_short_numeric_question",
+      "many_placeholder_P_in_question",
+      "many_unlabeled_digit_placeholders_in_question",
+      "quality_audit example rows from /root/gsm8k_nllb_direct_quality_audit.json"
+    ],
+    "scope": "test source rows only"
+  },
+  "lang": "npi_Deva",
+  "metrics": [
+    {
+      "n": 7656,
+      "relaxed_correct": 2776,
+      "relaxed_last_number_accuracy": 0.3625914315569488,
+      "setting": "all_test_variants_average_aggressive_filtered",
+      "strict_accuracy": 0.3270637408568443,
+      "strict_correct": 2504,
+      "strict_else_relaxed_accuracy": 0.36246081504702193,
+      "strict_else_relaxed_correct": 2775
+    },
+    {
+      "n": 1276,
+      "relaxed_correct": 474,
+      "relaxed_last_number_accuracy": 0.3714733542319749,
+      "setting": "original_variant_v0_aggressive_filtered",
+      "strict_accuracy": 0.3401253918495298,
+      "strict_correct": 434,
+      "strict_else_relaxed_accuracy": 0.3714733542319749,
+      "strict_else_relaxed_correct": 474
+    },
+    {
+      "n": 1276,
+      "relaxed_correct": 548,
+      "relaxed_last_number_accuracy": 0.42946708463949845,
+      "setting": "sid_rules_selected_aggressive_filtered",
+      "strict_accuracy": 0.390282131661442,
+      "strict_correct": 498,
+      "strict_else_relaxed_accuracy": 0.42946708463949845,
+      "strict_else_relaxed_correct": 548
+    },
+    {
+      "n": 1276,
+      "relaxed_correct": 524,
+      "relaxed_last_number_accuracy": 0.4106583072100313,
+      "setting": "lgbm_all_levels_selected_aggressive_filtered",
+      "strict_accuracy": 0.38087774294670845,
+      "strict_correct": 486,
+      "strict_else_relaxed_accuracy": 0.4114420062695925,
+      "strict_else_relaxed_correct": 525
+    },
+    {
+      "n": 1276,
+      "relaxed_correct": 524,
+      "relaxed_last_number_accuracy": 0.4106583072100313,
+      "setting": "lgbm_exclude_level0_selected_aggressive_filtered",
+      "strict_accuracy": 0.38087774294670845,
+      "strict_correct": 486,
+      "strict_else_relaxed_accuracy": 0.4114420062695925,
+      "strict_else_relaxed_correct": 525
+    }
+  ]
+}

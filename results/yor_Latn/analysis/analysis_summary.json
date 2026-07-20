@@ -1,0 +1,15 @@
+{
+  "baseline_all_accuracy": 0.22054140127388536,
+  "baseline_train_accuracy": 0.22213301217717116,
+  "created_at": "2026-07-15 17:11:13 UTC",
+  "fdr": 0.05,
+  "min_bucket_n": 100,
+  "num_bucket_tests": 3359,
+  "num_significant_rules": 888,
+  "sid_buckets": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/sid_buckets.parquet",
+  "significant_sid_rules": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/significant_sid_rules.parquet",
+  "test_all_variant_accuracy": 0.21152388172858225,
+  "test_original_accuracy": 0.1683093252463988,
+  "test_selected_accuracy": 0.3100833965125095,
+  "test_selection": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/test_selection.parquet"
+}

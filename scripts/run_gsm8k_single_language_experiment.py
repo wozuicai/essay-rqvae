@@ -1761,17 +1761,6 @@ def cmd_translate_rewrites(args: argparse.Namespace) -> None:
     if not english_records:
         return
 
-    device = args.device
-    if device == "cuda":
-        torch.backends.cuda.matmul.allow_tf32 = True
-    tokenizer = AutoTokenizer.from_pretrained(args.nllb_model, src_lang="eng_Latn")
-    model = AutoModelForSeq2SeqLM.from_pretrained(
-        args.nllb_model,
-        dtype=torch.float16 if device == "cuda" else torch.float32,
-        attn_implementation="eager",
-    ).to(device)
-    model.eval()
-
     units: Dict[str, str] = {}
     for rec in english_records:
         for text in rec.get("rewrites") or []:
@@ -1781,18 +1770,29 @@ def cmd_translate_rewrites(args: argparse.Namespace) -> None:
     cache_path = out_dir / ".cache" / f"english_rewrites__{args.lang}.jsonl"
     cache = nllb.load_cache(cache_path)
     missing = [(text_key, text) for text_key, text in units.items() if text_key not in cache]
-    nllb.translate_missing(
-        model=model,
-        tokenizer=tokenizer,
-        missing=missing,
-        target_lang=args.lang,
-        cache_path=cache_path,
-        cache=cache,
-        batch_size=args.batch_size,
-        source_max_length=args.source_max_length,
-        target_max_length=args.target_max_length,
-        device=device,
-    )
+    if missing:
+        device = args.device
+        if device == "cuda":
+            torch.backends.cuda.matmul.allow_tf32 = True
+        tokenizer = AutoTokenizer.from_pretrained(args.nllb_model, src_lang="eng_Latn")
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            args.nllb_model,
+            dtype=torch.float16 if device == "cuda" else torch.float32,
+            attn_implementation="eager",
+        ).to(device)
+        model.eval()
+        nllb.translate_missing(
+            model=model,
+            tokenizer=tokenizer,
+            missing=missing,
+            target_lang=args.lang,
+            cache_path=cache_path,
+            cache=cache,
+            batch_size=args.batch_size,
+            source_max_length=args.source_max_length,
+            target_max_length=args.target_max_length,
+            device=device,
+        )
 
     out_records = []
     total_ok = 0

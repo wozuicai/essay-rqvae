@@ -1,0 +1,37 @@
+{
+  "exclude_level0": false,
+  "num_boost_round": 200,
+  "num_features": 99,
+  "outputs": {
+    "feature_importance": "/root/gsm8k_single_language_experiment/zul_Latn/analysis_lgbm/feature_importance.csv",
+    "test_selection_lgbm": "/root/gsm8k_single_language_experiment/zul_Latn/analysis_lgbm/test_selection_lgbm.parquet",
+    "test_variant_scores": "/root/gsm8k_single_language_experiment/zul_Latn/analysis_lgbm/test_variant_scores.parquet"
+  },
+  "params": {
+    "bagging_fraction": 0.85,
+    "bagging_freq": 1,
+    "feature_fraction": 0.85,
+    "force_col_wise": true,
+    "learning_rate": 0.03,
+    "metric": [
+      "binary_logloss",
+      "auc"
+    ],
+    "min_data_in_leaf": 200,
+    "num_leaves": 64,
+    "num_threads": 16,
+    "objective": "binary",
+    "seed": 42,
+    "verbosity": -1
+  },
+  "test_all_variant_accuracy": 0.28936062673742735,
+  "test_auc": 0.7035339810046773,
+  "test_original_accuracy": 0.266868840030326,
+  "test_selected_accuracy": 0.35329795299469297,
+  "test_source_rows": 1319,
+  "test_variant_accuracy_at_0_5": 0.7240333586050038,
+  "test_variant_rows": 7914,
+  "train_accuracy_at_0_5": 0.8744145590793523,
+  "train_auc": 0.952278869058254,
+  "train_rows": 44838
+}
