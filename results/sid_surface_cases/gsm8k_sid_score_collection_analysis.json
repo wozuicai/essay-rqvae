@@ -1,0 +1,2064 @@
+[
+  {
+    "lang": "npi_Deva",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.34029041552926903,
+      "baseline_train_accuracy": 0.34328025335652795,
+      "created_at": "2026-07-17 22:35:38 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 2988,
+      "num_significant_rules": 880,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.32335102350265355,
+      "test_original_accuracy": 0.3297952994692949,
+      "test_selected_accuracy": 0.38817285822592873,
+      "test_selection": "/root/gsm8k_single_language_experiment/npi_Deva/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 168.18271417740712,
+      "tokens": 29.643669446550415,
+      "word_count": 26.212282031842303,
+      "num_count": 3.4950720242608035,
+      "ascii_word_count": 0.022744503411675512,
+      "ascii_word_rate": 0.0008172605862604541,
+      "placeholder_count": 0.0,
+      "page_marker": 0.000758150113722517,
+      "max_token_run": 1.0128885519332829,
+      "if_condition": 0.34950720242608035,
+      "total_question": 0.30856709628506446,
+      "how_many": 0.8923426838514026,
+      "unit_or_rate": 0.21228203184230476,
+      "money": 0.46626231993934797,
+      "percent_fraction": 0.19863532979529946,
+      "comparison": 0.10917361637604246,
+      "n": 1319,
+      "accuracy": 0.5905989385898408,
+      "strict_accuracy": 0.55420773313116
+    },
+    "bottom_score_collection": {
+      "chars": 172.26838514025778,
+      "tokens": 30.691432903714936,
+      "word_count": 27.72554965883245,
+      "num_count": 4.080363912054587,
+      "ascii_word_count": 0.02577710386656558,
+      "ascii_word_rate": 0.0008369562132732439,
+      "placeholder_count": 0.11220621683093253,
+      "page_marker": 0.20090978013646701,
+      "max_token_run": 5.387414708112206,
+      "if_condition": 0.10386656557998483,
+      "total_question": 0.1652767247915087,
+      "how_many": 0.49962092494313876,
+      "unit_or_rate": 0.10007581501137225,
+      "money": 0.2964366944655042,
+      "percent_fraction": 0.22062168309325247,
+      "comparison": 0.11675511751326763,
+      "n": 1319,
+      "accuracy": 0.09552691432903715,
+      "strict_accuracy": 0.08112206216830932
+    },
+    "selected_wins_collection": {
+      "chars": 172.67032967032966,
+      "tokens": 30.428571428571427,
+      "word_count": 27.104395604395606,
+      "num_count": 3.434065934065934,
+      "ascii_word_count": 0.07692307692307693,
+      "ascii_word_rate": 0.002045960151952996,
+      "placeholder_count": 0.0,
+      "page_marker": 0.005494505494505495,
+      "max_token_run": 1.010989010989011,
+      "if_condition": 0.24725274725274726,
+      "total_question": 0.3791208791208791,
+      "how_many": 0.8021978021978022,
+      "unit_or_rate": 0.22527472527472528,
+      "money": 0.34065934065934067,
+      "percent_fraction": 0.21428571428571427,
+      "comparison": 0.17032967032967034,
+      "n": 182,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.8681318681318682
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "कति",
+        "pos_rate": 0.8506444275966641,
+        "neg_rate": 0.46626231993934797,
+        "delta": 0.3843821076573162,
+        "pos_count": 1122,
+        "neg_count": 615
+      },
+      {
+        "token": "यदि",
+        "pos_rate": 0.34874905231235787,
+        "neg_rate": 0.10386656557998483,
+        "delta": 0.24488248673237303,
+        "pos_count": 460,
+        "neg_count": 137
+      },
+      {
+        "token": "प्रत्येक",
+        "pos_rate": 0.2934040940106141,
+        "neg_rate": 0.1023502653525398,
+        "delta": 0.19105382865807433,
+        "pos_count": 387,
+        "neg_count": 135
+      },
+      {
+        "token": "भने",
+        "pos_rate": 0.31387414708112205,
+        "neg_rate": 0.1372251705837756,
+        "delta": 0.17664897649734645,
+        "pos_count": 414,
+        "neg_count": 181
+      },
+      {
+        "token": "कुल",
+        "pos_rate": 0.2918877937831691,
+        "neg_rate": 0.15466262319939347,
+        "delta": 0.13722517058377562,
+        "pos_count": 385,
+        "neg_count": 204
+      },
+      {
+        "token": "लागि",
+        "pos_rate": 0.2850644427596664,
+        "neg_rate": 0.14783927217589082,
+        "delta": 0.1372251705837756,
+        "pos_count": 376,
+        "neg_count": 195
+      },
+      {
+        "token": "खर्च",
+        "pos_rate": 0.18347232752084913,
+        "neg_rate": 0.06747536012130402,
+        "delta": 0.11599696739954511,
+        "pos_count": 242,
+        "neg_count": 89
+      },
+      {
+        "token": "प्रति",
+        "pos_rate": 0.1956027293404094,
+        "neg_rate": 0.08263836239575435,
+        "delta": 0.11296436694465505,
+        "pos_count": 258,
+        "neg_count": 109
+      },
+      {
+        "token": "उसले",
+        "pos_rate": 0.20090978013646701,
+        "neg_rate": 0.0932524639878696,
+        "delta": 0.10765731614859742,
+        "pos_count": 265,
+        "neg_count": 123
+      },
+      {
+        "token": "हरेक",
+        "pos_rate": 0.14935557240333586,
+        "neg_rate": 0.047763457164518575,
+        "delta": 0.10159211523881728,
+        "pos_count": 197,
+        "neg_count": 63
+      },
+      {
+        "token": "उनले",
+        "pos_rate": 0.18953752843062927,
+        "neg_rate": 0.10462471569370735,
+        "delta": 0.08491281273692192,
+        "pos_count": 250,
+        "neg_count": 138
+      },
+      {
+        "token": "हुन्छ",
+        "pos_rate": 0.14935557240333586,
+        "neg_rate": 0.06595905989385899,
+        "delta": 0.08339651250947687,
+        "pos_count": 197,
+        "neg_count": 87
+      },
+      {
+        "token": "मूल्य",
+        "pos_rate": 0.11599696739954511,
+        "neg_rate": 0.03639120545868082,
+        "delta": 0.0796057619408643,
+        "pos_count": 153,
+        "neg_count": 48
+      },
+      {
+        "token": "छन्",
+        "pos_rate": 0.16679302501895377,
+        "neg_rate": 0.0932524639878696,
+        "delta": 0.07354056103108417,
+        "pos_count": 220,
+        "neg_count": 123
+      },
+      {
+        "token": "पैसा",
+        "pos_rate": 0.1281273692191054,
+        "neg_rate": 0.056103108415466264,
+        "delta": 0.07202426080363913,
+        "pos_count": 169,
+        "neg_count": 74
+      },
+      {
+        "token": "उनको",
+        "pos_rate": 0.10765731614859743,
+        "neg_rate": 0.03639120545868082,
+        "delta": 0.07126611068991662,
+        "pos_count": 142,
+        "neg_count": 48
+      },
+      {
+        "token": "बाँकी",
+        "pos_rate": 0.16982562547384383,
+        "neg_rate": 0.09931766489764973,
+        "delta": 0.0705079605761941,
+        "pos_count": 224,
+        "neg_count": 131
+      },
+      {
+        "token": "गर्दछ",
+        "pos_rate": 0.09552691432903715,
+        "neg_rate": 0.026535253980288095,
+        "delta": 0.06899166034874905,
+        "pos_count": 126,
+        "neg_count": 35
+      },
+      {
+        "token": "एउटा",
+        "pos_rate": 0.1326762699014405,
+        "neg_rate": 0.0667172100075815,
+        "delta": 0.06595905989385899,
+        "pos_count": 175,
+        "neg_count": 88
+      },
+      {
+        "token": "त्यसपछि",
+        "pos_rate": 0.09704321455648218,
+        "neg_rate": 0.0310841546626232,
+        "delta": 0.06595905989385899,
+        "pos_count": 128,
+        "neg_count": 41
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 571,
+        "selected_variant_idx": 2,
+        "score": 728.0027394813823,
+        "target": "308",
+        "prediction": "308",
+        "original_question": "लेआले भर्खरै एउटा नयाँ बिरालो पाएकी छिन्। उनको $200, कोटामा नसबंदी गराउनुको लागि 3 खोपको लागि $20 खर्च गर्नुपर्नेछ, र बिरालोले 4 कोटा तोडेको छ जसको प्रत्येकको लागत $12 छ। अहिलेसम्म बिरालोको कति खर्च भएको छ?",
+        "selected_question": "लेआले भर्खरै ग्रहण गरेको बिरालोलाई $200 स्टेराइज, 3 शट $20 मा प्रत्येक, र 4 भाँडाको भाँडामा $12 प्रत्येकमा भत्कायो अब सम्म यसको मूल्य कति छ?"
+      },
+      {
+        "source_idx": 387,
+        "selected_variant_idx": 5,
+        "score": 684.9761286974474,
+        "target": "36",
+        "prediction": "36",
+        "original_question": "6 र 8 पेन्सिलको मूल्य कति हुन्छ? $2 $3",
+        "selected_question": "6 इरेजर (प्रत्येक $2) र 8 पेन्सिल (प्रत्येक $3) को कुल लागत कति हुन्छ?"
+      },
+      {
+        "source_idx": 875,
+        "selected_variant_idx": 2,
+        "score": 681.0225779044935,
+        "target": "60",
+        "prediction": "60",
+        "original_question": "पावलले 52 मर्च छ. उसको साथीले 28 मर्च दिए. त्यसपछि, उसले 1/4 आफ्नो मर्च गुमायो. पावलले कति मर्च बाँकी छ?",
+        "selected_question": "52 गोलाहरू पाएर र आफ्नो साथीबाट 28 थप पाएपछि, पावलले 1/4 गुमाए। कति गोलाहरू बाँकी छन्?"
+      },
+      {
+        "source_idx": 902,
+        "selected_variant_idx": 4,
+        "score": 672.1869311862635,
+        "target": "8",
+        "prediction": "8",
+        "original_question": "विलियमले पाँचवटा नोटबुक र एउटा बलपेन किने। उनले सबैमा कति खर्च गरे? $1.50 $0.5",
+        "selected_question": "यदि शैक्षिक पसलले प्रति नोटबुक $1.50 र प्रति बलपेन $0.5 शुल्क लिन्छ भने, र विलियमले पाँचवटा नोटबुक र एक बलपेन किन्छ भने, उसले खर्च गरेको कुल रकम कति हो?"
+      },
+      {
+        "source_idx": 262,
+        "selected_variant_idx": 3,
+        "score": 650.5550464588898,
+        "target": "270",
+        "prediction": "270",
+        "original_question": "म्याडिसनले 5 बक्सहरू प्रत्येक बक्समा 50 संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग संग स...",
+        "selected_question": "एम. म्याडिसनका 5 बक्सहरू छन् जसमा 50 मोजाहरू प्रति बक्स छन्, र पछि उनीसँग 20 मोजाहरू एक साथीबाट छन्। अहिले उनीसँग कुल कति मोजाहरू छन्?"
+      },
+      {
+        "source_idx": 235,
+        "selected_variant_idx": 3,
+        "score": 626.2103356879442,
+        "target": "10",
+        "prediction": "10",
+        "original_question": "जोनले आफ्ना साथीहरूसँग बाँड्न पिज्जा अर्डर गर्छन्। त्यहाँ 20 साथीहरू छन्, र जोनले प्रत्येकले 4 स्लाइसहरू पाउने कुरा सुनिश्चित गर्न चाहन्छन्। पिज्जाहरू 8 भागमा मात्र बिक्री गरिन्छ। कति पिज्जाहरू जोनले अर्डर गर्नु पर्छ?",
+        "selected_question": "यदि जोनले 20 साथीहरूलाई खुवाइरहेको छ र प्रत्येक साथीले 4 स्लाइसहरू पाउनुपर्छ, र हरेक पिज्जालाई 8 स्लाइसहरूमा विभाजित गरिएको छ भने, जोनले कतिवटा पिज्जा खरिद गर्नु पर्छ?"
+      },
+      {
+        "source_idx": 274,
+        "selected_variant_idx": 1,
+        "score": 618.5879018320085,
+        "target": "3200",
+        "prediction": "३२००",
+        "original_question": "20 र 80 को मूल्यमा, र $40 को मूल्यमा, र $30, को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा, र को मूल्यमा...",
+        "selected_question": "श्रीमती रायलानले 20 प्याकेट टमाटरको बीउ $40 मा र 80 प्याकेट सेलेरीको बीउ $30 मा किन्नुभयो; उनले कुल कति खर्च गरे?"
+      },
+      {
+        "source_idx": 741,
+        "selected_variant_idx": 2,
+        "score": 607.6642078609839,
+        "target": "28",
+        "prediction": "28",
+        "original_question": "12 चराहरू हेर्दा जेरेमीले एउटा ढुङ्गा फ्याँक्नुभयो, जसले 1/3 चराहरूलाई डरायो। केही मिनेटपछि 20 चराहरू पनि डराएका चराहरूसँग मिले। अहिले कति चराहरू चराहरूको घरको पछाडि छन्?",
+        "selected_question": "12 चराहरू जेरेमीको पछाडिको आँगनमा थिए जब उनले उनीहरूमाथि ढुङ्गा फ्याँके, जसले गर्दा 1/3 चराहरू उड्न थाले। पछि, 20 थप चराहरू पछाडिको आँगनमा आए। अहिले त्यहाँ कुल चराहरूको संख्या कति छ?"
+      },
+      {
+        "source_idx": 518,
+        "selected_variant_idx": 5,
+        "score": 601.1018481260166,
+        "target": "32",
+        "prediction": "32",
+        "original_question": "अलीसँग चार $10 बिल र छ $20 बिलहरू छन् जुन उनले श्री जेम्सको लागि उनको फार्ममा काम गरेपछि बचत गरे। अलीले आफ्नी बहिनीलाई उसको कुल पैसाको आधा दिन्छ र बाँकी रकमको खाना खरिद गर्न प्रयोग गर्दछ। खाना खरिद गरेपछि उसको पैसाको रकम गणना गर्नुहोस्। 3/5",
+        "selected_question": "श्री जेम्सको फार्ममा काम गर्दा, अलीले चार $10 र छ $20 बिलहरू बचत गरे, कुल रकमको आधा आफ्नो बहिनीलाई दिए, र त्यसपछि बाँकी पैसाको 3/5 खाना खरिद गर्न प्रयोग गरे; त्यसपछि उसको कति रकम छ?"
+      },
+      {
+        "source_idx": 1117,
+        "selected_variant_idx": 1,
+        "score": 597.2626204222615,
+        "target": "9",
+        "prediction": "9",
+        "original_question": "459 समयसम्म चम्किने प्रकाश कति समय लाग्छ? 255",
+        "selected_question": "यदि एउटा दीपगृहको प्रकाश 255 पटक 5 मिनेटमा झिम्काउँछ भने, यसलाई 459 पटक झिम्काउन कति मिनेट लाग्छ?"
+      },
+      {
+        "source_idx": 449,
+        "selected_variant_idx": 5,
+        "score": 595.8649616749797,
+        "target": "112",
+        "prediction": "112",
+        "original_question": "६. (क) बेअट्रिसेले आफ्नो कला कक्षाको लागि कतिवटा रंगका पेन्ट किन्छिन्? (ख) बेअट्रिसेले कतिवटा रंगका पेन्ट किन्छिन्?",
+        "selected_question": "बेअट्रीसले आफ्नो कला कक्षाको लागि १० प्याकेट पेन्ट किन्छिन्। त्यसमध्ये ६ प्याकेटमा प्रत्येकमा ८ वटा रङका टुक्रा छन्, र बाँकी चार प्याकेटमा प्रत्येकमा १६ वटा रङका टुक्रा छन्। उनले कुल कति रंगका पेन्ट किन्छिन्?"
+      },
+      {
+        "source_idx": 410,
+        "selected_variant_idx": 4,
+        "score": 589.902574595105,
+        "target": "3",
+        "prediction": "3",
+        "original_question": "सल्ली छुट्टीको लागि समुद्री तटमा गइन्। उनका आमाबुबाले उनलाई $10 दिए कि उनी जे चाहन्छिन् किन्नुहोस्। गहना पसलमा, टफी बिक्रीमा थियो \"P1 पाउन्ड $3, मा 1 पाउन्ड 1/2 छुट पाउनुहोस्। \" उनले 2 पाउन्ड उठाए। उनले $1.50 र 4 चुम्बकहरूको लागि समुद्री...",
+        "selected_question": "$10 आफ्नो आमाबाबुबाट, सली समुद्र तट गए. गहना पसलले संकेत खरिद 1 पाउन्ड $3, मा प्राप्त 1 पाउन्ड 1 / सलीले 2 पाउन्ड टफी, $1.50 को लागि समुद्री शेलको मिश्रित झोला, र 4 चुम्बक $0.25 मा प्रत्येकको लागि कति पैसा बाँकी छ?"
+      }
+    ]
+  },
+  {
+    "lang": "sin_Sinh",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.2932590233545648,
+      "baseline_train_accuracy": 0.29559748427672955,
+      "created_at": "2026-07-17 10:16:23 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 3099,
+      "num_significant_rules": 873,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/sin_Sinh/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/sin_Sinh/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.280010108668183,
+      "test_original_accuracy": 0.2918877937831691,
+      "test_selected_accuracy": 0.34950720242608035,
+      "test_selection": "/root/gsm8k_single_language_experiment/sin_Sinh/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 186.43669446550416,
+      "tokens": 34.191811978771796,
+      "word_count": 30.58150113722517,
+      "num_count": 3.7164518574677787,
+      "ascii_word_count": 0.06141015921152388,
+      "ascii_word_rate": 0.001745876107103147,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.199393479909022,
+      "if_condition": 0.2744503411675512,
+      "total_question": 0.3169067475360121,
+      "how_many": 0.2964366944655042,
+      "unit_or_rate": 0.2562547384382108,
+      "money": 0.6497346474601972,
+      "percent_fraction": 0.19636087945413191,
+      "comparison": 0.07278241091736164,
+      "n": 1319,
+      "accuracy": 0.5140257771038665,
+      "strict_accuracy": 0.4791508718726308
+    },
+    "bottom_score_collection": {
+      "chars": 217.4010614101592,
+      "tokens": 41.34874905231236,
+      "word_count": 37.567096285064444,
+      "num_count": 3.893100833965125,
+      "ascii_word_count": 0.037149355572403335,
+      "ascii_word_rate": 0.0013147797887486064,
+      "placeholder_count": 0.2630780894617134,
+      "page_marker": 0.00530705079605762,
+      "max_token_run": 8.705837755875663,
+      "if_condition": 0.14025777103866566,
+      "total_question": 0.12509476876421532,
+      "how_many": 0.19636087945413191,
+      "unit_or_rate": 0.15314632297194844,
+      "money": 0.3388931008339651,
+      "percent_fraction": 0.17892342683851403,
+      "comparison": 0.1372251705837756,
+      "n": 1319,
+      "accuracy": 0.0887035633055345,
+      "strict_accuracy": 0.07050796057619409
+    },
+    "selected_wins_collection": {
+      "chars": 176.08333333333334,
+      "tokens": 32.442708333333336,
+      "word_count": 29.114583333333332,
+      "num_count": 3.4270833333333335,
+      "ascii_word_count": 0.10416666666666667,
+      "ascii_word_rate": 0.0027643552257055775,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.2135416666666667,
+      "if_condition": 0.22916666666666666,
+      "total_question": 0.2916666666666667,
+      "how_many": 0.3177083333333333,
+      "unit_or_rate": 0.20833333333333334,
+      "money": 0.34375,
+      "percent_fraction": 0.17708333333333334,
+      "comparison": 0.15104166666666666,
+      "n": 192,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.9114583333333334
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "කොපමණ",
+        "pos_rate": 0.3282789992418499,
+        "neg_rate": 0.13040181956027294,
+        "delta": 0.19787717968157695,
+        "pos_count": 433,
+        "neg_count": 172
+      },
+      {
+        "token": "මුළු",
+        "pos_rate": 0.29112964366944655,
+        "neg_rate": 0.11675511751326763,
+        "delta": 0.17437452615617893,
+        "pos_count": 384,
+        "neg_count": 154
+      },
+      {
+        "token": "සඳහා",
+        "pos_rate": 0.37604245640636846,
+        "neg_rate": 0.20545868081880211,
+        "delta": 0.17058377558756635,
+        "pos_count": 496,
+        "neg_count": 271
+      },
+      {
+        "token": "මුදලක්",
+        "pos_rate": 0.19787717968157695,
+        "neg_rate": 0.05989385898407885,
+        "delta": 0.1379833206974981,
+        "pos_count": 261,
+        "neg_count": 79
+      },
+      {
+        "token": "සෑම",
+        "pos_rate": 0.25928733889310085,
+        "neg_rate": 0.12282031842304776,
+        "delta": 0.1364670204700531,
+        "pos_count": 342,
+        "neg_count": 162
+      },
+      {
+        "token": "නම්",
+        "pos_rate": 0.26383623957543595,
+        "neg_rate": 0.13040181956027294,
+        "delta": 0.133434420015163,
+        "pos_count": 348,
+        "neg_count": 172
+      },
+      {
+        "token": "මිලදී",
+        "pos_rate": 0.265352539802881,
+        "neg_rate": 0.1508718726307809,
+        "delta": 0.11448066717210009,
+        "pos_count": 350,
+        "neg_count": 199
+      },
+      {
+        "token": "කීයක්",
+        "pos_rate": 0.2805155420773313,
+        "neg_rate": 0.17134192570128887,
+        "delta": 0.10917361637604245,
+        "pos_count": 370,
+        "neg_count": 226
+      },
+      {
+        "token": "වියදම්",
+        "pos_rate": 0.155420773313116,
+        "neg_rate": 0.052312357846853674,
+        "delta": 0.10310841546626232,
+        "pos_count": 205,
+        "neg_count": 69
+      },
+      {
+        "token": "එක්",
+        "pos_rate": 0.24715693707354056,
+        "neg_rate": 0.1463229719484458,
+        "delta": 0.10083396512509477,
+        "pos_count": 326,
+        "neg_count": 193
+      },
+      {
+        "token": "කුමක්ද",
+        "pos_rate": 0.17058377558756635,
+        "neg_rate": 0.07202426080363912,
+        "delta": 0.09855951478392723,
+        "pos_count": 225,
+        "neg_count": 95
+      },
+      {
+        "token": "ඔහු",
+        "pos_rate": 0.2562547384382108,
+        "neg_rate": 0.1607278241091736,
+        "delta": 0.09552691432903718,
+        "pos_count": 338,
+        "neg_count": 212
+      },
+      {
+        "token": "මුදල",
+        "pos_rate": 0.15314632297194844,
+        "neg_rate": 0.05913570887035633,
+        "delta": 0.09401061410159212,
+        "pos_count": 202,
+        "neg_count": 78
+      },
+      {
+        "token": "මිල",
+        "pos_rate": 0.13949962092494314,
+        "neg_rate": 0.05307050796057619,
+        "delta": 0.08642911296436695,
+        "pos_count": 184,
+        "neg_count": 70
+      },
+      {
+        "token": "ඇගේ",
+        "pos_rate": 0.13495072024260804,
+        "neg_rate": 0.06141015921152388,
+        "delta": 0.07354056103108417,
+        "pos_count": 178,
+        "neg_count": 81
+      },
+      {
+        "token": "වැය",
+        "pos_rate": 0.10159211523881728,
+        "neg_rate": 0.0356330553449583,
+        "delta": 0.06595905989385897,
+        "pos_count": 134,
+        "neg_count": 47
+      },
+      {
+        "token": "ඇයට",
+        "pos_rate": 0.11599696739954511,
+        "neg_rate": 0.052312357846853674,
+        "delta": 0.06368460955269144,
+        "pos_count": 153,
+        "neg_count": 69
+      },
+      {
+        "token": "එකකට",
+        "pos_rate": 0.09097801364670205,
+        "neg_rate": 0.030326004548900682,
+        "delta": 0.06065200909780137,
+        "pos_count": 120,
+        "neg_count": 40
+      },
+      {
+        "token": "දින",
+        "pos_rate": 0.1023502653525398,
+        "neg_rate": 0.04397270659590599,
+        "delta": 0.05837755875663381,
+        "pos_count": 135,
+        "neg_count": 58
+      },
+      {
+        "token": "කොපමණද",
+        "pos_rate": 0.09476876421531463,
+        "neg_rate": 0.039423805913570885,
+        "delta": 0.05534495830174375,
+        "pos_count": 125,
+        "neg_count": 52
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 1132,
+        "selected_variant_idx": 1,
+        "score": 678.1374301577745,
+        "target": "45000",
+        "prediction": "45000",
+        "original_question": "වැලරි මාසෙකට P0 උපයනවා, එයාගේ සහෝදරයා උපයන ගානට වඩා. $5000 1/2",
+        "selected_question": "වැලරී මාසිකව උපයන්නේ $5000, ඒ කියන්නේ 1/2 ඇගේ සහෝදරයාගේ මාසික ආදායමෙන්; ඔවුන්ගේ මව ඔවුන්ගේ වැටුප මෙන් දෙගුණයක් උපයනවා, ඉතින් ඔවුන් සියල්ලන්ටම මුළු මුදල කොපමණද?"
+      },
+      {
+        "source_idx": 460,
+        "selected_variant_idx": 2,
+        "score": 643.7107118866948,
+        "target": "84",
+        "prediction": "84",
+        "original_question": "ග් රේසන් සෑම සතියකම මුදල් සඳහා බඳුන් සහ බෝතල් ප් රතිචක් රීකරණය කරයි. ඇලුමිනියම් බඳුනකට සෙන්ට් දෙකක් වටිනවා සහ ප්ලාස්ටික් බෝතලයක් සෙන්ට් තුනක් වටිනවා. ඇය සතියකට ඇලුමිනියම් බඳුන් තුනක් සෝඩා සහ ප්ලාස්ටික් බෝතල් පහක් වතුර පානය කරයි. ග් රේසන්...",
+        "selected_question": "සෑම සතියකම ග් රේසන් ඇලුමිනියම් බඳුන් තුනක් (එකකට සෙන්ට් දෙකක වටිනාකමක්) සහ ප්ලාස්ටික් බෝතල් පහක් (එකකට සෙන්ට් තුනක වටිනාකමක්) ප් රතිචක් රීකරණය කරයි. සති හතරක මාසයකදී ඇය උපයන මුළු මුදල සෙන්ට් කීයද?"
+      },
+      {
+        "source_idx": 902,
+        "selected_variant_idx": 1,
+        "score": 634.2952059980296,
+        "target": "8",
+        "prediction": "8",
+        "original_question": "විලියම් පොත්පත් පහක් සහ පොත්පත් එකක් මිලදී ගත්තා. ඔහු කොපමණ මුදලක් වියදම් කළාද? $1.50 $0.5",
+        "selected_question": "අධ් යාපන වෙළඳසැලෙන් එක් එක් $1.50 සඳහා නෝට්බුක් සහ එක් එක් $0.5 සඳහා බෝල පෑන් විකුණයි; විලියම් නෝට්බුක් පහක් සහ එක් බෝල පෑන් එකක් මිලදී ගත්තා, ඉතින් ඔහු මුළු මුදල කොපමණද?"
+      },
+      {
+        "source_idx": 387,
+        "selected_variant_idx": 5,
+        "score": 632.5744001070864,
+        "target": "36",
+        "prediction": "36",
+        "original_question": "6 මකන්න සහ 8 කැන්වස් වලට කීයක් වැය වෙනවද? $2 $3",
+        "selected_question": "6 මකන්න (එකකට $2) සහ 8 කැන්වස් (එකකට $3) එකට කොපමණ මුදලක් වැය වේද?"
+      },
+      {
+        "source_idx": 262,
+        "selected_variant_idx": 5,
+        "score": 611.0696459553068,
+        "target": "270",
+        "prediction": "270",
+        "original_question": "මැඩිසන් ගාව 5 පෙට්ටි තියෙනවා 50 මැටි වලින්. ඊට පස්සේ එයා එයාගේ යාළුවෙක්ගෙන් 20 මැටි ගන්නවා. දැන් එයාට කීයක් තියෙනවාද?",
+        "selected_question": "මැඩිසන් ගේ මැටි ගණනය කිරීම ආරම්භ වන්නේ 5 පෙට්ටි වලින් වන අතර ඒ සෑම පෙට්ටි එකකටම 50 මැටි අඩංගු වේ, පසුව ඇය ඇගේ මිතුරියගෙන් 20 මැටි ලබා ගනී ඇයට දැන් ඇති මුළු මැටි ගණන කුමක්ද?"
+      },
+      {
+        "source_idx": 117,
+        "selected_variant_idx": 2,
+        "score": 608.9671620973874,
+        "target": "360",
+        "prediction": "360",
+        "original_question": "3 දරුවන්ට සපත්තු $60 මිලදී ගන්න. ඔහු ගෙවුවේ කොපමණ ද? 2",
+        "selected_question": "ජෝන් ගේ 3 දරුවන්ගෙන් එක් එක් කෙනාට 2 සපත්තු යුගලයක් ලැබෙනවා, මිල $60 එකකට. ජෝන් ගෙවන මුළු මුදල කීයද?"
+      },
+      {
+        "source_idx": 224,
+        "selected_variant_idx": 2,
+        "score": 606.372889159857,
+        "target": "180",
+        "prediction": "180",
+        "original_question": "කාල්ස් සහ බෙන්ජි වෙරළේ ඉන්නවා. කාල්ස් පැයක් සඳහා කැනෝ එකක් කුලියට ගන්නවා, බෙන්ජි පැයක් සඳහා බැනන් බෝට්ටු තටාකයක් කුලියට ගන්නවා. කාල්ස් පැය දෙකක් සඳහා බෝට්ටුව භාවිතා කරනවා නම්, බෙන්ජි පැය තුනක් සඳහා තටාකය භාවිතා කරනවා නම්, ඔවුන් කුලියට ගැ...",
+        "selected_question": "කාර්ලෝස් පැයට $30 ගානේ කැනෝ එකක් කුලියට අරගෙන පැය 3ක් පයින් ඒක පදිනවා නම්, බෙන්ජි පැයට $18 ගානේ කැනෝ බෝට්ටුවක් කුලියට අරගෙන පැය 5ක් පයින් ඒක පදිනවා නම්, ඔවුන් එකට කුලියට ගෙවන්න කොච්චරක් ණයද?"
+      },
+      {
+        "source_idx": 698,
+        "selected_variant_idx": 2,
+        "score": 602.3377012686965,
+        "target": "720",
+        "prediction": "720",
+        "original_question": "ග් රේටාගේ වැටුප $2400.00 වේ. ඇය ඇගේ වැටුප 50% ඇගේ විශ් රාම ගිණුමට තබයි. පසුව ඇය මාසික මෝටර් රථ ගෙවීම සඳහා ඇගේ වැටුප 20% භාවිතා කරයි. ඇයගේ විශ් රාම වැටුප සහ ඇගේ මෝටර් රථය සඳහා ගෙවීමෙන් පසු, ඇයට වියදම් කිරීමට ඉතිරිව ඇති මුදල කොපමණද?",
+        "selected_question": "ඇයගේ $2400.00 වැටුපෙන් ග් රේටා පළමුව 50% සිය විශ් රාම අරමුදලට වෙන් කර පසුව 20% ඇගේ මෝටර් රථය සඳහා ගෙවීමට යොදා ගනී ඇයට වියදම් කිරීමට ඉතිරිව ඇති මුදල කොපමණද?"
+      },
+      {
+        "source_idx": 893,
+        "selected_variant_idx": 1,
+        "score": 595.8728527166105,
+        "target": "480",
+        "prediction": "480",
+        "original_question": "මාර්ක් සතියකට දින 5 ක් වැඩ කරනවා. ඔහු කලින් පැයකට $10 උපයනවා. නමුත් ඔවුන් ඔහුගේ වැටුප පැයකට $2 කින් වැඩි කළා. ඔහු සතියකට කොපමණ උපයනවාද? 8",
+        "selected_question": "මාර්ක් වැඩ කරන්නේ 8 පැය සෑම දිනකම ඔහුගේ කාලසටහන සතියකට 5 දින; ඔහුගේ පැයක වැටුප $10 විය නමුත් එය $2, කින් වැඩි විය එබැවින් ඔහු සතියකට කොපමණ මුදලක් උපයනවාද?"
+      },
+      {
+        "source_idx": 788,
+        "selected_variant_idx": 2,
+        "score": 594.5365262908946,
+        "target": "100",
+        "prediction": "100",
+        "original_question": "ජෝන් පාසල් ගමනක් සඳහා මුදල් එකතු කරනවා. ඔහු පාසලෙන් උදව් ඉල්ලුවා. පාසල තීරණය කළා ගමනට වැය වන මුදලින් භාගයක් වැය කරන්න. ඔහුට $50 සහ ගමනට වැය වන මුදල $300 තිබේ නම් ජෝන්ට කොපමණ මුදලක් අහිමි වෙනවාද?",
+        "selected_question": "ගමනට වියදම් $300 පාසල 50% වියදම ආවරණය කරයි; ජෝන්ට දැනට $50, ඇත, එබැවින් ඔහුට තවමත් කොපමණ මුදලක් අහිමි වී තිබේද?"
+      },
+      {
+        "source_idx": 453,
+        "selected_variant_idx": 2,
+        "score": 593.0314725235883,
+        "target": "6400",
+        "prediction": "6400",
+        "original_question": "ජෙනා ආරම්භ කරන්නේ 8 සෆීර් වලින්. ඇය 3 සෆීර් රබින් දෙකකට හුවමාරු කරනවා. සෆීර් වටිනාකම $800 සහ රබින් වටිනාකම $1200, නම් ඇගේ සියලුම මැණික් වටිනාකම කොපමණ මුදලක්ද?",
+        "selected_question": "8 සෆීර වලින් පටන් ගෙන, ජෙනා ඒවා 3 වෙනුවට රබින් දෙකක් හුවමාරු කර ගන්නවා. $800 වටිනා සෑම සෆීරයක්ම සහ $1200, වටිනා සෑම රබින් එකක්ම නම්, ඇගේ සියලු මැණික් වලට කොපමණ මුදලක් වැය වේද?"
+      },
+      {
+        "source_idx": 1076,
+        "selected_variant_idx": 1,
+        "score": 588.73448653268,
+        "target": "162",
+        "prediction": "162",
+        "original_question": "$5.50 සඳහා 6 කිරි බීම, $11 සඳහා 20 සඳහා සෝඩා සහ $1.50 සඳහා සඳහා බර්ගර් තැටි 9 ක් විකුණනවා.",
+        "selected_question": "ටෙරී 6 කිරි බීම $5.50 එකකට, 9 බර්ගර් තැටි $11 එකකට, සහ 20 සෝඩා සෝඩා $1.50 එකකට විකුණුවා. ඔහු උපයා ගත් මුළු ආදායම කොපමණද?"
+      }
+    ]
+  },
+  {
+    "lang": "som_Latn",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.3586783439490446,
+      "baseline_train_accuracy": 0.3606316071189616,
+      "created_at": "2026-07-16 12:14:23 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 2750,
+      "num_significant_rules": 704,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/som_Latn/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/som_Latn/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.3476118271417741,
+      "test_original_accuracy": 0.378316906747536,
+      "test_selected_accuracy": 0.41015921152388174,
+      "test_selection": "/root/gsm8k_single_language_experiment/som_Latn/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 211.27520849128126,
+      "tokens": 35.14025777103866,
+      "word_count": 31.710386656557997,
+      "num_count": 3.486732373009856,
+      "ascii_word_count": 25.77407126611069,
+      "ascii_word_rate": 0.7360697575160625,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.068991660348749,
+      "if_condition": 0.20166793025018953,
+      "total_question": 0.15466262319939347,
+      "how_many": 0.19408642911296436,
+      "unit_or_rate": 0.047763457164518575,
+      "money": 0.4025777103866566,
+      "percent_fraction": 0.14101592115238817,
+      "comparison": 0.07050796057619409,
+      "n": 1319,
+      "accuracy": 0.5716451857467779,
+      "strict_accuracy": 0.55420773313116
+    },
+    "bottom_score_collection": {
+      "chars": 252.78695981804398,
+      "tokens": 41.573161485974225,
+      "word_count": 38.084912812736924,
+      "num_count": 3.5413191811978773,
+      "ascii_word_count": 31.48218347232752,
+      "ascii_word_rate": 0.7462540940461393,
+      "placeholder_count": 0.001516300227445034,
+      "page_marker": 0.0,
+      "max_token_run": 7.647460197119029,
+      "if_condition": 0.10462471569370735,
+      "total_question": 0.05534495830174375,
+      "how_many": 0.05079605761940864,
+      "unit_or_rate": 0.03411675511751327,
+      "money": 0.26459438968915844,
+      "percent_fraction": 0.16679302501895377,
+      "comparison": 0.08567096285064443,
+      "n": 1319,
+      "accuracy": 0.15921152388172857,
+      "strict_accuracy": 0.13495072024260804
+    },
+    "selected_wins_collection": {
+      "chars": 220.268156424581,
+      "tokens": 37.01117318435754,
+      "word_count": 33.76536312849162,
+      "num_count": 3.340782122905028,
+      "ascii_word_count": 27.256983240223462,
+      "ascii_word_rate": 0.7359507165588787,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.0502793296089385,
+      "if_condition": 0.2681564245810056,
+      "total_question": 0.2011173184357542,
+      "how_many": 0.13966480446927373,
+      "unit_or_rate": 0.0335195530726257,
+      "money": 0.2905027932960894,
+      "percent_fraction": 0.1452513966480447,
+      "comparison": 0.0893854748603352,
+      "n": 179,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.9273743016759777
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "imisa",
+        "pos_rate": 0.4313874147081122,
+        "neg_rate": 0.15693707354056102,
+        "delta": 0.2744503411675512,
+        "pos_count": 569,
+        "neg_count": 207
+      },
+      {
+        "token": "ayuu",
+        "pos_rate": 0.29037149355572406,
+        "neg_rate": 0.10462471569370735,
+        "delta": 0.1857467778620167,
+        "pos_count": 383,
+        "neg_count": 138
+      },
+      {
+        "token": "maxay",
+        "pos_rate": 0.19787717968157695,
+        "neg_rate": 0.0356330553449583,
+        "delta": 0.16224412433661864,
+        "pos_count": 261,
+        "neg_count": 47
+      },
+      {
+        "token": "ayay",
+        "pos_rate": 0.21986353297952996,
+        "neg_rate": 0.06292645943896892,
+        "delta": 0.15693707354056102,
+        "pos_count": 290,
+        "neg_count": 83
+      },
+      {
+        "token": "immisa",
+        "pos_rate": 0.19408642911296436,
+        "neg_rate": 0.05079605761940864,
+        "delta": 0.14329037149355572,
+        "pos_count": 256,
+        "neg_count": 67
+      },
+      {
+        "token": "waa",
+        "pos_rate": 0.3025018953752843,
+        "neg_rate": 0.19636087945413191,
+        "delta": 0.10614101592115241,
+        "pos_count": 399,
+        "neg_count": 259
+      },
+      {
+        "token": "intee",
+        "pos_rate": 0.16148597422289612,
+        "neg_rate": 0.0576194086429113,
+        "delta": 0.10386656557998483,
+        "pos_count": 213,
+        "neg_count": 76
+      },
+      {
+        "token": "guud",
+        "pos_rate": 0.15314632297194844,
+        "neg_rate": 0.05534495830174375,
+        "delta": 0.0978013646702047,
+        "pos_count": 202,
+        "neg_count": 73
+      },
+      {
+        "token": "haddii",
+        "pos_rate": 0.20166793025018953,
+        "neg_rate": 0.10462471569370735,
+        "delta": 0.09704321455648218,
+        "pos_count": 266,
+        "neg_count": 138
+      },
+      {
+        "token": "lacag",
+        "pos_rate": 0.13040181956027294,
+        "neg_rate": 0.034874905231235785,
+        "delta": 0.09552691432903715,
+        "pos_count": 172,
+        "neg_count": 46
+      },
+      {
+        "token": "le'eg",
+        "pos_rate": 0.10765731614859743,
+        "neg_rate": 0.03866565579984837,
+        "delta": 0.06899166034874907,
+        "pos_count": 142,
+        "neg_count": 51
+      },
+      {
+        "token": "midkiiba",
+        "pos_rate": 0.1023502653525398,
+        "neg_rate": 0.0401819560272934,
+        "delta": 0.0621683093252464,
+        "pos_count": 135,
+        "neg_count": 53
+      },
+      {
+        "token": "kadib",
+        "pos_rate": 0.11220621683093253,
+        "neg_rate": 0.058377558756633814,
+        "delta": 0.053828658074298714,
+        "pos_count": 148,
+        "neg_count": 77
+      },
+      {
+        "token": "wadarta",
+        "pos_rate": 0.10841546626231995,
+        "neg_rate": 0.05458680818802123,
+        "delta": 0.053828658074298714,
+        "pos_count": 143,
+        "neg_count": 72
+      },
+      {
+        "token": "ayaa",
+        "pos_rate": 0.2539802880970432,
+        "neg_rate": 0.20697498104624715,
+        "delta": 0.04700530705079606,
+        "pos_count": 335,
+        "neg_count": 273
+      },
+      {
+        "token": "hadii",
+        "pos_rate": 0.0667172100075815,
+        "neg_rate": 0.022744503411675512,
+        "delta": 0.04397270659590599,
+        "pos_count": 88,
+        "neg_count": 30
+      },
+      {
+        "token": "iibsatay",
+        "pos_rate": 0.05686125852918878,
+        "neg_rate": 0.013646702047005308,
+        "delta": 0.043214556482183475,
+        "pos_count": 75,
+        "neg_count": 18
+      },
+      {
+        "token": "kadibna",
+        "pos_rate": 0.09855951478392722,
+        "neg_rate": 0.05913570887035633,
+        "delta": 0.039423805913570885,
+        "pos_count": 130,
+        "neg_count": 78
+      },
+      {
+        "token": "markii",
+        "pos_rate": 0.10538286580742987,
+        "neg_rate": 0.06823351023502654,
+        "delta": 0.03714935557240333,
+        "pos_count": 139,
+        "neg_count": 90
+      },
+      {
+        "token": "qiimaha",
+        "pos_rate": 0.08642911296436695,
+        "neg_rate": 0.05079605761940864,
+        "delta": 0.03563305534495831,
+        "pos_count": 114,
+        "neg_count": 67
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 902,
+        "selected_variant_idx": 4,
+        "score": 729.5827254498171,
+        "target": "8",
+        "prediction": "8",
+        "original_question": "Dukaanka waxbarashadu wuxuu iibiyaa buugaag qoraal ah oo midkiiba qiimihiisu yahay $1.50 iyo qalinka kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda kubbadda k...",
+        "selected_question": "Hadii dukaanka waxbarashadu uu qaato $1.50 buug kasta iyo $0.5 qalin kasta, Williamna uu iibsado shan buug oo lagu daray hal qalin, waa maxay wadarta lacagta uu bixiyay?"
+      },
+      {
+        "source_idx": 849,
+        "selected_variant_idx": 4,
+        "score": 694.6293755893178,
+        "target": "75",
+        "prediction": "75",
+        "original_question": "Beeraley ayaa haysta ukumo. wuxuu ku riday saxanka, kaas oo ku jira ukumo kasta oo 30 ah. intee in le'eg ayuu beeraleygu kasbanayaa hadii uu ku iibiyo $2.5 saxanka? 900",
+        "selected_question": "Haddii beeraley uu leeyahay 900 ukumo oo uu isticmaalo saxan ay ku jiraan 30 ukumo kasta, saxan walbana uu ku iibiyo $2.5, waa maxay wadarta dakhliga beeraleyda?"
+      },
+      {
+        "source_idx": 26,
+        "selected_variant_idx": 1,
+        "score": 689.6808473324094,
+        "target": "243",
+        "prediction": "243",
+        "original_question": "Mishka wuxuu iibsaday 3 labo shorts, 3 labo surwaal, iyo 3 labo kabo. hal surwaal ayaa ku kacaya $16.50. hal surwaal ayaa ku kacaya $22.50 iyo hal kabo ayaa ku kacaya $42. imisa doolar ayuu Mishka ku bixiyay dharka oo dhan?",
+        "selected_question": "M Mish Mishka wuxuu iibsaday 3 labo shorts midkiiba $16.50, 3 labo surwaal midkiiba $22.50, iyo 3 laba kabood midkiiba $42 Immisa doolar ayuu Mishka ku bixiyay?"
+      },
+      {
+        "source_idx": 1076,
+        "selected_variant_idx": 3,
+        "score": 686.5759948851739,
+        "target": "162",
+        "prediction": "162",
+        "original_question": "Terry wuxuu iibiyaa 6 milkshakes qofkiiba $5.50, sagaal hamburger qofkiiba $11, iyo 20 soda qofkiiba $1.50.",
+        "selected_question": "Haddii Terry uu iibiyo 6 milkshakes midkiiba $5.50, sagaal burger midkiiba $11, iyo 20 soda midkiiba $1.50, waa maxay dakhligiisa guud?"
+      },
+      {
+        "source_idx": 512,
+        "selected_variant_idx": 2,
+        "score": 669.7333215121291,
+        "target": "120",
+        "prediction": "120",
+        "original_question": "Haddii uu macalinka jimicsiga ku amro inuu orod ku sameeyo marba mar, oo marba mar uu socdo labo kiiloomitir, imisa mililitir oo biyo ah ayuu Hannah u baahan doonaa? 60 8 0.25",
+        "selected_question": "Haddii Hannah ay ordo 8 wareeg, wareeg walba oo ay qaadato 0.25 km, waxayna u baahan tahay 60 ml biyo kiiloomitirkiiba, imisa millilitir oo biyo ah ayay u baahan tahay inay cabto?"
+      },
+      {
+        "source_idx": 1135,
+        "selected_variant_idx": 3,
+        "score": 669.6528817826669,
+        "target": "32",
+        "prediction": "32",
+        "original_question": "3 geed kasta oo lahaa 7 shimbiraha buluuga ah iyaga ku jira. 2 geedo kala duwan oo kasta oo lahaa 4 shimbiraha buluuga ah. 1 geed kama dambaysta ah lahaa 3 shimbiraha buluuga ah. Immisa shimbiraha buluuga ah ahaayeen in geedaha guud ahaan?",
+        "selected_question": "Haddii 3 geed kasta uu leeyahay 7 shimbiro buluug ah, 2 geedo kala duwan oo mid kasta uu leeyahay 4 shimbiro buluug ah, iyo 1 geedka ugu danbeeyay uu leeyahay 3 shimbiro buluug ah, imisa shimbiro buluug ah ayaa jira?"
+      },
+      {
+        "source_idx": 352,
+        "selected_variant_idx": 3,
+        "score": 667.6737727367258,
+        "target": "21",
+        "prediction": "21",
+        "original_question": "Kadib markii ay Andrea lacag kaydisay, waxay ku bixisay lacagta kale ee ay haysatay suudka $11 waxayna siisay walaasheed $4. hadii ay $36 lahayd bilowgii, intee in le'eg ayay Andrea kaydisay?",
+        "selected_question": "Haddii Andrea ay bilowday $36, oo ay keydisay qayb, oo ay ku bixisay $11 suudheere, oo ay siisay $4 walaasheed, imisa lacag ayay keydisay?"
+      },
+      {
+        "source_idx": 1206,
+        "selected_variant_idx": 5,
+        "score": 641.8559431909647,
+        "target": "40000",
+        "prediction": "40000",
+        "original_question": "John wuxuu go'aansaday inuu amaah helo isagoo gurigiisa amaah ku bixiyay. gurigiisa qiimihiisu waa $250,000. wuxuu amaah ka helay qiimihiisu yahay 40%. wuxuu u isticmaalay 60% inuu bixiyo deymihiisa. imisa lacag ayuu ka hadhay kadib mark...",
+        "selected_question": "Guriga John qiimihiisu waa $250,000, wuxuuna helay amaah 40% oo ah lacagtaas. kadib markii uu isticmaalay 60% amaahda si uu u bixiyo deymaha, imisa lacag ayuu hadhay?"
+      },
+      {
+        "source_idx": 873,
+        "selected_variant_idx": 1,
+        "score": 621.3204114679835,
+        "target": "12",
+        "prediction": "12",
+        "original_question": "David ayaa $12.48 oo doonaya inuu iibsado 16 bolts ka bac dukaanka hardware. bolt kasta oo qiimihiisu yahay $0.03.",
+        "selected_question": "David wuxuu haystaa $12.48 jeebkiisa wuxuuna rabaa inuu iibsado 16 bolts dukaanka qalabka, halkaas oo bolt kasta uu ku kacay $0.03. Imisa lacag ayuu ka hadhay iibsiga kadib?"
+      },
+      {
+        "source_idx": 852,
+        "selected_variant_idx": 4,
+        "score": 613.3694196879678,
+        "target": "123",
+        "prediction": "123",
+        "original_question": "Xabbad cunto ah oo cagaaran waxay ku kacaysaa $25 iyo xabbad cunto ah oo cas waxay ku kacaysaa $18. hadaad iibsato 3 xabbado cunto ah oo cagaaran iyo cunto cas, intee in le'eg ayaad bixinaysaa marka la isku daro haddii aad $2 ka qaadato ...",
+        "selected_question": "Marka aad iibsato 3 dambiilo cunto ah, iyadoo dambiilo cagaaran ay qiimo ahaan u yihiin $25 midkiiba iyo dambiilo cas oo qiimo ahaan u ah $18 midkiiba, oo aad hesho $2 sicir dhimis midkiiba dambiilkii cas, waa maxay wadarta qiimaha?"
+      },
+      {
+        "source_idx": 334,
+        "selected_variant_idx": 1,
+        "score": 609.6045623506026,
+        "target": "6",
+        "prediction": "6",
+        "original_question": "Nick, Richard, Jason iyo DJ mid waliba wuxuu leeyahay qori paintball ah. DJ wuxuu leeyahay qori 8, Nick wuxuu leeyahay qori 10, RJ wuxuu leeyahay qori 1 iyo Richard wuxuu leeyahay qori 5. Haddii ay si siman u wadaagaan hubkooda, imisa qo...",
+        "selected_question": "DJ wuxuu leeyahay qoryaha paintball-ka 8, Nick wuxuu leeyahay 10, RJ wuxuu leeyahay 1, iyo Richard wuxuu leeyahay 5; hadii ay si siman u qeybiyaan dhamaan qoryaha afartooda, imisa qoryaha ayuu qof walba helayaa?"
+      },
+      {
+        "source_idx": 620,
+        "selected_variant_idx": 2,
+        "score": 609.0432327310335,
+        "target": "1509",
+        "prediction": "1509",
+        "original_question": "DVD-ga waxaa la ciyaari karaa 1000 jeer ka hor inta uusan burburin. Waxaa jira laba DVD-ga maktabadda dadweynaha, mid ayaa la ciyaaray 356 jeer iyo kan kale ayaa la ciyaaray 135 jeer. Immisa jeer oo guud ayaa labada DVD-ga la ciyaari kar...",
+        "selected_question": "Maktabada waxaa ku jira laba DVD oo mid walba lagu ciyaari karo 1000 jeer ka hor inta aysan fashilmin. Haddii hal DVD la isticmaalo 356 jeer iyo 135 jeer kale, waa maxay tirada guud ee ciyaaraha ka haray labada DVD wadajir?"
+      }
+    ]
+  },
+  {
+    "lang": "swh_Latn",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.48650288140734,
+      "baseline_train_accuracy": 0.48846960167714887,
+      "created_at": "2026-07-15 10:26:17 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 2888,
+      "num_significant_rules": 895,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.47536012130401817,
+      "test_original_accuracy": 0.4981046247156937,
+      "test_selected_accuracy": 0.5526914329037149,
+      "test_selection": "/root/gsm8k_single_language_experiment/swh_Latn/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 175.77179681576953,
+      "tokens": 31.527672479150873,
+      "word_count": 28.263078089461715,
+      "num_count": 3.293404094010614,
+      "ascii_word_count": 23.05686125852919,
+      "ascii_word_rate": 0.7322124614203289,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.0242608036391205,
+      "if_condition": 0.21607278241091737,
+      "total_question": 0.3025018953752843,
+      "how_many": 0.33965125094768767,
+      "unit_or_rate": 0.6588324488248674,
+      "money": 0.4131918119787718,
+      "percent_fraction": 0.19484457922668688,
+      "comparison": 0.1152388172858226,
+      "n": 1319,
+      "accuracy": 0.6815769522365428,
+      "strict_accuracy": 0.6595905989385898
+    },
+    "bottom_score_collection": {
+      "chars": 212.76269901440486,
+      "tokens": 37.942380591357086,
+      "word_count": 34.38817285822593,
+      "num_count": 3.6004548900682334,
+      "ascii_word_count": 27.478392721758908,
+      "ascii_word_rate": 0.7180497190798449,
+      "placeholder_count": 0.002274450341167551,
+      "page_marker": 0.0,
+      "max_token_run": 2.5094768764215316,
+      "if_condition": 0.03639120545868082,
+      "total_question": 0.133434420015163,
+      "how_many": 0.04927975739196361,
+      "unit_or_rate": 0.5253980288097043,
+      "money": 0.2092494313874147,
+      "percent_fraction": 0.3017437452615618,
+      "comparison": 0.17361637604245642,
+      "n": 1319,
+      "accuracy": 0.27065959059893857,
+      "strict_accuracy": 0.23199393479909022
+    },
+    "selected_wins_collection": {
+      "chars": 208.01401869158877,
+      "tokens": 37.018691588785046,
+      "word_count": 33.799065420560744,
+      "num_count": 3.205607476635514,
+      "ascii_word_count": 27.294392523364486,
+      "ascii_word_rate": 0.7332684112851942,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.02803738317757,
+      "if_condition": 0.308411214953271,
+      "total_question": 0.32710280373831774,
+      "how_many": 0.3130841121495327,
+      "unit_or_rate": 0.616822429906542,
+      "money": 0.32710280373831774,
+      "percent_fraction": 0.2102803738317757,
+      "comparison": 0.18691588785046728,
+      "n": 214,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.9345794392523364
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "gani",
+        "pos_rate": 0.4162244124336619,
+        "neg_rate": 0.0576194086429113,
+        "delta": 0.35860500379075055,
+        "pos_count": 549,
+        "neg_count": 76
+      },
+      {
+        "token": "ngapi",
+        "pos_rate": 0.34040940106141016,
+        "neg_rate": 0.04927975739196361,
+        "delta": 0.29112964366944655,
+        "pos_count": 449,
+        "neg_count": 65
+      },
+      {
+        "token": "kiasi",
+        "pos_rate": 0.332827899924185,
+        "neg_rate": 0.11296436694465505,
+        "delta": 0.21986353297952993,
+        "pos_count": 439,
+        "neg_count": 149
+      },
+      {
+        "token": "ikiwa",
+        "pos_rate": 0.21607278241091737,
+        "neg_rate": 0.03639120545868082,
+        "delta": 0.17968157695223655,
+        "pos_count": 285,
+        "neg_count": 48
+      },
+      {
+        "token": "jumla",
+        "pos_rate": 0.30022744503411675,
+        "neg_rate": 0.133434420015163,
+        "delta": 0.16679302501895374,
+        "pos_count": 396,
+        "neg_count": 176
+      },
+      {
+        "token": "cha",
+        "pos_rate": 0.24791508718726307,
+        "neg_rate": 0.16148597422289612,
+        "delta": 0.08642911296436695,
+        "pos_count": 327,
+        "neg_count": 213
+      },
+      {
+        "token": "kama",
+        "pos_rate": 0.177407126611069,
+        "neg_rate": 0.10159211523881728,
+        "delta": 0.07581501137225172,
+        "pos_count": 234,
+        "neg_count": 134
+      },
+      {
+        "token": "nini",
+        "pos_rate": 0.07960576194086429,
+        "neg_rate": 0.01288855193328279,
+        "delta": 0.06671721000758149,
+        "pos_count": 105,
+        "neg_count": 17
+      },
+      {
+        "token": "kila",
+        "pos_rate": 0.489764973464746,
+        "neg_rate": 0.4313874147081122,
+        "delta": 0.05837755875663381,
+        "pos_count": 646,
+        "neg_count": 569
+      },
+      {
+        "token": "gharama",
+        "pos_rate": 0.11296436694465505,
+        "neg_rate": 0.0621683093252464,
+        "delta": 0.05079605761940865,
+        "pos_count": 149,
+        "neg_count": 82
+      },
+      {
+        "token": "anapata",
+        "pos_rate": 0.07278241091736164,
+        "neg_rate": 0.025018953752843062,
+        "delta": 0.047763457164518575,
+        "pos_count": 96,
+        "neg_count": 33
+      },
+      {
+        "token": "ana",
+        "pos_rate": 0.14783927217589082,
+        "neg_rate": 0.10159211523881728,
+        "delta": 0.04624715693707354,
+        "pos_count": 195,
+        "neg_count": 134
+      },
+      {
+        "token": "wangapi",
+        "pos_rate": 0.06444275966641395,
+        "neg_rate": 0.019711902956785442,
+        "delta": 0.04473085670962851,
+        "pos_count": 85,
+        "neg_count": 26
+      },
+      {
+        "token": "pesa",
+        "pos_rate": 0.06141015921152388,
+        "neg_rate": 0.018953752843062926,
+        "delta": 0.04245640636846096,
+        "pos_count": 81,
+        "neg_count": 25
+      },
+      {
+        "token": "saa",
+        "pos_rate": 0.1023502653525398,
+        "neg_rate": 0.06368460955269144,
+        "delta": 0.03866565579984836,
+        "pos_count": 135,
+        "neg_count": 84
+      },
+      {
+        "token": "bei",
+        "pos_rate": 0.09628506444275967,
+        "neg_rate": 0.05989385898407885,
+        "delta": 0.03639120545868082,
+        "pos_count": 127,
+        "neg_count": 79
+      },
+      {
+        "token": "fedha",
+        "pos_rate": 0.060652009097801364,
+        "neg_rate": 0.028051554207733132,
+        "delta": 0.03260045489006823,
+        "pos_count": 80,
+        "neg_count": 37
+      },
+      {
+        "token": "dola",
+        "pos_rate": 0.043214556482183475,
+        "neg_rate": 0.012130401819560273,
+        "delta": 0.031084154662623202,
+        "pos_count": 57,
+        "neg_count": 16
+      },
+      {
+        "token": "mangapi",
+        "pos_rate": 0.034874905231235785,
+        "neg_rate": 0.004548900682335102,
+        "delta": 0.030326004548900682,
+        "pos_count": 46,
+        "neg_count": 6
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 511,
+        "selected_variant_idx": 3,
+        "score": 681.2151749396776,
+        "target": "110",
+        "prediction": "110",
+        "original_question": "Gerald anafanya kazi katika daycare ambayo humlipa $30 kila siku. Alifanya kazi kwa wiki nzima na alitumia jumla ya $100. Ana pesa ngapi?",
+        "selected_question": "Ikiwa Gerald hupata $30 kila siku kutoka kwa kazi yake ya daycare na alifanya kazi kila siku kwa wiki, baada ya kutumia $100 kwa jumla, ana pesa ngapi?"
+      },
+      {
+        "source_idx": 179,
+        "selected_variant_idx": 1,
+        "score": 633.7669807641153,
+        "target": "130",
+        "prediction": "130",
+        "original_question": "Lloyd anapata $10 saa moja kwa masomo ya hesabu. Alifundisha 5 masaa kwa wiki ya kwanza na 8 masaa kwa wiki ya pili. Ni kiasi gani alipata kwa wiki mbili za kwanza?",
+        "selected_question": "Lloyd anapata $10 kwa saa ya kufundisha hesabu; alifanya kazi 5 saa katika wiki ya kwanza na 8 saa katika wiki ya pili. Ni kiasi gani cha fedha alichopata katika wiki hizo mbili?"
+      },
+      {
+        "source_idx": 599,
+        "selected_variant_idx": 1,
+        "score": 590.3101949268079,
+        "target": "48",
+        "prediction": "48",
+        "original_question": "Kwa sasa, duka la wanyama wa kufugwa lina mbwa 5, paka 2, na ndege 10.",
+        "selected_question": "Kuna mbwa 5, paka 2, na ndege 10 katika duka la wanyama wa kufugwa; wanyama hao wote wana miguu mingapi pamoja?"
+      },
+      {
+        "source_idx": 260,
+        "selected_variant_idx": 1,
+        "score": 582.5875978439708,
+        "target": "11",
+        "prediction": "11",
+        "original_question": "Vikombe viwili vya unga ni muhimu kwa ajili ya kufanya biskuti kadhaa. Carla ni kufanya biskuti 36 leo na biskuti 30 kesho. ni vikombe ngapi vya unga itakuwa Carla haja ya kuoka biskuti leo na kesho?",
+        "selected_question": "Ikiwa Carla hutumia vikombe viwili vya unga kwa kila kuki kumi na mbili, anahitaji vikombe vingapi vya unga kuoka kuki 36 leo na kuki 30 kesho pamoja?"
+      },
+      {
+        "source_idx": 159,
+        "selected_variant_idx": 1,
+        "score": 580.0882594881525,
+        "target": "15",
+        "prediction": "15",
+        "original_question": "Finn inaangalia 11 tadpoles kuogelea katika bwawa. Ghafla anaona 6 yao kuja nje ya kujificha kutoka chini ya lily pad, kisha anaona 2 yao kujificha chini ya mwamba. ni wangapi tadpoles anaweza Finn kuona katika bwawa sasa?",
+        "selected_question": "Finn kwanza anaona 11 tadp harakati katika bwawa, kisha 6 yao kuibuka kutoka chini ya lily pad, na baada ya 2 yao kujificha wenyewe chini ya mwamba; ni tadpoles ngapi kubaki inayoonekana kwa Finn?"
+      },
+      {
+        "source_idx": 1246,
+        "selected_variant_idx": 2,
+        "score": 578.7096476492239,
+        "target": "3360",
+        "prediction": "3360",
+        "original_question": "Ara alijiunga na timu ya mpira wa kikapu ya shule miaka minne iliyopita. Amekuwa akicheza michezo ya 40 kila mwaka. Ikiwa alama yake kwa kila mchezo ni 21 pointi, hesabu jumla ya pointi alizopata katika miaka minne.",
+        "selected_question": "Miaka minne baada ya kujiunga na timu ya mpira wa kikapu ya shule, Ara ameshiriki katika michezo ya 40 kila mwaka. Ikiwa atapata alama 21 katika kila mchezo, ni alama gani ya jumla ya alama kwa miaka hiyo minne?"
+      },
+      {
+        "source_idx": 940,
+        "selected_variant_idx": 3,
+        "score": 574.0539940732177,
+        "target": "280",
+        "prediction": "280",
+        "original_question": "Kwa ajili ya maadhimisho ya siku ya watoto, watoto ni kufanya mazoezi ya wingi katika uwepo wa Rais wa nchi. Wao kusimama katika safu 8 na kuna safu 7 kila kwa 5 shule mbalimbali. Je, kuna watoto wangapi wanaweza kuwa katika mazoezi?",
+        "selected_question": "Rais ataangalia mazoezi siku ya watoto ambapo kila safu ina watoto 8 na kila shule ina safu 7, na shule 5 zinahusika. Ni watoto wangapi watakuwapo katika mazoezi?"
+      },
+      {
+        "source_idx": 880,
+        "selected_variant_idx": 4,
+        "score": 565.9469434630098,
+        "target": "10",
+        "prediction": "10",
+        "original_question": "Sara ana kamba ambayo ni 20 mita. rafiki yake anataka kununua kamba kwa $2 mita. Sara ana mpango wa kutumia faida ya kununua kamba mpya, ambayo katika duka gharama $1.5 mita. kiasi gani cha fedha atakuwa na kushoto baada ya yeye kununua ...",
+        "selected_question": "Kwa kuwa ana kamba yenye urefu wa mita 20, rafiki ya Sara atalipa $2 kwa mita moja ili kuinunua. Sara anakusudia kutumia pesa hizo kununua kamba mpya inayogharimu $1.5 kwa mita moja. Baada ya kununua kamba hiyo mpya, atakuwa na pesa ngapi?"
+      },
+      {
+        "source_idx": 230,
+        "selected_variant_idx": 4,
+        "score": 549.9020614716716,
+        "target": "276000",
+        "prediction": "276000",
+        "original_question": "Mark hununua meli ya magari 12 kwa kampuni yake. Kila gari kuuzwa kwa $20,000. Yeye hulipa 10% kodi ya magari na kisha mwingine $1000 kwa usajili juu ya kila mmoja wao. Ni kiasi gani yeye kulipa kwa kila kitu?",
+        "selected_question": "Kampuni inayomilikiwa na Mark hununua magari 12 kwa $20,000 kila mmoja; kodi 10% inatumika kwa ununuzi na usajili $1000 inatozwa kwa kila gari. Analipa kiasi gani kwa jumla?"
+      },
+      {
+        "source_idx": 1302,
+        "selected_variant_idx": 3,
+        "score": 549.8471701366469,
+        "target": "72",
+        "prediction": "72",
+        "original_question": "Matthew ana mkusanyiko wa askari wa toy kipekee. Anataka kuuza kwa bei nzuri. Alipata mnunuzi ambaye ni tayari kulipa nusu mkusanyiko wake $5 kwa toy, na kwa nusu nyingine $7 kwa toy. Kama Matthew kukubaliwa na toleo hilo, ni kiasi gani ...",
+        "selected_question": "Ikiwa Matthew anauza askari-jeshi wake wa kipekee wa toy 12, akipokea $5 kwa kila nusu ya toys na $7 kwa kila nusu nyingine, atapata pesa ngapi?"
+      },
+      {
+        "source_idx": 512,
+        "selected_variant_idx": 2,
+        "score": 547.1377655322755,
+        "target": "120",
+        "prediction": "120",
+        "original_question": "Ikiwa mwalimu wake wa mazoezi ya mwili anamwambia aende kwa 8 na kila mzunguko ni 0.25 km, Hannah atahitaji kunywa mililita ngapi za maji? 60",
+        "selected_question": "Ikiwa Hannah anaendesha 8 raundi na kila raundi ni 0.25 km, na anahitaji 60 ml ya maji kwa kila kilomita, ni mililita ngapi za maji anapaswa kunywa?"
+      },
+      {
+        "source_idx": 1008,
+        "selected_variant_idx": 2,
+        "score": 535.5620847661614,
+        "target": "230",
+        "prediction": "230",
+        "original_question": "Matteo kusafiri kwa 55 maili kwa saa kwa 4 masaa. Shandy kusafiri kwa 45 maili kwa saa kwa 10 masaa.",
+        "selected_question": "Ikiwa Matteo anaendelea kusafiri kwa mwendo wa 55 kwa saa 4 na Shandy anaendelea kusafiri kwa mwendo wa 45 kwa saa 10, umbali wa Shandy unazidi wa Matteo kwa kilometa ngapi?"
+      }
+    ]
+  },
+  {
+    "lang": "yor_Latn",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.22054140127388536,
+      "baseline_train_accuracy": 0.22213301217717116,
+      "created_at": "2026-07-15 17:11:13 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 3359,
+      "num_significant_rules": 888,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.21152388172858225,
+      "test_original_accuracy": 0.1683093252463988,
+      "test_selected_accuracy": 0.3100833965125095,
+      "test_selection": "/root/gsm8k_single_language_experiment/yor_Latn/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 188.85746777862016,
+      "tokens": 42.09249431387415,
+      "word_count": 38.965883244882484,
+      "num_count": 3.1728582259287337,
+      "ascii_word_count": 5.913570887035633,
+      "ascii_word_rate": 0.14486517049651063,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.1235784685367702,
+      "if_condition": 0.4981046247156937,
+      "total_question": 0.011372251705837756,
+      "how_many": 0.025018953752843062,
+      "unit_or_rate": 0.014404852160727824,
+      "money": 0.33206974981046244,
+      "percent_fraction": 0.13570887035633056,
+      "comparison": 0.15314632297194844,
+      "n": 1319,
+      "accuracy": 0.41698256254738436,
+      "strict_accuracy": 0.400303260045489
+    },
+    "bottom_score_collection": {
+      "chars": 229.6398786959818,
+      "tokens": 49.26459438968916,
+      "word_count": 45.517058377558755,
+      "num_count": 3.954510993176649,
+      "ascii_word_count": 3.937073540561031,
+      "ascii_word_rate": 0.13045388370886113,
+      "placeholder_count": 0.001516300227445034,
+      "page_marker": 0.0,
+      "max_token_run": 9.146322971948447,
+      "if_condition": 0.2175890826383624,
+      "total_question": 0.0,
+      "how_many": 0.000758150113722517,
+      "unit_or_rate": 0.017437452615617893,
+      "money": 0.2896133434420015,
+      "percent_fraction": 0.1106899166034875,
+      "comparison": 0.11675511751326763,
+      "n": 1319,
+      "accuracy": 0.06444275966641395,
+      "strict_accuracy": 0.047763457164518575
+    },
+    "selected_wins_collection": {
+      "chars": 180.40304182509504,
+      "tokens": 39.96958174904943,
+      "word_count": 36.539923954372625,
+      "num_count": 3.4980988593155895,
+      "ascii_word_count": 5.783269961977187,
+      "ascii_word_rate": 0.14322981725878908,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.1216730038022813,
+      "if_condition": 0.38783269961977185,
+      "total_question": 0.0076045627376425855,
+      "how_many": 0.026615969581749048,
+      "unit_or_rate": 0.022813688212927757,
+      "money": 0.3193916349809886,
+      "percent_fraction": 0.1520912547528517,
+      "comparison": 0.1482889733840304,
+      "n": 263,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.9277566539923955
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "iye",
+        "pos_rate": 0.6178923426838514,
+        "neg_rate": 0.3017437452615618,
+        "delta": 0.3161485974222896,
+        "pos_count": 815,
+        "neg_count": 398
+      },
+      {
+        "token": "mélòó",
+        "pos_rate": 0.34040940106141016,
+        "neg_rate": 0.10765731614859743,
+        "delta": 0.23275208491281274,
+        "pos_count": 449,
+        "neg_count": 142
+      },
+      {
+        "token": "owó",
+        "pos_rate": 0.2259287338893101,
+        "neg_rate": 0.1417740712661107,
+        "delta": 0.0841546626231994,
+        "pos_count": 298,
+        "neg_count": 187
+      },
+      {
+        "token": "gbogbo",
+        "pos_rate": 0.17816527672479152,
+        "neg_rate": 0.0978013646702047,
+        "delta": 0.08036391205458682,
+        "pos_count": 235,
+        "neg_count": 129
+      },
+      {
+        "token": "fún",
+        "pos_rate": 0.3957543593631539,
+        "neg_rate": 0.32752084912812734,
+        "delta": 0.06823351023502655,
+        "pos_count": 522,
+        "neg_count": 432
+      },
+      {
+        "token": "gbà",
+        "pos_rate": 0.11675511751326763,
+        "neg_rate": 0.05458680818802123,
+        "delta": 0.0621683093252464,
+        "pos_count": 154,
+        "neg_count": 72
+      },
+      {
+        "token": "àti",
+        "pos_rate": 0.34874905231235787,
+        "neg_rate": 0.2896133434420015,
+        "delta": 0.05913570887035635,
+        "pos_count": 460,
+        "neg_count": 382
+      },
+      {
+        "token": "gba",
+        "pos_rate": 0.15390447308567096,
+        "neg_rate": 0.09628506444275967,
+        "delta": 0.05761940864291129,
+        "pos_count": 203,
+        "neg_count": 127
+      },
+      {
+        "token": "jẹ́",
+        "pos_rate": 0.07505686125852919,
+        "neg_rate": 0.021986353297952996,
+        "delta": 0.05307050796057619,
+        "pos_count": 99,
+        "neg_count": 29
+      },
+      {
+        "token": "rẹ̀",
+        "pos_rate": 0.07354056103108415,
+        "neg_rate": 0.028051554207733132,
+        "delta": 0.045489006823351025,
+        "pos_count": 97,
+        "neg_count": 37
+      },
+      {
+        "token": "awọn",
+        "pos_rate": 0.04700530705079606,
+        "neg_rate": 0.002274450341167551,
+        "delta": 0.04473085670962851,
+        "pos_count": 62,
+        "neg_count": 3
+      },
+      {
+        "token": "san",
+        "pos_rate": 0.09173616376042457,
+        "neg_rate": 0.04927975739196361,
+        "delta": 0.04245640636846096,
+        "pos_count": 121,
+        "neg_count": 65
+      },
+      {
+        "token": "láti",
+        "pos_rate": 0.22062168309325247,
+        "neg_rate": 0.18043972706595907,
+        "delta": 0.04018195602729341,
+        "pos_count": 291,
+        "neg_count": 238
+      },
+      {
+        "token": "ati",
+        "pos_rate": 0.04169825625473844,
+        "neg_rate": 0.003032600454890068,
+        "delta": 0.038665655799848375,
+        "pos_count": 55,
+        "neg_count": 4
+      },
+      {
+        "token": "láàárín",
+        "pos_rate": 0.0712661106899166,
+        "neg_rate": 0.0356330553449583,
+        "delta": 0.0356330553449583,
+        "pos_count": 94,
+        "neg_count": 47
+      },
+      {
+        "token": "kọ̀ọ̀kan",
+        "pos_rate": 0.15769522365428354,
+        "neg_rate": 0.12282031842304776,
+        "delta": 0.03487490523123578,
+        "pos_count": 208,
+        "neg_count": 162
+      },
+      {
+        "token": "nínú",
+        "pos_rate": 0.23351023502653526,
+        "neg_rate": 0.2001516300227445,
+        "delta": 0.03335860500379076,
+        "pos_count": 308,
+        "neg_count": 264
+      },
+      {
+        "token": "lójoojúmọ́",
+        "pos_rate": 0.09097801364670205,
+        "neg_rate": 0.058377558756633814,
+        "delta": 0.032600454890068235,
+        "pos_count": 120,
+        "neg_count": 77
+      },
+      {
+        "token": "kan",
+        "pos_rate": 0.41470811220621684,
+        "neg_rate": 0.38362395754359363,
+        "delta": 0.03108415466262321,
+        "pos_count": 547,
+        "neg_count": 506
+      },
+      {
+        "token": "ọ̀sẹ̀",
+        "pos_rate": 0.0712661106899166,
+        "neg_rate": 0.04094010614101592,
+        "delta": 0.030326004548900685,
+        "pos_count": 94,
+        "neg_count": 54
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 646,
+        "selected_variant_idx": 1,
+        "score": 1507.0358664397252,
+        "target": "79",
+        "prediction": "79",
+        "original_question": "Alisa fi kẹ̀kẹ́ rin 12 kìlómítà ní wákàtí kan fún wákàtí kan. Stanley fi kẹ̀kẹ́ rin 10 kìlómítà ní wákàtí kan fún wákàtí kan. 4.5 2.5",
+        "selected_question": "Al Alisa gun kẹ̀kẹ́ rẹ̀ ní 12 mílíọ̀nù ní wákàtí kan fún wákàtí 4.5, nígbà tí Stanley gun kẹ̀kẹ́ rẹ̀ ní 10 mílíọ̀nù ní wákàtí kan fún wákàtí 2.5; kìlómítà mélòó ni wọ́n jọ rìn?"
+      },
+      {
+        "source_idx": 850,
+        "selected_variant_idx": 4,
+        "score": 1478.299172232331,
+        "target": "70",
+        "prediction": "70",
+        "original_question": "Ọ̀gbẹ́ni Smith ní oko méjì, Farm X àti Farm Y. Ó ní àwọn ewúrẹ́ 55 nínú Farm X àti àwọn ewúrẹ́ 45 nínú Farm Y. Ó ta àwọn ewúrẹ́ 10 látinú Farm X àti àwọn ewúrẹ́ tó pọ̀ ju iye wọn lọ nínú Farm Y.",
+        "selected_question": "Ọ̀gbẹ́ni Smith ní àwọn ewúrẹ́ 55 ní Àgbẹ̀ X àti àwọn ewúrẹ́ 45 ní Àgbẹ̀ Y. Lẹ́yìn tí ó ti ta àwọn ewúrẹ́ 10 láti Àgbẹ̀ X àti ìlọ́po méjì iye yẹn láti Àgbẹ̀ Y, iye ewúrẹ́ tó kù ní àgbẹ̀ méjèèjì náà wá jẹ́ mélòó?"
+      },
+      {
+        "source_idx": 704,
+        "selected_variant_idx": 4,
+        "score": 1474.0454869870066,
+        "target": "50",
+        "prediction": "50",
+        "original_question": "Bí Gerald bá ná owó $10 lórí ìwé kan, iye owó wo ló kù fún un? $100 3 2",
+        "selected_question": "Ger Gerald àti Julia pín $100 ní ìbámu pẹ̀lú 3:2 ìdàpò; lẹ́yìn tí Gerald ná $10 lórí ìwé kan, iye wo ló kù fún un?"
+      },
+      {
+        "source_idx": 1057,
+        "selected_variant_idx": 2,
+        "score": 1468.3159231785767,
+        "target": "24",
+        "prediction": "24",
+        "original_question": "Bí wọ́n bá ń wo fíìmù lópin ọ̀sẹ̀, iye fíìmù wo ni wọ́n lè wo láàárín ọ̀sẹ̀ 4? 4",
+        "selected_question": "J Jill àtàwọn ọ̀rẹ́ rẹ̀ máa ń wo fíìmù 4 ní ọjọ́ Saturday, wọ́n á sì máa wo ìdajì iye yẹn ní ọjọ́ Sunday; bí wọ́n bá ń wo irú fíìmù yìí fún ọ̀sẹ̀ 4, iye fíìmù wo ni wọ́n máa wò?"
+      },
+      {
+        "source_idx": 1132,
+        "selected_variant_idx": 2,
+        "score": 1465.7161648694862,
+        "target": "45000",
+        "prediction": "45000",
+        "original_question": "Valerie ń gba $5000 ní oṣù kan, 1/2 nínú owó tí arákùnrin rẹ̀ ń gbà. bí ìyá wọn bá ń gba ìlọ́po méjì owó oṣù wọn pa pọ̀, iye owó tí gbogbo wọn ní pa pọ̀ ni?",
+        "selected_question": "Bí owó oṣù Valerie bá jẹ́ $5000 tí iye yẹn sì jẹ́ 1/2 lára owó oṣù arákùnrin rẹ̀, tí ìyá wọn sì ń rí ìlọ́po méjì iye tí àwọn àbúrò wọn méjèèjì ń rí pa pọ̀, iye owó wo ni gbogbo wọn jọ ń rí?"
+      },
+      {
+        "source_idx": 663,
+        "selected_variant_idx": 4,
+        "score": 1462.4802356617001,
+        "target": "193",
+        "prediction": "193",
+        "original_question": "James máa ń kó ìwé ìròyìn 600 lọ sí àgbègbè A lójoojúmọ́, ó máa ń kó àwọn ìwé ìròyìn 198 lọ sí àgbègbè B, ó sì máa ń kó àwọn ìwé ìròyìn 209 lọ sí àgbègbè C. Iye ìwé ìròyìn wo ló máa ń kó lọ sí àgbègbè B?",
+        "selected_question": "Gbogbo ìwé ìròyìn tí James ń kó lọ lójoojúmọ́ jẹ́ 600; lẹ́yìn tó ti kó 198 lọ sí A District àti 209 lọ sí C District, iye ìwé ìròyìn tó kù fún District B ni?"
+      },
+      {
+        "source_idx": 723,
+        "selected_variant_idx": 3,
+        "score": 1455.9812434274982,
+        "target": "160",
+        "prediction": "160",
+        "original_question": "Bí a bá fi 20 àwọn àga tí ó wà láàyè àti 13 àwọn àga tí ó wà fún ọmọ ránṣẹ́ sí ọ̀jáfáfá láti tún un ṣe, àga mélòó ló kù fún ilé ìtajà náà? 170 23",
+        "selected_question": "Àwọn àga 170 tí ó wà ní àlàfo àti àga 23 tí ó wà fún àwọn ọmọdé wà nínú ilé ìjẹun; lẹ́yìn tí a bá ti rán 20 àwọn àga tí ó wà ní àlàfo àti 13 àwọn àga ọmọdé lọ sí àtúnṣe, àga mélòó ni ilé ìjẹun náà ṣì ní?"
+      },
+      {
+        "source_idx": 786,
+        "selected_variant_idx": 3,
+        "score": 1451.0469009218968,
+        "target": "142",
+        "prediction": "142",
+        "original_question": "Ricardo gbin tòmátì àti ewébẹ̀ nínú ọgbà rẹ̀. Ewébẹ̀ kọ̀ọ̀kan máa ń mú tòmátì 22 jáde, ewébẹ̀ kọ̀ọ̀kan sì máa ń mú ewébẹ̀ 4. 5 8",
+        "selected_question": "Bí àwọn ewéko tòmátì 5 bá ń so tòmátì 22, tí àwọn ewéko àjàrà 8 sì ń so àjàrà 4, èso mélòó ni Ricardo máa rí nínú ọgbà rẹ̀?"
+      },
+      {
+        "source_idx": 512,
+        "selected_variant_idx": 2,
+        "score": 1433.2117505662782,
+        "target": "120",
+        "prediction": "120",
+        "original_question": "Bí olùkọ́ rẹ̀ tó ń kọ́ ọ ní eré ìdárayá bá sọ fún un pé kó sáré 8, tí ìyí kọ̀ọ̀kan sì jẹ́ 0.25 kìlómítà, mílílíọ̀nù omi mélòó ló máa nílò láti mu? 60",
+        "selected_question": "Bí Hannah bá ń sáré 8 ìyí, tí ìyí kọ̀ọ̀kan sì jẹ́ 0.25 kìlómítà, tó sì nílò 60 mílílíìlìtì omi ní kìlómítà kan, mílílíìlìtì omi mélòó ló yẹ kóun mu?"
+      },
+      {
+        "source_idx": 268,
+        "selected_variant_idx": 5,
+        "score": 1430.4602805991465,
+        "target": "1375",
+        "prediction": "1375",
+        "original_question": "Bí àpẹẹrẹ, bí ẹnì kan bá ra ìwé ìròyìn, ó máa ń ná $5 owó, tó sì máa ń ná $75 owó lórí tẹlifíṣọ̀n, ó máa ń ná 50 owó lórí ìwé ìròyìn, ó sì máa ń ná 15 owó lórí tẹlifíṣọ̀n.",
+        "selected_question": "Níwọ̀n bí ìpolówó ọjà ìwé ìròyìn kọ̀ọ̀kan ti ná $5 àti ìpolówó ọjà tẹlifíṣọ̀n kọ̀ọ̀kan ti ná $75, àti pé aṣojú náà rà ìpolówó ọjà ìwé ìròyìn 50 àti ìpolówó ọjà tẹlifíṣọ̀n 15, iye owó wo ni èyí dúró fún?"
+      },
+      {
+        "source_idx": 302,
+        "selected_variant_idx": 5,
+        "score": 1429.8461095125485,
+        "target": "15",
+        "prediction": "15",
+        "original_question": "Annika mú $50 wá sí ibi ìtajà ìlú. Ó ná ìdajì nínú owó náà lórí oúnjẹ àti oúnjẹ àjẹjù, ó sì ná ìkejì lórí àwọn ìrìn àjò. $10",
+        "selected_question": "$50 ni iye tí Annika ti bẹ̀rẹ̀ sí í ná ní ibi ìtajà náà; lẹ́yìn tí ó ti ná ìdajì owó rẹ̀ sórí oúnjẹ àti oúnjẹ àjẹjù àti $10 míì lórí àwọn ìrìn àjò, iye dọ́là tó kù ni?"
+      },
+      {
+        "source_idx": 68,
+        "selected_variant_idx": 3,
+        "score": 1428.8104658556001,
+        "target": "36",
+        "prediction": "36",
+        "original_question": "bí àwọn ọmọbìnrin 60 àti àwọn ọmọ ilé ìwé 5 bá wà fún olùkọ́ kọ̀ọ̀kan, olùkọ́ mélòó ló wà?",
+        "selected_question": "Ní ilé ìwé Dókítà Wertz, àwọn ọmọkùnrin pọ̀ ju àwọn ọmọbìnrin lọ ní ìlọ́po méjì. Níwọ̀n bí àwọn ọmọbìnrin 60 ti wà níbẹ̀, tí iye àwọn akẹ́kọ̀ọ́ sì jẹ́ 5 fún olùkọ́ kọ̀ọ̀kan, iye olùkọ́ wo la nílò?"
+      }
+    ]
+  },
+  {
+    "lang": "zul_Latn",
+    "analysis_summary": {
+      "baseline_all_accuracy": 0.3046898695784046,
+      "baseline_train_accuracy": 0.3073955127347339,
+      "created_at": "2026-07-16 17:06:58 UTC",
+      "fdr": 0.05,
+      "min_bucket_n": 100,
+      "num_bucket_tests": 3184,
+      "num_significant_rules": 870,
+      "sid_buckets": "/root/gsm8k_single_language_experiment/zul_Latn/analysis/sid_buckets.parquet",
+      "significant_sid_rules": "/root/gsm8k_single_language_experiment/zul_Latn/analysis/significant_sid_rules.parquet",
+      "test_all_variant_accuracy": 0.28936062673742735,
+      "test_original_accuracy": 0.266868840030326,
+      "test_selected_accuracy": 0.33813495072024263,
+      "test_selection": "/root/gsm8k_single_language_experiment/zul_Latn/analysis/test_selection.parquet"
+    },
+    "top_score_collection": {
+      "chars": 186.25170583775588,
+      "tokens": 23.53601213040182,
+      "word_count": 20.528430629264594,
+      "num_count": 3.074298711144807,
+      "ascii_word_count": 20.590598938589842,
+      "ascii_word_rate": 0.8709603700097373,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.020470053070508,
+      "if_condition": 0.37680060652009095,
+      "total_question": 0.01061410159211524,
+      "how_many": 0.10462471569370735,
+      "unit_or_rate": 0.133434420015163,
+      "money": 0.3419257012888552,
+      "percent_fraction": 0.12585291887793784,
+      "comparison": 0.11902956785443518,
+      "n": 1319,
+      "accuracy": 0.4935557240333586,
+      "strict_accuracy": 0.47763457164518575
+    },
+    "bottom_score_collection": {
+      "chars": 201.4139499620925,
+      "tokens": 25.69522365428355,
+      "word_count": 22.079605761940865,
+      "num_count": 4.277482941622441,
+      "ascii_word_count": 21.72251705837756,
+      "ascii_word_rate": 0.838236898229667,
+      "placeholder_count": 0.000758150113722517,
+      "page_marker": 0.0,
+      "max_token_run": 2.533737680060652,
+      "if_condition": 0.2441243366186505,
+      "total_question": 0.0037907505686125853,
+      "how_many": 0.0356330553449583,
+      "unit_or_rate": 0.07808946171341925,
+      "money": 0.3305534495830174,
+      "percent_fraction": 0.13874147081122062,
+      "comparison": 0.1326762699014405,
+      "n": 1319,
+      "accuracy": 0.15011372251705837,
+      "strict_accuracy": 0.13115996967399546
+    },
+    "selected_wins_collection": {
+      "chars": 201.8271028037383,
+      "tokens": 25.523364485981308,
+      "word_count": 22.2803738317757,
+      "num_count": 3.303738317757009,
+      "ascii_word_count": 22.252336448598133,
+      "ascii_word_rate": 0.8670353529566769,
+      "placeholder_count": 0.0,
+      "page_marker": 0.0,
+      "max_token_run": 1.0327102803738317,
+      "if_condition": 0.3177570093457944,
+      "total_question": 0.028037383177570093,
+      "how_many": 0.08878504672897196,
+      "unit_or_rate": 0.13551401869158877,
+      "money": 0.3411214953271028,
+      "percent_fraction": 0.11214953271028037,
+      "comparison": 0.18691588785046728,
+      "n": 214,
+      "accuracy": 1.0,
+      "strict_accuracy": 0.9158878504672897
+    },
+    "top_vs_bottom_token_enrichment": [
+      {
+        "token": "uma",
+        "pos_rate": 0.37680060652009095,
+        "neg_rate": 0.2441243366186505,
+        "delta": 0.13267626990144046,
+        "pos_count": 497,
+        "neg_count": 322
+      },
+      {
+        "token": "malini",
+        "pos_rate": 0.15769522365428354,
+        "neg_rate": 0.04700530705079606,
+        "delta": 0.11068991660348748,
+        "pos_count": 208,
+        "neg_count": 62
+      },
+      {
+        "token": "mangaki",
+        "pos_rate": 0.1068991660348749,
+        "neg_rate": 0.028051554207733132,
+        "delta": 0.07884761182714177,
+        "pos_count": 141,
+        "neg_count": 37
+      },
+      {
+        "token": "bangaki",
+        "pos_rate": 0.10462471569370735,
+        "neg_rate": 0.0356330553449583,
+        "delta": 0.06899166034874904,
+        "pos_count": 138,
+        "neg_count": 47
+      },
+      {
+        "token": "ngamunye",
+        "pos_rate": 0.133434420015163,
+        "neg_rate": 0.07657316148597422,
+        "delta": 0.05686125852918879,
+        "pos_count": 176,
+        "neg_count": 101
+      },
+      {
+        "token": "futhi",
+        "pos_rate": 0.42835481425322214,
+        "neg_rate": 0.3821076573161486,
+        "delta": 0.04624715693707354,
+        "pos_count": 565,
+        "neg_count": 504
+      },
+      {
+        "token": "amangaki",
+        "pos_rate": 0.11675511751326763,
+        "neg_rate": 0.07429871114480667,
+        "delta": 0.04245640636846096,
+        "pos_count": 154,
+        "neg_count": 98
+      },
+      {
+        "token": "zingaki",
+        "pos_rate": 0.0667172100075815,
+        "neg_rate": 0.02577710386656558,
+        "delta": 0.040940106141015925,
+        "pos_count": 88,
+        "neg_count": 34
+      },
+      {
+        "token": "esewonke",
+        "pos_rate": 0.04397270659590599,
+        "neg_rate": 0.006065200909780136,
+        "delta": 0.03790750568612586,
+        "pos_count": 58,
+        "neg_count": 8
+      },
+      {
+        "token": "iyini",
+        "pos_rate": 0.04397270659590599,
+        "neg_rate": 0.006065200909780136,
+        "delta": 0.03790750568612586,
+        "pos_count": 58,
+        "neg_count": 8
+      },
+      {
+        "token": "ngayinye",
+        "pos_rate": 0.13191811978771797,
+        "neg_rate": 0.09552691432903715,
+        "delta": 0.036391205458680825,
+        "pos_count": 174,
+        "neg_count": 126
+      },
+      {
+        "token": "ngalinye",
+        "pos_rate": 0.12964366944655042,
+        "neg_rate": 0.09401061410159212,
+        "delta": 0.03563305534495831,
+        "pos_count": 171,
+        "neg_count": 124
+      },
+      {
+        "token": "engu-",
+        "pos_rate": 0.053828658074298714,
+        "neg_rate": 0.021986353297952996,
+        "delta": 0.03184230477634572,
+        "pos_count": 71,
+        "neg_count": 29
+      },
+      {
+        "token": "ngemva",
+        "pos_rate": 0.1470811220621683,
+        "neg_rate": 0.1152388172858226,
+        "delta": 0.03184230477634571,
+        "pos_count": 194,
+        "neg_count": 152
+      }
+    ],
+    "selected_win_examples": [
+      {
+        "source_idx": 420,
+        "selected_variant_idx": 2,
+        "score": 618.7731253531787,
+        "target": "17000",
+        "prediction": "17000",
+        "original_question": "Ukuze akhokhele isitolo sakhe, uMnu.Josue wacela imali emabhange amabili.Ibhange lokuqala lamnika $4000, futhi inkampani yesibili yamnika kabili.Uma ekuqaleni wayene- $5000 enhlokodolobha, unemali engakanani manje?",
+        "selected_question": "Njengoba kakade wayene- $5000 enhlokodolobha, uMnu Josue wathola $4000 ebhange elilodwa futhi wathola imali ephindwe kabili kwenye; unemali engakanani manje?"
+      },
+      {
+        "source_idx": 816,
+        "selected_variant_idx": 1,
+        "score": 616.666529999043,
+        "target": "4500",
+        "prediction": "4500",
+        "original_question": "UJohane uya emakethe futhi uthenga izimbuzi 3 nge-P1 ngayinye nezinkomo 2 nge-P3 ngayinye. $500 $1500",
+        "selected_question": "UJohane uthenga 3 izimbuzi nge $500 ngayinye futhi uthenga 2 nezinkomo nge $1500 ngayinye; usebenzisa malini esewonke?"
+      },
+      {
+        "source_idx": 72,
+        "selected_variant_idx": 3,
+        "score": 605.3846339887072,
+        "target": "221",
+        "prediction": "221",
+        "original_question": "Uma uTommy ethengisa u-P2 wama-brownies no-P3 wama-cheesecake, uTommy uthola malini? $3 $4 43 23",
+        "selected_question": "Uma uTommy ethengisa ama-brownies 43 nge- $3 ngesicucu ngasinye nama-cheesecake 23 nge- $4 ngesicucu ngasinye, uqoqa malini?"
+      },
+      {
+        "source_idx": 1150,
+        "selected_variant_idx": 5,
+        "score": 592.9597338199004,
+        "target": "21",
+        "prediction": "21",
+        "original_question": "UPatricia unezimbali 30. wanika unina izimbali 24. wathenga izimbali 15 eziningi.",
+        "selected_question": "Uma ekuqaleni uPatricia wayenama-rose 30, wanika unina 24, futhi kamuva wathenga amanye 15, manje unama-rose amangaki?"
+      },
+      {
+        "source_idx": 1191,
+        "selected_variant_idx": 1,
+        "score": 562.5172495891754,
+        "target": "100",
+        "prediction": "100",
+        "original_question": "Uma izinwele zakhe zaqala 10 ngamasentimitha futhi zaphela 8, kwakubiza malini ukuzisika nokuzifaka umbala? $40 $30",
+        "selected_question": "Izinwele zikaMay zidinga umbala obiza $40 nokugunda okukhokhiswa $30 ngensentimitha ngayinye; izinwele zakhe zisuka 10 kuya 8, ngakho-ke ukhokha malini?"
+      },
+      {
+        "source_idx": 387,
+        "selected_variant_idx": 5,
+        "score": 554.5345836395547,
+        "target": "36",
+        "prediction": "36",
+        "original_question": "Imali yokugubha $2 neyokugubha $3. Kubiza malini ukucisha 6 neyokugubha 8?",
+        "selected_question": "6 amasula ($2 ngamunye) namapeni 8 ($3 ngamunye) ndawonye angabiza malini?"
+      },
+      {
+        "source_idx": 1184,
+        "selected_variant_idx": 1,
+        "score": 532.8766199086488,
+        "target": "306",
+        "prediction": "306",
+        "original_question": "Ukuze afudumale ebusika, u-Ali wayala amakhilogremu 850 amalahle. Amalahle athunyelwa emasakeni 50 kg, abiza $18 iyunithi ngayinye.",
+        "selected_question": "U-Ali udinga ukufudumeza indlu yakhe ebusika futhi ubeke i-oda lama-kilogram 850 amalahle, atholakala ngezikhwama 50 kg ngalinye futhi isikhwama ngasinye sibiza $18; iyini izindleko eziphelele ze-oda lakhe?"
+      },
+      {
+        "source_idx": 365,
+        "selected_variant_idx": 4,
+        "score": 532.4653938354633,
+        "target": "18",
+        "prediction": "18",
+        "original_question": "Uma kunenani lamantombazane eliphindwe kabili kunelabafana, bangaki izingane ezikhona epaki? 6",
+        "selected_question": "Uma epaki kunamantombazane 6 namadodana aphindwe kabili kunamantombazane, zingaki izingane esewonke?"
+      },
+      {
+        "source_idx": 717,
+        "selected_variant_idx": 4,
+        "score": 528.1474764354028,
+        "target": "5",
+        "prediction": "5",
+        "original_question": "Uma uthenge 6 amapeni ne 8 ama- eraser bese ukhokha $10, uzothola imali engakanani? $0.50 $0.25",
+        "selected_question": "Ngemva kokukhokha $10 ngamakhrayoni angu- 6 ngentengo ka- $0.50 ngamunye nama-eraser angu- 8 ngentengo ka- $0.25 ngamunye, uyothola malini?"
+      },
+      {
+        "source_idx": 414,
+        "selected_variant_idx": 2,
+        "score": 524.8468994050164,
+        "target": "56",
+        "prediction": "56",
+        "original_question": "UMisha ukhetha amabhulukhwe 4 ku- 30% ngaphandle kwesitolo. Intengo evamile yebhulukhwe ngalinye ingu- $20.",
+        "selected_question": "Uma uMisha ethenga amabhulukhwe 4 anesaphulelo 30% futhi ngokuvamile ngalinye libiza $20,, uyowabiza malini lawo mabhulukhwe?"
+      },
+      {
+        "source_idx": 342,
+        "selected_variant_idx": 2,
+        "score": 523.3702693136436,
+        "target": "87",
+        "prediction": "87",
+        "original_question": "Umngane kaLaurel wamupha izingubo 24 zengane ingane yakhe eyayingasadingi. Emcimbini wakhe wokukhulelwa, uLaurel wathola izingubo ezintsha zezingane eziphindwe kabili. Khona-ke, umama kaLaurel wamupha ezinye izingubo 15 zengane.",
+        "selected_question": "Ngemva kokuba umngane wakhe emnikeze izingubo zengane 24 ezazingasafuneki, uLaurel wathola izingubo ezintsha eziphindwe kabili emcimbini wakhe wokukhulelwa, futhi kamuva unina wengeza 15 ngaphezulu; ingakanani ingqikithi yezingubo zengan..."
+      },
+      {
+        "source_idx": 778,
+        "selected_variant_idx": 3,
+        "score": 517.7740796207086,
+        "target": "38",
+        "prediction": "38",
+        "original_question": "E-Pick Your Own orchard yezithelo yasendaweni, wawungazitholela amaparele akho nge-P0 ngesonto ngalinye, ama-plums nge-P1 ngesonto ngalinye futhi ama-apricot nge-P2 ngesonto ngalinye. Uma uWinston ethola amaparele 6 ngesonto ngalinye, am...",
+        "selected_question": "E-Pick Your Own Fruit Garden, intengo yephondo ngalinye ingama- $2.00 ngamampentshisi, $1.00 ngamaplamu, ne- $3.00 ngamapulangwe. UWinston ukhetha 6 ngamampentshisi, 8 ngamaplamu, ne- 6 ngamapulangwe; uchitha malini?"
+      }
+    ]
+  }
+]
