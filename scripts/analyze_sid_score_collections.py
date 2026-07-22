@@ -321,7 +321,7 @@ def write_md(results: list[dict], path: Path) -> None:
                 f"- source_idx `{ex['source_idx']}`, selected variant `{ex['selected_variant_idx']}`, target `{ex['target']}`, prediction `{ex['prediction']}`",
                 f"  - Original v0: {ex['original_question']}",
                 f"  - SID-selected: {ex['selected_question']}",
-                "  - 中文解读：SID 选择的题面通常把关键数量、单位和求解目标放在更局部、更直接的句式中，降低模型需要从翻译噪声中恢复约束的负担。",
+                "  - 中文解读：SID 选择的题面通常把关键数量、单位和求解目标放在更局部、更直接的句式中，减少模型跨从句整合数量关系的负担。",
             ]
 
     lines += [
